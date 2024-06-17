@@ -16,14 +16,16 @@
     - events
     - projects
     - publications
-    - talks
     - links
-    - about: board, members and past members
+    - about: board, members and past members (destacados?), past presidents
   - principal event a publicar: ISA FORUM, call for sections
-  - para las publicaciones, puede quedar como un to-do, pero es lo más relevante y debería adaptarse al formato de blog. Puede ser manual, o lo mejor sería ingresar vía Zotero como en mi academic. Igual requiere buena pega de script 
+  - para las publicaciones, puede quedar como un to-do, pero es lo más relevante y debería adaptarse al formato de blog. Puede ser manual, o lo mejor sería ingresar vía Zotero como en mi academic. Igual requiere buena pega de script (fase 2.0)
   - cambiaría los colores del logo RC42, uni nuevo tal vez con el background del container inicial
 
 - Puede ser buena idea trabajar esto como un project de github
 
 - Generar un formulario para las contribuciones, tal vez que se pueda entrar con el correo autentificado de los miembros
 
+- en el about,  el board en formato "meet the team" en el who we are, y ahí por ahora el board, luego la lista de miembros en 2 columnas por ahora, luego mejorar
+
+- adaptar footer
