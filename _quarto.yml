@@ -84,7 +84,7 @@ website:
   page-footer:
     background: "#000000"
     left: |
-      [Julio Iturra, 2024](/LICENCE.md)
+      [2024](/LICENCE.md)
     center:
       - href: https://github.com/realworlddatascience
         icon: github
