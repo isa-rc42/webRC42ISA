@@ -1,0 +1,55 @@
+---
+layout: page
+title: Links
+title-block-banner: true
+---
+
+# Research Resources for Sociological Social Psychology
+
+## Journals
+
+-   [Journal of Personality and Social Psychology](https://www.apa.org/pubs/journals/psp)
+-   [Social Psychology Quarterly](https://journals.sagepub.com/home/spq)
+-   [Journal of Experimental Social Psychology](https://www.journals.elsevier.com/journal-of-experimental-social-psychology)
+-   [Personality and Social Psychology Bulletin](https://journals.sagepub.com/home/psp)
+-   [Social Psychological and Personality Science](https://journals.sagepub.com/home/spp)
+
+## Books
+
+-   **Social Psychology** by Elliot Aronson, Timothy D. Wilson, and Robin M. Akert [Link](https://www.pearson.com/store/p/social-psychology/P100000897676/9780134700770)
+-   **Handbook of Social Psychology** edited by Susan T. Fiske, Daniel T. Gilbert, and Gardner Lindzey [Link](https://www.wiley.com/en-us/The+Handbook+of+Social+Psychology%2C+2+Volume+Set%2C+5th+Edition-p-9780470137475)
+-   **The Social Animal** by Elliot Aronson [Link](https://www.macmillanlearning.com/college/us/product/The-Social-Animal/p/1429233419)
+-   **The Presentation of Self in Everyday Life** by Erving Goffman [Link](https://www.penguinrandomhouse.com/books/623206/the-presentation-of-self-in-everyday-life-by-erving-goffman/)
+-   **Society in Action: The Theory of Social Becoming** by Piotr Sztompka [Link](https://www.wiley.com/en-us/Society+in+Action%3A+The+Theory+of+Social+Becoming-p-9780226786106)
+
+## Online Databases
+
+-   [PsycINFO](https://www.apa.org/pubs/databases/psycinfo)
+-   [JSTOR](https://www.jstor.org/)
+-   [Sociological Abstracts](https://www.proquest.com/products-services/socioabs-set-c.html)
+-   [Google Scholar](https://scholar.google.com/)
+-   [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+
+## Associations and Organizations
+
+-   [American Sociological Association (ASA)](https://www.asanet.org/)
+-   [Society for Personality and Social Psychology (SPSP)](https://www.spsp.org/)
+-   [International Sociological Association (ISA)](https://www.isa-sociology.org/)
+-   [Association for Psychological Science (APS)](https://www.psychologicalscience.org/)
+-   [Society for the Study of Social Problems (SSSP)](https://www.sssp1.org/)
+
+## Online Courses and Lectures
+
+-   [Coursera - Social Psychology](https://www.coursera.org/learn/social-psychology)
+-   [edX - Social Psychology](https://www.edx.org/course/social-psychology)
+-   [Khan Academy - Social Psychology](https://www.khanacademy.org/test-prep/mcat/society-and-culture/social-structures/v/social-psychology)
+-   [MIT OpenCourseWare - Social Psychology](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-70-social-psychology-spring-2013/)
+-   [YouTube - Social Psychology Lectures](https://www.youtube.com/results?search_query=social+psychology+lectures)
+
+## Software and Tools
+
+-   [SPSS](https://www.ibm.com/analytics/spss-statistics-software)
+-   [R](https://www.r-project.org/)
+-   [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home)
+-   [Atlas.ti](https://atlasti.com/)
+-   [Qualtrics](https://www.qualtrics.com/)

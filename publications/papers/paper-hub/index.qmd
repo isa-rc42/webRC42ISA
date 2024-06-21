@@ -1,0 +1,17 @@
+---
+title: "Research"
+image: papers.jpeg
+about:
+  template: jolla
+  image: papers.jpeg
+title-block-banner: true
+---
+
+Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers that advance knowledge and foster intellectual growth. Here, you will find a rich collection of studies, reviews, and commentaries by leading scholars and emerging researchers. 
+
+```{=html}
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F5414506%2Fcollections%2F3TR69TQ5%2Fitems%3Fkey%3DvCfcFw8Ah17TyMYXbAFUABTi%26format%3Dbibtex%26limit%3D100" style="
+    height: 750px;
+    width: 1000px;
+"></iframe>
+```

@@ -1,0 +1,36 @@
+---
+title: "Members"
+listing:
+  - id: current
+    contents:
+    - /current
+    sort: "date desc"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+  - id: previous
+    contents:
+    - /previous
+    sort: "date desc"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+page-layout: article
+title-block-banner: true
+---
+
+# Current 
+
+::: {#current}
+:::
+
+# Previous
+
+::: {#previous}
+:::

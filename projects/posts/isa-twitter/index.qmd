@@ -1,0 +1,12 @@
+---
+title: "ISA on Twitter"
+author: "Julio Iturra"
+date: "2024-07-24"
+categories: [news, socialmedia]
+image: "image.png"
+---
+
+ISA on X
+
+<a class="twitter-timeline" data-height="750" href="https://twitter.com/isa_sociology?ref_src=twsrc%5Etfw">Tweets by isa_sociology</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+

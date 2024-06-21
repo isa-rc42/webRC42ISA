@@ -1,0 +1,35 @@
+---
+title: Mariane Weber
+image: "marianeweber.jpg"
+about:
+  template: jolla
+  id: mariane-block
+  image: "marianeweber.jpg"
+  links:
+    - icon: twitter
+      # text:
+      href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      # text:
+      href: https://github.com/marvinschmitt
+    - icon: linkedin
+      # text:
+      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    - icon: envelope
+      # text:
+      href: "mailto:mail.marvinschmitt@gmail.com"
+---
+
+::: {#mariane-block}
+Marianne Weber (1870--1954) was a prominent German sociologist, women's rights activist, and writer, known for her contributions to feminist theory and her role in advancing women's rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.
+
+Marianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.
+
+One of her most significant contributions was her book "Wife and Mother in the Development of Law" (1907), where she examined the legal and social status of women through history. She argued for the recognition of women's work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.
+
+In addition to her academic work, Marianne Weber was actively involved in the women's movement in Germany. She was a member of the Federation of German Women's Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women's educational opportunities, legal rights, and social positions.
+
+After Max Weber's death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.
+
+Marianne Weber's life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954.
+:::

@@ -10,14 +10,12 @@ description: |
   Website of the Research Committee 42 Social Psychology, of the International Sociological Association.
 image: images/rc42logo.png
 listing:
-  - id: latest-content
-    contents: 
-    - /case-studies
-    - /ideas
-    - /careers
-    - /viewpoints
-    - "!index.qmd"
-    - "!ai-series-7.qmd"
+  - id: projects
+    contents:
+    - /projects/posts
+    # - /ideas
+    # - /careers
+    # - /viewpoints
     sort: "date desc"
     type: grid
     categories: false
@@ -26,10 +24,9 @@ listing:
     max-items: 3
     feed: false
 
-  - id: case-studies
-    contents: 
-    - /case-studies
-    - "!index.qmd"
+  - id: board
+    contents:
+    - /board/board-members
     sort: "date desc"
     type: grid
     categories: false
@@ -38,47 +35,47 @@ listing:
     max-items: 3
     feed: false
 
-  - id: ideas
-    contents: 
-    - /ideas
-    - "!index.qmd"
-    - "!dsb-live.qmd"
-    - "!ai-series-7.qmd"
+  - id: publications
+    contents:
+    - /publications/papers
+    # - "!index.qmd"
+    # - "!dsb-live.qmd"
+    # - "!ai-series-7.qmd"
     sort: "date desc"
-    type: grid
+    type: default
     categories: false
     sort-ui: false
     filter-ui: false
-    max-items: 3
+    max-items: 1
     feed: false
-
-  - id: careers
-    contents: 
-    - /careers
-    - "!index.qmd"
-    - "!mjones-interview.qmd"
-    - "!pholborn-interview.qmd"
-    sort: "date desc"
-    type: grid
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 3
-    feed: false
-
-  - id: viewpoints
-    contents: 
-    - /viewpoints
-    - "!index.qmd"
-    - "!editors-note.qmd"
-    - "!democratizing-data.qmd"
-    sort: "date desc"
-    type: grid
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 3
-    feed: false
+  # 
+  # - id: careers
+  #   contents: 
+  #   - /careers
+  #   - "!index.qmd"
+  #   - "!mjones-interview.qmd"
+  #   - "!pholborn-interview.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
+  # 
+  # - id: viewpoints
+  #   contents: 
+  #   - /viewpoints
+  #   - "!index.qmd"
+  #   - "!editors-note.qmd"
+  #   - "!democratizing-data.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
 
   # - id: editors-blog
   #   contents: 
@@ -155,11 +152,11 @@ toc: false
 
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .top-story-text}
-## AI series: Ensuring new AI technologies help everyone thrive 
-Anna Demming looks at how our handling of these AI systems can be optimized for society as a whole, beyond the direct goals of AI developers.   
+## International Sociological Association  
+
 :::
 ::: {.g-col-12 .g-col-lg-8 .top-story-img}
-![](ideas/posts/2024/06/11/images/shutterstock_2436413315.jpg)
+![](images/isabanner.png)
 :::
 :::
 
@@ -170,12 +167,12 @@ Anna Demming looks at how our handling of these AI systems can be optimized for 
 
 ::: {.content-container}
 ::: {.listing-block}
-<a href="latest-content.qmd">
+<a href="projects/projects.qmd">
 
-## Latest content 
+## Events 
 </a>
 
-::: {#latest-content}
+::: {#projects}
 :::
 
 :::
@@ -193,12 +190,12 @@ Anna Demming looks at how our handling of these AI systems can be optimized for 
 
 ::: {.content-container}
 ::: {.listing-block}
-<a href="viewpoints/index.qmd">
+<a href="about/index.qmd">
 
-## Viewpoints 
+## Board 
 </a>
 
-::: {#viewpoints}
+::: {#board}
 :::
 
 :::
@@ -206,12 +203,12 @@ Anna Demming looks at how our handling of these AI systems can be optimized for 
 
 ::: {.content-container}
 ::: {.listing-block}
-<a href="case-studies/index.qmd">
+<a href="publications/publications.qmd">
 
-## Case Studies
+## Publications
 </a> 
 
-::: {#case-studies}
+::: {#publications}
 :::
 
 :::
@@ -222,84 +219,83 @@ Anna Demming looks at how our handling of these AI systems can be optimized for 
 ::: {.pullout-block .black-background}
 ![](images/quote-purple.png){width="100px"}
 
-## Generative AI is based on neural networks, which are so-called ‘black boxes’. This makes it difficult or impossible to explain the inner workings of the model which has potential implications if in the future you are challenged to justify decisioning or guidance based on the model.
-Excerpt from the UK government's framework for the use of generative AI
+## Published in 1998 on the occasion of the 50th anniversary of the foundation of the International Sociological Association, this is a first book publication covering various aspects of ISA history. Illustrated with original photographs and congress posters it offers an attractive overview of a life of an international organization. Reading the history of the ISA may help you to reflect on the definitional evolution of what is included within the boundaries of sociology.
 
 ::: {.button}
-[Read our key takeaways](viewpoints/editors-blog/posts/2024/01/22/gen-ai-framework.qmd)
+[Learn more](https://www.isa-sociology.org/en/about-isa/history-of-isa/history-of-isa-1948-1997)
 :::
 
 :::
 :::
 :::
 
-::: {.content-container}
-::: {.listing-block}
-<a href="ideas/index.qmd">
+<!-- ::: {.content-container} -->
+<!-- ::: {.listing-block}  -->
+<!-- <a href="ideas/index.qmd"> -->
 
-## Ideas
-</a> 
+<!-- ## Ideas -->
+<!-- </a>  -->
 
-::: {#ideas}
-:::
+<!-- ::: {#ideas} -->
+<!-- ::: -->
 
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
 
-::: {.content-container}
-::: {.listing-block}
-<a href="careers/index.qmd">
+<!-- ::: {.content-container} -->
+<!-- ::: {.listing-block} -->
+<!-- <a href="careers/index.qmd"> -->
 
-## Careers 
-</a>
+<!-- ## Careers  -->
+<!-- </a> -->
 
-::: {#careers}
-:::
+<!-- ::: {#careers} -->
+<!-- ::: -->
 
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
 
-::: {.footer-text}
-::: {.footer-container .black-background}
-::: {.footer-block}
-::: grid
-
-
-::: {.g-col-12 .g-col-md-2}
-### Published by
-[![](images/rss-footer-new.png){fig-align="left"}](https://rss.org.uk/)
-:::
-::: {.g-col-12 .g-col-md-2}
-### Our partners
-[![](images/asa-footer-new.png){fig-align="left"}](https://www.amstat.org/)
-:::
-::: {.g-col-12 .g-col-md-2}
-### With support from 
-[![](images/ati-footer-new.png){fig-align="left"}](https://www.turing.ac.uk/)
-:::
-::: {.g-col-12 .g-col-md-2}
-:::
-::: {.g-col-12 .g-col-md-2}
-### About us
-[Our aims](about-rwds.qmd)\
-[Our team](/viewpoints/editors-blog/posts/2022/10/18/meet-the-team.qmd)\
-[Partners and funders](rwds-partners.qmd)\
-[Contact us](contact.qmd)
-:::
-::: {.g-col-12 .g-col-md-2}
-### Contribute
-[Call for contributions](/contributor-docs/call-for-contributions.qmd)\
-[Contributor guidelines](/contributor-docs/contributor-guidelines.qmd)\
-[Style guide](/contributor-docs/style-guide.qmd)
-:::
+<!-- ::: {.footer-text} -->
+<!-- ::: {.footer-container .black-background} -->
+<!-- ::: {.footer-block} -->
+<!-- ::: grid -->
 
 
-<!-- ::: {.g-col-12 .g-col-md-12}
-### Our partners
-logos to go here
-::: -->
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- ### Published by -->
+<!-- [![](images/rss-footer-new.png){fig-align="left"}](https://rss.org.uk/) -->
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- ### Our partners -->
+<!-- [![](images/asa-footer-new.png){fig-align="left"}](https://www.amstat.org/) -->
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- ### With support from  -->
+<!-- [![](images/ati-footer-new.png){fig-align="left"}](https://www.turing.ac.uk/) -->
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- ### About us -->
+<!-- [Our aims](about-rwds.qmd)\ -->
+<!-- [Our team](/viewpoints/editors-blog/posts/2022/10/18/meet-the-team.qmd)\ -->
+<!-- [Partners and funders](rwds-partners.qmd)\ -->
+<!-- [Contact us](contact.qmd) -->
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- ### Contribute -->
+<!-- [Call for contributions](/contributor-docs/call-for-contributions.qmd)\ -->
+<!-- [Contributor guidelines](/contributor-docs/contributor-guidelines.qmd)\ -->
+<!-- [Style guide](/contributor-docs/style-guide.qmd) -->
+<!-- ::: -->
 
-:::
-:::
-:::
-:::
+
+<!-- <!-- ::: {.g-col-12 .g-col-md-12} -->
+<!-- ### Our partners -->
+<!-- logos to go here -->
+<!-- ::: --> 
+
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
