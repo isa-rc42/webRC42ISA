@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.475">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -93,34 +93,6 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-board .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-board'] = new List('listing-board', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-publications .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -162,15 +134,12 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 <link rel="stylesheet" href="rwds.css">
 <meta property="og:title" content="RC42 ISA">
 <meta property="og:description" content="Website of the Research Committee 42 Social Psychology, of the International Sociological Association.">
-<meta property="og:image" content="https://realworlddatascience.net/images\rc42logo.png">
+<meta property="og:image" content="images/rc42logo.png">
 <meta property="og:site-name" content="RC42">
-<meta property="og:image:height" content="191">
-<meta property="og:image:width" content="195">
 <meta name="twitter:title" content="RC42 ISA">
 <meta name="twitter:description" content="Website of the Research Committee 42 Social Psychology, of the International Sociological Association.">
-<meta name="twitter:image" content="https://realworlddatascience.net/images\rc42logo.png">
-<meta name="twitter:image-height" content="191">
-<meta name="twitter:image-width" content="195">
+<meta name="twitter:image" content="images/rc42logo.png">
+<meta name="twitter:site" content="@rwdatasci">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -178,11 +147,11 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-sm navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/rc42logo.png" alt="RC42-ISA" class="navbar-logo">
+    <img src="./images/rc42logo-blue.png" alt="RC42-ISA" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -191,16 +160,21 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./projects/projects.html">Events</a>
+    <a class="nav-link" href="./projects/projects.html">
+ <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications/publications.html">Publications</a>
+    <a class="nav-link" href="./publications/publications.html">
+ <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./links/links.html">Links</a>
+    <a class="nav-link" href="./links/links.html">
+ <span class="menu-text">Links</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="./board/index.html">
@@ -237,21 +211,21 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 </div>
 </div>
 </div>
-<hr>
-<div class="content-container">
-<div class="top-story purple-background">
-<p><a href="./ideas/posts/2024/06/11/ai-series-7.qmd"></a></p><a href="./ideas/posts/2024/06/11/ai-series-7.qmd">
-<div class="grid">
-<section id="international-sociological-association" class="g-col-12 g-col-lg-4 top-story-text">
-<h2>International Sociological Association</h2>
-</section>
-<div class="g-col-12 g-col-lg-8 top-story-img">
-<p><img src="images/isabanner.png" class="img-fluid"></p>
-</div>
-</div>
-</a><p><a href="./ideas/posts/2024/06/11/ai-series-7.qmd"></a></p>
-</div>
-</div>
+<!-- ---- -->
+<!-- ::: {.content-container} -->
+<!-- ::: {.top-story .purple-background} -->
+<!-- <a href="/ideas/posts/2024/06/11/ai-series-7.qmd">  -->
+<!-- ::: grid -->
+<!-- ::: {.g-col-12 .g-col-lg-4 .top-story-text} -->
+<!-- ## International Sociological Association   -->
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-lg-8 .top-story-img} -->
+<!-- ![](images/isabanner.png) -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- </a> -->
+<!-- ::: -->
+<!-- ::: -->
 <div class="content-container">
 <div class="listing-block">
 <p><a href="./projects/projects.html"></a></p><a href="./projects/projects.html">
@@ -259,7 +233,32 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 </a><p><a href="./projects/projects.html"></a></p>
 <div id="listing-projects" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="news,socialmedia" data-listing-date-sort="1721772000000" data-listing-file-modified-sort="1718184274000" data-listing-reading-time-sort="0.06">
+<div class="g-col-1" data-index="0" data-categories="news,socialmedia" data-listing-date-sort="1720562400000" data-listing-file-modified-sort="1720620573433" data-listing-reading-time-sort="2.495">
+<a href="./projects/posts/isa-2025/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/posts/isa-2025/image.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+5th ISA Forum of Sociology
+</h5>
+<div class="card-text listing-description">
+The 5th ISA Forum of Sociology will take place in Rabat, Morocco on July 6-11, 2025. This is the first ISA Forum to be held in the region and specifically in a country that…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Julio Iturra
+</div>
+<div class="listing-date">
+Jul 10, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="news,socialmedia" data-listing-date-sort="1719180000000" data-listing-file-modified-sort="1720620659906" data-listing-reading-time-sort="0.06">
 <a href="./projects/posts/isa-twitter/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -277,57 +276,7 @@ ISA on X
 Julio Iturra
 </div>
 <div class="listing-date">
-Jul 24, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="news,code,analysis" data-listing-date-sort="1716501600000" data-listing-file-modified-sort="1716545732000" data-listing-reading-time-sort="0.045">
-<a href="./projects/posts/post-with-code/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projects/posts/post-with-code/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Post With Code
-</h5>
-<div class="card-text listing-description">
-This is a post with executable code.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Harlow Malloc
-</div>
-<div class="listing-date">
-May 24, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="news" data-listing-date-sort="1716242400000" data-listing-file-modified-sort="1716545732000" data-listing-reading-time-sort="0.16">
-<a href="./projects/posts/welcome/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projects/posts/welcome/thumbnail.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Welcome To My Blog
-</h5>
-<div class="card-text listing-description">
-This is the first post in a Quarto blog. Welcome!
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Tristan O’Malley
-</div>
-<div class="listing-date">
-May 21, 2024
+Jun 24, 2024
 </div>
 </div>
 </div>
@@ -349,64 +298,15 @@ No matching items
 </div>
 </div>
 </div>
-<div class="content-container">
-<div class="listing-block">
-<p><a href="about/index.qmd"></a></p><a href="about/index.qmd">
-<h2 id="board">Board</h2>
-</a><p><a href="about/index.qmd"></a></p>
-<div id="listing-board" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1718960831067" data-listing-reading-time-sort="1.48">
-<a href="./board/board-members/mariane-weber/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./board/board-members/mariane-weber/marianeweber.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mariane Weber
-</h5>
-<div class="card-text listing-description">
-Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1718960819517" data-listing-reading-time-sort="1.17">
-<a href="./board/board-members/max-weber/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./board/board-members/max-weber/maxweber.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Max Weber
-</h5>
-<div class="card-text listing-description">
-Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</div>
-</div>
+<!-- ::: {.content-container} -->
+<!-- ::: {.listing-block} -->
+<!-- <a href="about/index.qmd"> -->
+<!-- ## Board  -->
+<!-- </a> -->
+<!-- ::: {#board} -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
 <div class="content-container">
 <div class="listing-block">
 <p><a href="./publications/publications.html"></a></p><a href="./publications/publications.html">
@@ -414,7 +314,7 @@ No matching items
 </a><p><a href="./publications/publications.html"></a></p>
 <div id="listing-publications" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1718963548229" data-listing-reading-time-sort="0.26">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1718963548000" data-listing-reading-time-sort="0.26">
 <div class="thumbnail">
 <p><a href="./publications/papers/paper-hub/index.html"> <img src="./publications/papers/paper-hub/papers.jpeg" class="thumnail-image"> </a></p>
 </div>
@@ -427,7 +327,7 @@ Research
 
 </div>
 <div class="listing-description">
-Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers that advance knowledge and foster intellectual growth. Here, you will find a rich collection of studies, reviews, and commentaries by leading scholars and emerging researchers.
+Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers…
 </div>
 </a>
 </div>
@@ -445,6 +345,7 @@ No matching items
 <div class="pullout-text">
 <div class="pullout-container">
 <div class="pullout-block black-background">
+<h2 id="history-of-isa">History of ISA</h2>
 <p><img src="images/quote-purple.png" class="img-fluid" width="100"></p>
 <h2 id="published-in-1998-on-the-occasion-of-the-50th-anniversary-of-the-foundation-of-the-international-sociological-association-this-is-a-first-book-publication-covering-various-aspects-of-isa-history.-illustrated-with-original-photographs-and-congress-posters-it-offers-an-attractive-overview-of-a-life-of-an-international-organization.-reading-the-history-of-the-isa-may-help-you-to-reflect-on-the-definitional-evolution-of-what-is-included-within-the-boundaries-of-sociology.">Published in 1998 on the occasion of the 50th anniversary of the foundation of the International Sociological Association, this is a first book publication covering various aspects of ISA history. Illustrated with original photographs and congress posters it offers an attractive overview of a life of an international organization. Reading the history of the ISA may help you to reflect on the definitional evolution of what is included within the boundaries of sociology.</h2>
 <div class="button">
@@ -556,7 +457,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -592,42 +510,60 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left"><a href="./LICENCE.html">2024</a></div>   
+    <div class="nav-footer-left"><a href="">2024</a></div>   
       <div class="nav-footer-center">
         <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/realworlddatascience">
+    <a class="nav-link" href="https://github.com/isa-rc42/webRC42ISA">
       <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
     </a>
   </li>  
 </ul>
       </div>
-    <div class="nav-footer-right"><a href="./ts-and-cs.html">Terms &amp; Conditions</a></div>
+    <div class="nav-footer-right"><a href="https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology">About RC42</a></div>
   </div>
 </footer>
 

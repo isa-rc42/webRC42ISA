@@ -24,16 +24,16 @@ listing:
     max-items: 3
     feed: false
 
-  - id: board
-    contents:
-    - /board/board-members
-    sort: "date desc"
-    type: grid
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 3
-    feed: false
+  # - id: board
+  #   contents:
+  #   - /board/board-members
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
 
   - id: publications
     contents:
@@ -130,12 +130,13 @@ toc: false
 ---
 
 
+
 ::: {.section-text}
 ::: {.section-container .darkblue-background}
 ::: {.section-block}
 ::: {style="text-align: center;"}
 
-# Research Committee 42 
+# Research Committee 42
 # **Social Psychology**
 
 ![](https://www.isa-sociology.org/img/isa-en.svg){width=50%}
@@ -144,26 +145,26 @@ toc: false
 :::
 :::
 
-----
+<!-- ---- -->
 
-::: {.content-container}
-::: {.top-story .purple-background}
-<a href="/ideas/posts/2024/06/11/ai-series-7.qmd">
+<!-- ::: {.content-container} -->
+<!-- ::: {.top-story .purple-background} -->
+<!-- <a href="/ideas/posts/2024/06/11/ai-series-7.qmd">  -->
 
-::: grid
-::: {.g-col-12 .g-col-lg-4 .top-story-text}
-## International Sociological Association  
+<!-- ::: grid -->
+<!-- ::: {.g-col-12 .g-col-lg-4 .top-story-text} -->
+<!-- ## International Sociological Association   -->
 
-:::
-::: {.g-col-12 .g-col-lg-8 .top-story-img}
-![](images/isabanner.png)
-:::
-:::
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-lg-8 .top-story-img} -->
+<!-- ![](images/isabanner.png) -->
+<!-- ::: -->
+<!-- ::: -->
 
-</a>
+<!-- </a> -->
 
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
 
 ::: {.content-container}
 ::: {.listing-block}
@@ -188,18 +189,19 @@ toc: false
 :::
 :::
 
-::: {.content-container}
-::: {.listing-block}
-<a href="about/index.qmd">
 
-## Board 
-</a>
 
-::: {#board}
-:::
+<!-- ::: {.content-container} -->
+<!-- ::: {.listing-block} -->
+<!-- <a href="about/index.qmd"> -->
+<!-- ## Board  -->
+<!-- </a> -->
 
-:::
-:::
+<!-- ::: {#board} -->
+<!-- ::: -->
+
+<!-- ::: -->
+<!-- ::: -->
 
 ::: {.content-container}
 ::: {.listing-block}
@@ -214,9 +216,13 @@ toc: false
 :::
 :::
 
+
 ::: {.pullout-text}
 ::: {.pullout-container}
 ::: {.pullout-block .black-background}
+
+## History of ISA 
+
 ![](images/quote-purple.png){width="100px"}
 
 ## Published in 1998 on the occasion of the 50th anniversary of the foundation of the International Sociological Association, this is a first book publication covering various aspects of ISA history. Illustrated with original photographs and congress posters it offers an attractive overview of a life of an international organization. Reading the history of the ISA may help you to reflect on the definitional evolution of what is included within the boundaries of sociology.

@@ -1,19 +1,9 @@
 [
   {
-    "listing": "/board/index.html",
-    "items": [
-      "/board/board-members/mariane-weber/index.html",
-      "/board/board-members/max-weber/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
+      "/projects/posts/isa-2025/index.html",
       "/projects/posts/isa-twitter/index.html",
-      "/projects/posts/post-with-code/index.html",
-      "/projects/posts/welcome/index.html",
-      "/board/board-members/mariane-weber/index.html",
-      "/board/board-members/max-weber/index.html",
       "/publications/papers/paper-hub/index.html"
     ]
   },
@@ -22,20 +12,10 @@
     "items": []
   },
   {
-    "listing": "/members/index.html",
-    "items": [
-      "/members/current/mariane-weber/index.html",
-      "/members/current/max-weber/index.html",
-      "/members/previous/mariane-weber/index.html",
-      "/members/previous/max-weber/index.html"
-    ]
-  },
-  {
     "listing": "/projects/projects.html",
     "items": [
-      "/projects/posts/isa-twitter/index.html",
-      "/projects/posts/post-with-code/index.html",
-      "/projects/posts/welcome/index.html"
+      "/projects/posts/isa-2025/index.html",
+      "/projects/posts/isa-twitter/index.html"
     ]
   },
   {

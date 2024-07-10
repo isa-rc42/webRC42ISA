@@ -46,7 +46,7 @@
     "href": "board/index.html",
     "title": "Board Members",
     "section": "",
-    "text": "No matching items"
+    "text": "Board 2023 - 2027\nJuan Carlos Castillo (President)\n\n\n\n\nAssociate Professor, Universidad de Chile, Chile.\njuancastillov@uchile.cl\n\n\n\n\n\n\n\nLisa Slattery Walker (Secretary/Treasurer)\n\n\n\n\nProfessor, University of North Carolina at Charlotte, USA.\nlisa.walker@charlotte.edu\n\n\n\n\n\n\n\nCharles Puttegril (Board member)\n\n\n\n\nUniversity of Pretoria, South Africa.\n\n\n\n\n\n\n\nKarla Henriquez Ojeda (Board member)\n\n\n\n\nUniversité catholique de Louvain, Belgium\n\n\n\n\n\n\n\nDeepak Kumar Verma (Board member)\n\n\n\n\nDr. B. R. Ambedkar University of Social Sciences, India\n\n\n\n\n\n\n\nt.b.a. (Online Communication Manager)\n\n\n\n\n\n\n\nto be defined"
   },
   {
     "objectID": "CODE_OF_CONDUCT.html",
@@ -410,7 +410,7 @@
     "href": "feeds.html",
     "title": "RSS feeds",
     "section": "",
-    "text": "Case studies\nrealworlddatascience.net/case-studies/index.xml\n\n\nIdeas\nrealworlddatascience.net/ideas/index.xml\n\n\nCareers\nrealworlddatascience.net/careers/index.xml\n\n\nViewpoints\nrealworlddatascience.net/viewpoints/index.xml"
+    "text": "Latest content\nrealworlddatascience.net/latest-content.xml\n\n\nCase studies\nrealworlddatascience.net/case-studies/index.xml\n\n\nIdeas\nrealworlddatascience.net/ideas/index.xml\n\n\nCareers\nrealworlddatascience.net/careers/index.xml\n\n\nViewpoints\nrealworlddatascience.net/viewpoints/index.xml"
   },
   {
     "objectID": "LICENCE.html",
@@ -438,7 +438,7 @@
     "href": "log.html",
     "title": "RC42",
     "section": "",
-    "text": "acá hice una copia del sitio de RWDS, razones:\n\nentrega en la página principal los principales updates de las distintas secciones de manera automática.\ntiene una sección inicial del más destacado, muy buena\nmás limpio en arquitectura que la versión inicial\n\nEstuve trabajando en adaptaciones iniciales, colores, algunas imágenes y estructura\nGeneré un block inicial nuevo, está al final del css (que se llama rwds.css, cambiar nombre), se llama section-container y se basa en el footer ya que quería una sección que se ocupara todo el espacio de la página hacia los lados, distinto a lo que aparece también ahora como .pullout-text (con background negro y texto)\nvarios temas pendientes:\n\nesto es un clon, ver problemas de derecho de propiedad, y si corresponde hacer un fork. De todas maneras es un CCBY4.0, no debería haber problema\ncreo que es mejor eliminar la sección de news porque es muy genérica (cualquier cosa nueva es news)\nsecciones:\n\nevents\nprojects\npublications\nlinks\nabout: board, members and past members (destacados?), past presidents\n\nprincipal event a publicar: ISA FORUM, call for sections\npara las publicaciones, puede quedar como un to-do, pero es lo más relevante y debería adaptarse al formato de blog. Puede ser manual, o lo mejor sería ingresar vía Zotero como en mi academic. Igual requiere buena pega de script (fase 2.0)\ncambiaría los colores del logo RC42, uni nuevo tal vez con el background del container inicial\n\nPuede ser buena idea trabajar esto como un project de github\nGenerar un formulario para las contribuciones, tal vez que se pueda entrar con el correo autentificado de los miembros\nen el about, el board en formato “meet the team” en el who we are, y ahí por ahora el board, luego la lista de miembros en 2 columnas por ahora, luego mejorar\nadaptar footer"
+    "text": "log.md\n\nacá hice una copia del sitio de RWDS, razones:\n\nentrega en la página principal los principales updates de las distintas secciones de manera automática.\ntiene una sección inicial del más destacado, muy buena\nmás limpio en arquitectura que la versión inicial\n\nEstuve trabajando en adaptaciones iniciales, colores, algunas imágenes y estructura\nGeneré un block inicial nuevo, está al final del css (que se llama rwds.css, cambiar nombre), se llama section-container y se basa en el footer ya que quería una sección que se ocupara todo el espacio de la página hacia los lados, distinto a lo que aparece también ahora como .pullout-text (con background negro y texto)\nvarios temas pendientes:\n\nesto es un clon, ver problemas de derecho de propiedad, y si corresponde hacer un fork. De todas maneras es un CCBY4.0, no debería haber problema\ncreo que es mejor eliminar la sección de news porque es muy genérica (cualquier cosa nueva es news)\nsecciones:\n\nevents\nprojects\npublications\nlinks\nabout: board, members and past members (destacados?), past presidents\n\nprincipal event a publicar: ISA FORUM, call for sections\npara las publicaciones, puede quedar como un to-do, pero es lo más relevante y debería adaptarse al formato de blog. Puede ser manual, o lo mejor sería ingresar vía Zotero como en mi academic. Igual requiere buena pega de script (fase 2.0)\ncambiaría los colores del logo RC42, uni nuevo tal vez con el background del container inicial\n\nPuede ser buena idea trabajar esto como un project de github\nGenerar un formulario para las contribuciones, tal vez que se pueda entrar con el correo autentificado de los miembros\nen el about, el board en formato “meet the team” en el who we are, y ahí por ahora el board, luego la lista de miembros en 2 columnas por ahora, luego mejorar\nadaptar footer"
   },
   {
     "objectID": "members/current/mariane-weber/index.html",
@@ -459,7 +459,7 @@
     "href": "members/index.html",
     "title": "Members",
     "section": "",
-    "text": "Previous\n\n\n\n\n  \n\n\n\n\nMariane Weber\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMax Weber\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Current\n\n\n\n\n \n  \n    Last name \n    First name \n    Country \n    Affiliation \n  \n \n\n  \n    Abdi \n    Cawo \n    United States \n    University of Minnesota \n  \n  \n    Bardhan Roy \n    Maitreyee \n    India \n    Diamond Harbour Women University \n  \n  \n    Bhoi \n    Dhaneswar \n    United Kingdom \n     \n  \n  \n    Burger \n    Kaspar \n    Luxembourg \n    University of Luxembourg \n  \n  \n    Castillo \n    Juan Carlos \n    Chile \n    Universidad de Chile \n  \n  \n    Choo \n    Hau \n    Malaysia \n     \n  \n  \n    Cleofas \n    Jerome \n    Philippines \n     \n  \n  \n    Dionisio \n    Josephine \n    Philippines \n    University of the Philippines Diliman \n  \n  \n    Gedvilaite - Kordusiene \n    Margarita \n    Lithuania \n     \n  \n  \n    Gislason \n    Ingolfur \n    Iceland \n    Haskoli Islands \n  \n  \n    Henriquez Ojeda \n    Karla \n    Chile \n     \n  \n  \n    Horne \n    Christine \n    United States \n    Washington State University \n  \n  \n    Jasso \n    Guillermina \n    United States \n    New York University \n  \n  \n    Jugran \n    Deepak \n    India \n     \n  \n  \n    Kaasa \n    Anneli \n    Estonia \n    University of Tartu \n  \n  \n    Kais \n    Shaikh Mohammad \n    Bangladesh \n    University of Rajshahi \n  \n  \n    Klein \n    Joshua \n    United States \n    Iona University \n  \n  \n    Lyu \n    Yujia \n    United States \n    The University of Iowa \n  \n  \n    Mohlabane \n    Neo \n    South Africa \n    University of Pretoria \n  \n  \n    Molapo \n    Sepetla \n    South Africa \n    University of Pretoria \n  \n  \n    Mortimer \n    Jeylan \n    United States \n     \n  \n  \n    Padilla \n    Diego \n    Chile \n    Universidad San Sebastian \n  \n  \n    Parrotta \n    Kylie \n    United States \n     \n  \n  \n    Patulny \n    Roger \n    Australia \n    HKBU \n  \n  \n    Peterson \n    Gretchen \n    United States \n    University of Memphis \n  \n  \n    Puttergill \n    Charles \n    South Africa \n    University of Pretoria \n  \n  \n    Rabello de Castro \n    Lucia \n    Brazil \n    Federal University of Rio de Janeiro \n  \n  \n    Ray \n    Prof. anjali \n    India \n    University of Calcutta \n  \n  \n    Reichert \n    Frank \n    Hong Kong \n    The University of Hong Kong \n  \n  \n    Ridgeway \n    Cecilia \n    United States \n    Stanford University \n  \n  \n    Rogers \n    Kimberly \n    United States \n    Dartmouth College \n  \n  \n    Sellers \n    Sherrill \n    United States \n     \n  \n  \n    Sengupta \n    Lopamudra \n    India \n    Bangabasi College \n  \n  \n    Shelly \n    Robert \n    United States \n     \n  \n  \n    Takahashi \n    Masahito \n    Japan \n     \n  \n  \n    Uys \n    Tina \n    South Africa \n    University of Johannesburg \n  \n  \n    Verma \n    Deepak Kumar \n    India \n     \n  \n  \n    Walker \n    Lisa \n    United States"
   },
   {
     "objectID": "members/previous/mariane-weber/index.html",
@@ -476,32 +476,25 @@
     "text": "Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.\nWeber studied law, history, economics, and philosophy at several universities, including Heidelberg and Berlin. His early academic career focused on law and economics, but he soon shifted to broader social sciences. He became a professor at the University of Freiburg and later at the University of Heidelberg.\nWeber’s most influential work, “The Protestant Ethic and the Spirit of Capitalism” (1905), argued that Protestant ethics and ideas influenced the development of capitalism. He is also known for his theory of bureaucracy, which described an ideal type of bureaucracy based on rational-legal authority, hierarchical structure, and formal rules and procedures.\nBeyond his academic contributions, Weber was actively involved in politics and participated in the drafting of the Weimar Constitution after World War I. His later works, such as “Economy and Society” and “Politics as a Vocation,” continued to explore the complexities of modern society, authority, and individual agency.\nWeber’s comprehensive approach to sociology, which integrated economic, political, and cultural dimensions, has left a lasting legacy, making him a foundational figure in the field. He passed away in Munich in 1920, but his ideas continue to influence sociological thought and research."
   },
   {
+    "objectID": "projects/posts/isa-2025/index.html",
+    "href": "projects/posts/isa-2025/index.html",
+    "title": "5th ISA Forum of Sociology",
+    "section": "",
+    "text": "Knowing Justice in the Anthropocene\nThe 5th ISA Forum of Sociology will take place in Rabat, Morocco on July 6-11, 2025. This is the first ISA Forum to be held in the region and specifically in a country that is known for being at the crossroads of civilizations spanning the Mediterranean, the Middle East and Africa. This unique geographic location, and the campus of Mohammed V University where we will be hosted, is the perfect setting for the intense intellectual debates that are foreseen around the theme “Knowing Justice in the Anthropocene”. The dates of the Forum provide us with the opportunity to engage these debates in our Forum and in a sociological film festival that will be open to the public, just before the city will turn its gaze from sociology to football as host of the 2025 Africa Cup of Nations.\nThe Forum will bring together sociologists from around the world to unpack this complex theme. Our point of departure lies in the recognition of the Anthropocene and the environmental concerns that accompany it. This word entered our lexicon at the turn of the Millennium when geologists first began to identify what they considered to be irreversible geological traces of human societies on the planet. In March 2024, the ‘scientists’ (according to a New York Times reporter) decided that no, we were not really in a new geological epoch. But the journalist noted that the term had already gained so much importance in anthropology and history that it will most likely stay relevant in societies. This situation of contested knowledges is precisely what we will tackle in Rabat.\nWhat does it mean to “know” in the context of the Anthropocene? Whose knowledge counts? What forms of knowing (understood in its feminist and relational sense) are prioritized, and with what consequences, in societal change? While some sub-disciplines have been actively contributing to academic and public debates, sociology writ large has not been at the center of these debates regarding the conditions of living with and in the Anthropocene. How might engaging the sociological imagination in discussions of the Anthropocene better equip sociologists and citizens to contribute to these public debates about our individual and collective capacities to live together in such an epoch?\nThis brings us to the question of justice. How do we know what is fair and just? Can we forge new understandings of justice for the Anthropocene? What can sociology contribute to how we know justice among knowledges (ontological and epistemic justice) or about aspects of our social worlds, such as environmental justice, legal justice, transitional justice, land justice, water justice, interspecies justice, racial justice, ethnic justice, or gender justice? What new questions are opened about these types of relations when the conditions of the Anthropocene are taken seriously?\nThis broad theme provides a space for dialogue within and across ISA’s 67 Research Committees (RCs), Working Groups (WGs), and Thematic Groups (TGs). We invite all sociologists from all walks of life and all corners of the earth to join us in Rabat in 2025!"
+  },
+  {
     "objectID": "projects/posts/isa-twitter/index.html",
     "href": "projects/posts/isa-twitter/index.html",
     "title": "ISA on Twitter",
     "section": "",
-    "text": "Tweets by isa_sociology"
-  },
-  {
-    "objectID": "projects/posts/post-with-code/index.html",
-    "href": "projects/posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "projects/posts/welcome/index.html",
-    "href": "projects/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "ISA on X\nTweets by isa_sociology"
   },
   {
     "objectID": "projects/projects.html",
     "href": "projects/projects.html",
     "title": "Events",
     "section": "",
-    "text": "news\n\n\nsocialmedia\n\n\n\n\n\n\n\nJulio Iturra\n\n\nJul 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 21, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "5th ISA Forum of Sociology\n\n\n\nnews\n\n\nsocialmedia\n\n\n\n\n\n\n\nJulio Iturra\n\n\nJul 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nISA on Twitter\n\n\n\nnews\n\n\nsocialmedia\n\n\n\n\n\n\n\nJulio Iturra\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/papers/paper-hub/index.html",
@@ -515,7 +508,7 @@
     "href": "publications/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "No matching items"
+    "text": "Research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "rwds-partners.html",

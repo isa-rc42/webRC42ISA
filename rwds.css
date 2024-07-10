@@ -57,21 +57,25 @@
 .navbar-nav .nav-link:hover {
   color: #009fe3;
   font-weight: 400;
+  background-color: #009fe3;
 }
+
 
 @media (max-width: 991px) {
 .navbar-nav .nav-link {
-  color: white;
+  color: #009fe3;
+  background-color: #009fe3;
   font-weight: 400;
 }
 }
 
 .navbar-nav .show>.nav-link, .navbar-nav .active>.nav-link, .navbar-nav .nav-link.active {
   color: #009fe3;
+  background-color: #009fe3;
 }
 
 .nav-item {
-  margin-top: 5rem; 
+  margin-top: 5rem;
 }
 
 @media (max-width: 1200px) {
@@ -730,11 +734,11 @@ div.quarto-post .listing-description {
 }
 
 .grey-background{
-  background-color: #535f64;  
+  background-color: #535f64;
 }
 
 .darkblue-background{
-  background-color: #0a4b6b;  
+  background-color: #0a4b6b;
 }
 
 
@@ -749,7 +753,7 @@ div.quarto-post .listing-description {
 .top-story {
   max-width: 1000px;
   margin: 0 auto;
-  margin-bottom: 1em; 
+  margin-bottom: 1em;
   box-sizing: border-box;
   height: auto;
   display: flex;
@@ -797,7 +801,7 @@ div.quarto-post .listing-description {
   max-width: 1000px;
   margin: 0 auto;
   padding-top: 1em;
-  padding-bottom: 1.8em; 
+  padding-bottom: 1.8em;
   box-sizing: border-box;
   border-bottom: 1px solid black;
 }
@@ -805,7 +809,7 @@ div.quarto-post .listing-description {
 .listing-block {
   max-width: 1000px;
   margin: 0 auto;
-  padding-bottom: 1.1em; 
+  padding-bottom: 1.1em;
   box-sizing: border-box;
   border-bottom: 1px solid black;
 }
@@ -830,7 +834,7 @@ div.quarto-post .listing-description {
   max-width: calc(1000px + 6vw);
   margin: 0 auto;
   padding-top: 1em;
-  padding-bottom: 1.8em; 
+  padding-bottom: 1.8em;
   box-sizing: border-box;
 }
 
@@ -864,9 +868,9 @@ div.quarto-post .listing-description {
   padding: 0.85em 1em;
   text-align: center;
   display: inline-block;
-  margin-top: 0.6em; 
-  margin-bottom: 0.25em; 
-  margin-left: 1.5em; 
+  margin-top: 0.6em;
+  margin-bottom: 0.25em;
+  margin-left: 1.5em;
   margin-right: 1.5em;
   cursor: pointer;
 }
@@ -934,7 +938,7 @@ div.quarto-post .listing-description {
   max-width: 1000px;
   margin: 0 auto;
   padding-top: 1em;
-  padding-bottom: 1em; 
+  padding-bottom: 1em;
   box-sizing: border-box;
 }
 
@@ -1049,6 +1053,18 @@ pre code:not(.sourceCode) {
   max-width: 1000px;
   margin: 0 auto;
   padding-top: 0em;
-  padding-bottom: 1em; 
+  padding-bottom: 1em;
   box-sizing: border-box;
 }
+
+
+/*my tags */
+
+
+.board-image {
+ border-radius: 50%;
+ width="200px";
+}
+
+
+

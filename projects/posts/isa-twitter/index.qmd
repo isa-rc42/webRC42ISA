@@ -1,7 +1,7 @@
 ---
 title: "ISA on Twitter"
 author: "Julio Iturra"
-date: "2024-07-24"
+date: "2024-06-24"
 categories: [news, socialmedia]
 image: "image.png"
 ---

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.475">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -106,6 +106,7 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 <meta property="og:title" content="RC42 - Publications">
 <meta property="og:site-name" content="RC42">
 <meta name="twitter:title" content="RC42 - Publications">
+<meta name="twitter:site" content="@rwdatasci">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -113,11 +114,11 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-sm navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/rc42logo.png" alt="RC42-ISA" class="navbar-logo">
+    <img src="../images/rc42logo-blue.png" alt="RC42-ISA" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -126,16 +127,21 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../projects/projects.html">Events</a>
+    <a class="nav-link" href="../projects/projects.html">
+ <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../publications/publications.html" aria-current="page">Publications</a>
+    <a class="nav-link active" href="../publications/publications.html" aria-current="page">
+ <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../links/links.html">Links</a>
+    <a class="nav-link" href="../links/links.html">
+ <span class="menu-text">Links</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="../board/index.html">
@@ -165,6 +171,7 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
   <div class="quarto-title-meta">
 
       
+    
       
     </div>
     
@@ -187,7 +194,7 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1718963548229" data-listing-reading-time-sort="0.26">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1718963548000" data-listing-reading-time-sort="0.26">
 <a href="../publications/papers/paper-hub/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -198,7 +205,7 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 Research
 </h5>
 <div class="card-text listing-description">
-Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers that advance knowledge and foster intellectual growth. Here, you will find a rich collection of studies, reviews, and commentaries by leading scholars and emerging researchers.
+Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -255,7 +262,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -291,24 +315,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
@@ -319,14 +361,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       <div class="nav-footer-center">
         <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/realworlddatascience">
+    <a class="nav-link" href="https://github.com/isa-rc42/webRC42ISA">
       <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
     </a>
   </li>  
 </ul>
       </div>
-    <div class="nav-footer-right"><a href="../ts-and-cs.html">Terms &amp; Conditions</a></div>
+    <div class="nav-footer-right"><a href="https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology">About RC42</a></div>
   </div>
 </footer>
 

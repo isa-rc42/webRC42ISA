@@ -1,36 +1,46 @@
 ---
 title: "Members"
-listing:
-  - id: current
-    contents:
-    - /current
-    sort: "date desc"
-    type: default
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 3
-    feed: false
-  - id: previous
-    contents:
-    - /previous
-    sort: "date desc"
-    type: default
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 3
-    feed: false
+# listing:
+#   - id: current
+#     contents:
+#     - /current
+#     sort: "date desc"
+#     type: default
+#     categories: false
+#     sort-ui: false
+#     filter-ui: false
+#     max-items: 3
+#     feed: false
+#   - id: previous
+#     contents:
+#     - /previous
+#     sort: "date desc"
+#     type: default
+#     categories: false
+#     sort-ui: false
+#     filter-ui: false
+#     max-items: 3
+#     feed: false
 page-layout: article
 title-block-banner: true
 ---
 
 # Current 
 
-::: {#current}
-:::
+```{r members}
+#| echo: false
+#| warning: false
+library(xlsx)
+library(knitr)
+library(kableExtra)
+library(dplyr)
+active <- xlsx::read.xlsx(file = "active.xlsx",sheetIndex = 1) 
+names(active) <- tolower(names(active))
+options(knitr.kable.NA = '')
+active %>% select(last.name,first.name,country,affiliation) %>% 
+  arrange(last.name) %>% 
+  kable(col.names = c("Last name","First name","Country","Affiliation")) %>% 
+  kable_paper(bootstrap_options = c("striped", "hover"), full_width = F)
+```
 
-# Previous
 
-::: {#previous}
-:::

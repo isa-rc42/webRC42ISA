@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.475">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/isa-favicon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -61,63 +59,6 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-current .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-current'] = new List('listing-current', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-previous .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-previous'] = new List('listing-previous', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-1TTWB7YTR6"></script>
 
 <script type="text/javascript">
@@ -128,12 +69,15 @@ gtag('js', new Date());
 gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+<script src="../site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="../site_libs/lightable-0.0.1/lightable.css" rel="stylesheet">
+
 
 <link rel="stylesheet" href="../rwds.css">
 <meta property="og:title" content="RC42 - Members">
 <meta property="og:site-name" content="RC42">
 <meta name="twitter:title" content="RC42 - Members">
+<meta name="twitter:site" content="@rwdatasci">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -141,11 +85,11 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-sm navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/rc42logo.png" alt="RC42-ISA" class="navbar-logo">
+    <img src="../images/rc42logo-blue.png" alt="RC42-ISA" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -154,16 +98,21 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../projects/projects.html">Events</a>
+    <a class="nav-link" href="../projects/projects.html">
+ <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications/publications.html">Publications</a>
+    <a class="nav-link" href="../publications/publications.html">
+ <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../links/links.html">Links</a>
+    <a class="nav-link" href="../links/links.html">
+ <span class="menu-text">Links</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="../board/index.html">
@@ -193,6 +142,7 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
   <div class="quarto-title-meta">
 
       
+    
       
     </div>
     
@@ -206,9 +156,8 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
    
   <ul>
   <li><a href="#current" id="toc-current" class="nav-link active" data-scroll-target="#current">Current</a></li>
-  <li><a href="#previous" id="toc-previous" class="nav-link" data-scroll-target="#previous">Previous</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/realworlddatascience/realworlddatascience.github.io/edit/main/members/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/realworlddatascience/realworlddatascience.github.io/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/isa-rc42/webRC42ISA/edit/main/members/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/isa-rc42/webRC42ISA/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -218,159 +167,252 @@ gtag('config', 'G-1TTWB7YTR6', { 'anonymize_ip': true});
 
 <section id="current" class="level1">
 <h1>Current</h1>
-<div id="listing-current" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1718965676437">
-<div class="thumbnail">
-<a href="../members\current\mariane-weber\index.html">
-<div class="thumbnail-image">
+<div class="cell">
+<div class="cell-output-display">
+
+<table class=" lightable-paper" style="font-family: &quot;Arial Narrow&quot;, arial, helvetica, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Last name </th>
+   <th style="text-align:left;"> First name </th>
+   <th style="text-align:left;"> Country </th>
+   <th style="text-align:left;"> Affiliation </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Abdi </td>
+   <td style="text-align:left;"> Cawo </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;"> University of Minnesota </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bardhan Roy </td>
+   <td style="text-align:left;"> Maitreyee </td>
+   <td style="text-align:left;"> India </td>
+   <td style="text-align:left;"> Diamond Harbour Women University </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bhoi </td>
+   <td style="text-align:left;"> Dhaneswar </td>
+   <td style="text-align:left;"> United Kingdom </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Burger </td>
+   <td style="text-align:left;"> Kaspar </td>
+   <td style="text-align:left;"> Luxembourg </td>
+   <td style="text-align:left;"> University of Luxembourg </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Castillo </td>
+   <td style="text-align:left;"> Juan Carlos </td>
+   <td style="text-align:left;"> Chile </td>
+   <td style="text-align:left;"> Universidad de Chile </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Choo </td>
+   <td style="text-align:left;"> Hau </td>
+   <td style="text-align:left;"> Malaysia </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cleofas </td>
+   <td style="text-align:left;"> Jerome </td>
+   <td style="text-align:left;"> Philippines </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Dionisio </td>
+   <td style="text-align:left;"> Josephine </td>
+   <td style="text-align:left;"> Philippines </td>
+   <td style="text-align:left;"> University of the Philippines Diliman </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Gedvilaite - Kordusiene </td>
+   <td style="text-align:left;"> Margarita </td>
+   <td style="text-align:left;"> Lithuania </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Gislason </td>
+   <td style="text-align:left;"> Ingolfur </td>
+   <td style="text-align:left;"> Iceland </td>
+   <td style="text-align:left;"> Haskoli Islands </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Henriquez Ojeda </td>
+   <td style="text-align:left;"> Karla </td>
+   <td style="text-align:left;"> Chile </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Horne </td>
+   <td style="text-align:left;"> Christine </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;"> Washington State University </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Jasso </td>
+   <td style="text-align:left;"> Guillermina </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;"> New York University </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Jugran </td>
+   <td style="text-align:left;"> Deepak </td>
+   <td style="text-align:left;"> India </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kaasa </td>
+   <td style="text-align:left;"> Anneli </td>
+   <td style="text-align:left;"> Estonia </td>
+   <td style="text-align:left;"> University of Tartu </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kais </td>
+   <td style="text-align:left;"> Shaikh Mohammad </td>
+   <td style="text-align:left;"> Bangladesh </td>
+   <td style="text-align:left;"> University of Rajshahi </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Klein </td>
+   <td style="text-align:left;"> Joshua </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;"> Iona University </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Lyu </td>
+   <td style="text-align:left;"> Yujia </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;"> The University of Iowa </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Mohlabane </td>
+   <td style="text-align:left;"> Neo </td>
+   <td style="text-align:left;"> South Africa </td>
+   <td style="text-align:left;"> University of Pretoria </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Molapo </td>
+   <td style="text-align:left;"> Sepetla </td>
+   <td style="text-align:left;"> South Africa </td>
+   <td style="text-align:left;"> University of Pretoria </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Mortimer </td>
+   <td style="text-align:left;"> Jeylan </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Padilla </td>
+   <td style="text-align:left;"> Diego </td>
+   <td style="text-align:left;"> Chile </td>
+   <td style="text-align:left;"> Universidad San Sebastian </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Parrotta </td>
+   <td style="text-align:left;"> Kylie </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Patulny </td>
+   <td style="text-align:left;"> Roger </td>
+   <td style="text-align:left;"> Australia </td>
+   <td style="text-align:left;"> HKBU </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Peterson </td>
+   <td style="text-align:left;"> Gretchen </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;"> University of Memphis </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Puttergill </td>
+   <td style="text-align:left;"> Charles </td>
+   <td style="text-align:left;"> South Africa </td>
+   <td style="text-align:left;"> University of Pretoria </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rabello de Castro </td>
+   <td style="text-align:left;"> Lucia </td>
+   <td style="text-align:left;"> Brazil </td>
+   <td style="text-align:left;"> Federal University of Rio de Janeiro </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Ray </td>
+   <td style="text-align:left;"> Prof. anjali </td>
+   <td style="text-align:left;"> India </td>
+   <td style="text-align:left;"> University of Calcutta </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Reichert </td>
+   <td style="text-align:left;"> Frank </td>
+   <td style="text-align:left;"> Hong Kong </td>
+   <td style="text-align:left;"> The University of Hong Kong </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Ridgeway </td>
+   <td style="text-align:left;"> Cecilia </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;"> Stanford University </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Rogers </td>
+   <td style="text-align:left;"> Kimberly </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;"> Dartmouth College </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sellers </td>
+   <td style="text-align:left;"> Sherrill </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sengupta </td>
+   <td style="text-align:left;"> Lopamudra </td>
+   <td style="text-align:left;"> India </td>
+   <td style="text-align:left;"> Bangabasi College </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Shelly </td>
+   <td style="text-align:left;"> Robert </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Takahashi </td>
+   <td style="text-align:left;"> Masahito </td>
+   <td style="text-align:left;"> Japan </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Uys </td>
+   <td style="text-align:left;"> Tina </td>
+   <td style="text-align:left;"> South Africa </td>
+   <td style="text-align:left;"> University of Johannesburg </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Verma </td>
+   <td style="text-align:left;"> Deepak Kumar </td>
+   <td style="text-align:left;"> India </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Walker </td>
+   <td style="text-align:left;"> Lisa </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
 </div>
-</a><p><a href="../members\current\mariane-weber\index.html"></a></p>
 </div>
-<div class="body">
-<a href="../members\current\mariane-weber\index.html">
-<h3 class="no-anchor listing-title" data-anchor-id="current">
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../members\current\mariane-weber\index.html"> </a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1718960831067" data-listing-reading-time-sort="1.48">
-<div class="thumbnail">
-<p><a href="../members/current/mariane-weber/index.html"> <img src="../members/current/mariane-weber/marianeweber.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../members/current/mariane-weber/index.html">
-<h3 class="no-anchor listing-title">
-Mariane Weber
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../members/current/mariane-weber/index.html"> </a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1716543540000">
-<div class="thumbnail">
-<a href="../members\current\mariane-weber\marianeweber.jpg">
-<div class="thumbnail-image">
-
-</div>
-</a><p><a href="../members\current\mariane-weber\marianeweber.jpg"></a></p>
-</div>
-<div class="body">
-<a href="../members\current\mariane-weber\marianeweber.jpg">
-<h3 class="no-anchor listing-title">
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../members\current\mariane-weber\marianeweber.jpg"> </a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="previous" class="level1">
-<h1>Previous</h1>
-<div id="listing-previous" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1718960831067" data-listing-reading-time-sort="1.48">
-<div class="thumbnail">
-<p><a href="../members/previous/mariane-weber/index.html"> <img src="../members/previous/mariane-weber/marianeweber.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../members/previous/mariane-weber/index.html">
-<h3 class="no-anchor listing-title" data-anchor-id="previous">
-Mariane Weber
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../members/previous/mariane-weber/index.html"> </a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1716543540000">
-<div class="thumbnail">
-<a href="../members\previous\mariane-weber\marianeweber.jpg">
-<div class="thumbnail-image">
-
-</div>
-</a><p><a href="../members\previous\mariane-weber\marianeweber.jpg"></a></p>
-</div>
-<div class="body">
-<a href="../members\previous\mariane-weber\marianeweber.jpg">
-<h3 class="no-anchor listing-title">
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../members\previous\mariane-weber\marianeweber.jpg"> </a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1718960819517" data-listing-reading-time-sort="1.17">
-<div class="thumbnail">
-<p><a href="../members/previous/max-weber/index.html"> <img src="../members/previous/max-weber/maxweber.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../members/previous/max-weber/index.html">
-<h3 class="no-anchor listing-title">
-Max Weber
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../members/previous/max-weber/index.html"> </a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-
 
 
 </section>
@@ -417,7 +459,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -453,42 +512,60 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left"><a href="../LICENCE.html">2024</a></div>   
+    <div class="nav-footer-left"><a href="">2024</a></div>   
       <div class="nav-footer-center">
         <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/realworlddatascience">
+    <a class="nav-link" href="https://github.com/isa-rc42/webRC42ISA">
       <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
     </a>
   </li>  
 </ul>
       </div>
-    <div class="nav-footer-right"><a href="../ts-and-cs.html">Terms &amp; Conditions</a></div>
+    <div class="nav-footer-right"><a href="https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology">About RC42</a></div>
   </div>
 </footer>
 

@@ -1,13 +1,117 @@
 ---
 title: "Board Members"
-listing:
-  contents: board-members
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+# listing:
+#   # contents: board-members
+#   sort: "date desc"
+#   type: default
+#   categories: true
+#   sort-ui: false
+#   filter-ui: false
 page-layout: article
 title-block-banner: true
 ---
+
+# Board 2023 - 2027
+
+
+**Juan Carlos Castillo (President)**
+
+:::: {layout="[ 75, 25 ]"}
+
+::: {#first-column}
+* Associate Professor, Universidad de Chile, Chile.
+* <a href="mailto:juancastillov@uchile.cl">juancastillov@uchile.cl</a>
+:::
+
+::: {#second-column}
+![](board-members/01-juan-castillo.jpeg){.board-image} 
+
+
+
+:::
+
+::::
+
+**Lisa Slattery Walker (Secretary/Treasurer)**
+
+:::: {layout="[ 75, 25 ]"}
+
+::: {#first-column}
+* Professor, University of North Carolina at Charlotte, USA. 
+* <a href="mailto:lisa.walker@charlotte.edu">lisa.walker@charlotte.edu</a>
+:::
+
+::: {#second-column}
+![](board-members/02-lisa-slattery.jpeg){.board-image}
+:::
+::::
+
+**Charles Puttegril (Board member)**
+
+:::: {layout="[ 75, 25 ]"}
+
+::: {#first-column}
+* University of Pretoria, South Africa.
+:::
+
+::: {#second-column}
+![](board-members/04-charles-puttegril.jpeg){.board-image}
+:::
+::::
+
+
+
+
+ **Karla Henriquez Ojeda (Board member)**
+
+:::: {layout="[ 75, 25 ]"}
+
+::: {#first-column}
+* Université catholique de Louvain, Belgium
+:::
+
+::: {#second-column}
+![](board-members/05-karla-henriquez.jpeg){.board-image}
+:::
+::::
+
+
+
+**Deepak Kumar Verma (Board member)**
+
+:::: {layout="[ 75, 25 ]"}
+
+::: {#first-column}
+* Dr. B. R. Ambedkar University of Social Sciences, India
+:::
+
+::: {#second-column}
+![](board-members/03-none.jpeg){.board-image}
+:::
+::::
+
+
+ **t.b.a. (Online Communication Manager)**
+
+::: {.board-image}
+:::
+
+:::: {layout="[ 75, 25 ]"}
+
+::: {#first-column}
+* to be defined
+:::
+
+::: {#second-column}
+![](board-members/03-none.jpeg){.board-image}
+:::
+::::
+
+
+::: keyline
+---
+:::
+
+
+
 
