@@ -30,10 +30,7 @@ title-block-banner: true
 ```{r members}
 #| echo: false
 #| warning: false
-library(xlsx)
-library(knitr)
-library(kableExtra)
-library(dplyr)
+pacman::p_load(xlsx,knitr, kableExtra,dplyr)
 active <- xlsx::read.xlsx(file = "active.xlsx",sheetIndex = 1) 
 names(active) <- tolower(names(active))
 options(knitr.kable.NA = '')

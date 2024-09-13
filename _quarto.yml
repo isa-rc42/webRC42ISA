@@ -16,7 +16,7 @@ website:
   # If building your own site, replace our GA tag with your own GA tag before deployment.
   # This will prevent your activity being tracked and counted in our analytics dashboard.
   # Thank you!
-  google-analytics: "G-1TTWB7YTR6"
+  google-analytics: ""
   navbar:
     toggle-position: right
     background: "#009fe3"
@@ -26,8 +26,9 @@ website:
     collapse-below: sm
     pinned: false
     right:
-      - projects/projects.qmd
+      - events/events.qmd
       - publications/publications.qmd
+      - projects/projects.qmd
       - links/links.qmd
       - text: "About"
         menu:

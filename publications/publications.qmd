@@ -3,10 +3,14 @@ title: "Publications"
 listing:
   contents: papers
   sort: "date desc"
-  type: grid
+  type: default
   categories: true
   sort-ui: false
   filter-ui: false
 page-layout: article
 title-block-banner: true
 ---
+
+Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers from our RC-42 community that advance knowledge and foster intellectual growth.
+
+We will be populating this section with your input, please send your new publication (a DOI is enough) to [isa-rc42@isa-sociology.org](mailto:isa-rc42@isa-sociology.org).

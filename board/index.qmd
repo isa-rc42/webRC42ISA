@@ -46,7 +46,7 @@ title-block-banner: true
 :::
 ::::
 
-**Charles Puttegril (Board member)**
+**Charles Puttergil (Board member)**
 
 :::: {layout="[ 75, 25 ]"}
 
@@ -86,7 +86,7 @@ title-block-banner: true
 :::
 
 ::: {#second-column}
-![](board-members/03-none.jpeg){.board-image}
+![](board-members/deepak.jpg){.board-image}
 :::
 ::::
 

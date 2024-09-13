@@ -10,9 +10,9 @@ description: |
   Website of the Research Committee 42 Social Psychology, of the International Sociological Association.
 image: images/rc42logo.png
 listing:
-  - id: projects
+  - id: events
     contents:
-    - /projects/posts
+    - /events/posts
     # - /ideas
     # - /careers
     # - /viewpoints
@@ -42,7 +42,7 @@ listing:
     # - "!dsb-live.qmd"
     # - "!ai-series-7.qmd"
     sort: "date desc"
-    type: default
+    type: grid
     categories: false
     sort-ui: false
     filter-ui: false
@@ -168,12 +168,12 @@ toc: false
 
 ::: {.content-container}
 ::: {.listing-block}
-<a href="projects/projects.qmd">
+<a href="events/events.qmd">
 
 ## Events 
 </a>
 
-::: {#projects}
+::: {#events}
 :::
 
 :::

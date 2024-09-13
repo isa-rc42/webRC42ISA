@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data Science Bites – RC42</title>
+<title>Events – RC42</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/isa-favicon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,15 +69,71 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../rwds.css">
-<meta property="og:title" content="Data Science Bites – RC42">
-<meta property="og:description" content="Notes for contributors">
+<meta property="og:title" content="Events – RC42">
 <meta property="og:image" content="images/rc42logo-blue.PNG">
 <meta property="og:site_name" content="RC42">
-<meta name="twitter:title" content="Data Science Bites – RC42">
-<meta name="twitter:description" content="Notes for contributors">
+<meta name="twitter:title" content="Events – RC42">
 <meta name="twitter:image" content="images/rc42logo-blue.PNG">
 <meta name="twitter:site" content="@rwdatasci">
 <meta name="twitter:card" content="summary_large_image">
@@ -99,12 +157,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../events/events.html"> 
+    <a class="nav-link active" href="../events/events.html" aria-current="page"> 
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../publications/publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../projects/projects.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../links/links.html"> 
@@ -136,8 +198,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Data Science Bites</h1>
-            <p class="subtitle lead">Notes for contributors</p>
+      <h1 class="title">Events</h1>
                       </div>
   </div>
     
@@ -154,18 +215,8 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#basic-structure-of-a-bites-post" id="toc-basic-structure-of-a-bites-post" class="nav-link active" data-scroll-target="#basic-structure-of-a-bites-post">Basic structure of a Bites post</a></li>
-  <li><a href="#word-count-target" id="toc-word-count-target" class="nav-link" data-scroll-target="#word-count-target">Word count target</a></li>
-  <li><a href="#two-ways-of-contributing" id="toc-two-ways-of-contributing" class="nav-link" data-scroll-target="#two-ways-of-contributing">Two ways of contributing</a></li>
-  <li><a href="#next-steps" id="toc-next-steps" class="nav-link" data-scroll-target="#next-steps">Next steps</a></li>
-  <li><a href="#about-the-sciencebites-family" id="toc-about-the-sciencebites-family" class="nav-link" data-scroll-target="#about-the-sciencebites-family">About the ScienceBites family</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/isa-rc42/webRC42ISA/edit/main/contributor-docs/datasciencebites.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/isa-rc42/webRC42ISA/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div><div class="category" data-category="socialmedia">socialmedia <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -173,92 +224,89 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Our <a href="../ideas/datasciencebites/index.qmd">DataScienceBites</a> blog publishes digestible, engaging summaries of interesting new pre-print and peer-reviewed publications in the data science space. Our goal is to make scientific papers more widely accessible.</p>
-<p>Posts are targeted at undergraduate level. Each presents a non-technical overview of a new research paper and its key findings, potential applications, and implications.</p>
-<p>We welcome contributions from graduate students and early career researchers in data science (or related subjects) at universities throughout the world, as well as industry researchers. Contributors must have a passion for science communication and a drive to explain, clarify and demystify.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../ideas/datasciencebites/datasciencebites-logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="DataScienceBites logo. A dark grey circle with bite marks cut out. Overlaid text says, Import grad_students as writers, import new_research_papers as nrp, print(writers + nrp) and the title DataScienceBites." width="300"></p>
-</figure>
-</div>
-<section id="basic-structure-of-a-bites-post" class="level2">
-<h2 class="anchored" data-anchor-id="basic-structure-of-a-bites-post">Basic structure of a Bites post</h2>
-<ul>
-<li><dl>
-<dt>Information box</dt>
-<dd>
-Give the full title of the paper you are discussing, the name(s) of its author(s) and year of publication. Say where the paper is published, whether it is a pre-print or peer-reviewed publication, whether it is open access or not, and include links to authorised HTML and/or PDF versions.
-</dd>
-</dl></li>
-<li><dl>
-<dt>Introduction and background</dt>
-<dd>
-Ease readers into the paper you are writing about, and help them to see why it is worth their attention. Sometimes a paper is sufficiently ground breaking to be attention grabbing in its own right. But more often than not you will have to find a way to “hook” people in. When writing about data science tools and methods, for example, it can be helpful to start by outlining a typical application scenario or use case. Readers may be more familiar with the use case than the tool, so this provides valuable framing within which you can talk about the shortcomings of existing methods and the advances promised by the new research. Ultimately, you want to get readers to the point where they understand the problem, question or challenge that this new research paper aims to solve.
-</dd>
-</dl></li>
-<li><dl>
-<dt>Research overview</dt>
-<dd>
-Here is where you summarise the work done by the paper’s authors. Remember to keep the discussion non-technical and jargon-free, and explain important terms and concepts as necessary. Be careful not to oversimplify!
-</dd>
-</dl></li>
-<li><dl>
-<dt>Takeaways and implications</dt>
-<dd>
-Put this paper and its contributions into the appropriate context for readers. Does it make modest but important improvements to existing knowledge or research processes? Will it help others to address new questions, issues and challenges? What further work is needed to build on these advances?
-</dd>
-</dl></li>
-<li><dl>
-<dt>Further reading</dt>
-<dd>
-Readers may wish to learn more about the research or the broader subject matter, so feel free to point them to additional resources: videos, podcasts, textbooks, conference presentations, etc.
-</dd>
-</dl></li>
-</ul>
-</section>
-<section id="word-count-target" class="level2">
-<h2 class="anchored" data-anchor-id="word-count-target">Word count target</h2>
-<p>500–1,000 words.</p>
-</section>
-<section id="two-ways-of-contributing" class="level2">
-<h2 class="anchored" data-anchor-id="two-ways-of-contributing">Two ways of contributing</h2>
-<ul>
-<li><p><strong>Regular contributors</strong> commit to publishing an agreed number of posts (6–12) each year. Regular contributors will collaborate closely with editors on the development of the blog, and experienced contributors will be invited to support and mentor new regular contributors to help grow the DataScienceBites team.</p></li>
-<li><p><strong>Guest contributors</strong> make one-off or ad hoc contributions to the site. Proposals are to be submitted in the form of a <a href="contributor-guidelines.html#the-submission-process">content brief</a>.</p></li>
-</ul>
-</section>
-<section id="next-steps" class="level2">
-<h2 class="anchored" data-anchor-id="next-steps">Next steps</h2>
-<p>If you are interested in contributing to <a href="../ideas/datasciencebites/index.qmd">DataScienceBites</a>:</p>
-<ol type="1">
-<li><p>Identify a new data science publication that you are interested in writing about.</p></li>
-<li><p>Review the <a href="../ideas/datasciencebites/index.qmd">blog index</a> to make sure we haven’t already covered this publication.</p></li>
-<li><p>Decide whether you would like to be a regular contributor or guest contributor.</p></li>
-<li><p>Contact <a href="mailto:rwds@rss.org.uk">Real World Data Science</a> to discuss.</p></li>
-</ol>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Two things to keep in mind
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>DataScienceBites contributors are not permitted to write about their own research papers.</p>
-<p>If contributors are in any way affiliated with the authors of papers they write about, this must be disclosed as part of their submission.</p>
-</div>
-</div>
-</section>
-<section id="about-the-sciencebites-family" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-sciencebites-family">About the ScienceBites family</h2>
-<p>DataScienceBites is published by Real World Data Science and is part of the <a href="https://sciencebites.org/">ScienceBites</a> <a href="https://sciencebites.org/sciencebites-sites-galaxy/">galaxy of sites</a>. See <a href="https://sciencebites.org/about/">sciencebites.org</a> for an overview of the ScienceBites mission.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="news,socialmedia" data-listing-date-sort="1720584000000" data-listing-file-modified-sort="1724697711000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
+<div class="thumbnail">
+<p><a href="../events/posts/isa-2025/index.html" class="no-external"></a></p><a href="../events/posts/isa-2025/index.html" class="no-external">
+<p><img loading="lazy" src="../events/posts/isa-2025/image.png" class="thumbnail-image"></p>
+</a><p><a href="../events/posts/isa-2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/posts/isa-2025/index.html" class="no-external">5th ISA Forum of Sociology</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../events/posts/isa-2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('socialmedia'); return false;">
+socialmedia
+</div>
+</div>
+<div class="listing-description">
+<a href="../events/posts/isa-2025/index.html" class="no-external">The 5th ISA Forum of Sociology will take place in Rabat, Morocco on July 6-11, 2025. This is the first ISA Forum to be held in the region and specifically in a country that…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../events/posts/isa-2025/index.html" class="no-external">
+<div class="listing-date">
+Jul 10, 2024
+</div>
+<div class="listing-author">
+Julio Iturra
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="news,socialmedia" data-listing-date-sort="1719201600000" data-listing-file-modified-sort="1724697711000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="thumbnail">
+<p><a href="../events/posts/isa-twitter/index.html" class="no-external"></a></p><a href="../events/posts/isa-twitter/index.html" class="no-external">
+<p><img loading="lazy" src="../events/posts/isa-twitter/image.png" class="thumbnail-image"></p>
+</a><p><a href="../events/posts/isa-twitter/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/posts/isa-twitter/index.html" class="no-external">ISA on Twitter</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../events/posts/isa-twitter/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('socialmedia'); return false;">
+socialmedia
+</div>
+</div>
+<div class="listing-description">
+<a href="../events/posts/isa-twitter/index.html" class="no-external">ISA on X</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../events/posts/isa-twitter/index.html" class="no-external">
+<div class="listing-date">
+Jun 24, 2024
+</div>
+<div class="listing-author">
+Julio Iturra
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -694,7 +742,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/isa-rc42/webRC42ISA/edit/main/contributor-docs/datasciencebites.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/isa-rc42/webRC42ISA/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/isa-rc42/webRC42ISA/edit/main/events/events.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/isa-rc42/webRC42ISA/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p><a href="https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology">About RC42</a></p>
 </div>

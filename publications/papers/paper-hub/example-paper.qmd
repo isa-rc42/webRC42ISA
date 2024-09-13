@@ -1,0 +1,20 @@
+---
+title: "On the Justice of Earnings: A New Specification of the Justice Evaluation Function"
+author: "Guillermina Jasso"
+date: 05-01-1978
+image: https://www.journals.uchicago.edu/cms/10.1086/ajs.2024.130.issue-2/asset/19190819-7019-9081-e701-190819e70191/ajs.2024.130.issue-2.cover.png
+about:
+  template: jolla
+  image: https://www.journals.uchicago.edu/cms/10.1086/ajs.2024.130.issue-2/asset/19190819-7019-9081-e701-190819e70191/ajs.2024.130.issue-2.cover.png
+  links:
+    - icon: web
+      text: Link to paper
+      href: https://www.journals.uchicago.edu/doi/abs/10.1086/226706
+    # (additional links excluded for brevity)
+title-block-banner: true
+---
+
+# Abstract
+
+This paper describes a new specification of the justice evaluation function. It predicts precisely and unambiguously the kind of injustice (i.e., underreward or overreward) and the degree of injustice associated with given departures from perfect justice. The new justice evaluation function was inducted from extensive analyses of survey data on the perceived justice or injustice of earnings. It is directly generalizable to cover all socially distributed goods, and hence I propose it as a candidate for a universal Law of Justice Evaluation in distributional matters. Finally, I suggest that such a Law of Justice Evaluation performs one of the three tasks essential to a scientific theory of distributive justice.
+

@@ -2,9 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/projects/posts/isa-2025/index.html",
-      "/projects/posts/isa-twitter/index.html",
-      "/publications/papers/paper-hub/index.html"
+      "/events/posts/isa-2025/index.html",
+      "/events/posts/isa-twitter/index.html",
+      "/publications/papers/paper-hub/example-paper.html"
     ]
   },
   {
@@ -12,16 +12,20 @@
     "items": []
   },
   {
-    "listing": "/projects/projects.html",
+    "listing": "/publications/publications.html",
     "items": [
-      "/projects/posts/isa-2025/index.html",
-      "/projects/posts/isa-twitter/index.html"
+      "/publications/papers/paper-hub/example-paper.html"
     ]
   },
   {
-    "listing": "/publications/publications.html",
+    "listing": "/events/events.html",
     "items": [
-      "/publications/papers/paper-hub/index.html"
+      "/events/posts/isa-2025/index.html",
+      "/events/posts/isa-twitter/index.html"
     ]
+  },
+  {
+    "listing": "/projects/projects.html",
+    "items": []
   }
 ]
