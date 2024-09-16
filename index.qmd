@@ -10,18 +10,18 @@ description: |
   Website of the Research Committee 42 Social Psychology, of the International Sociological Association.
 image: images/rc42logo.png
 listing:
-  - id: events
+  - id: news
     contents:
     - /events/posts
-    # - /ideas
+    - /publications/posts
     # - /careers
     # - /viewpoints
     sort: "date desc"
     type: grid
-    categories: false
+    categories: true
     sort-ui: false
-    filter-ui: false
-    max-items: 3
+    filter-ui: true
+    max-items: 4
     feed: false
 
   # - id: board
@@ -35,19 +35,19 @@ listing:
   #   max-items: 3
   #   feed: false
 
-  - id: publications
-    contents:
-    - /publications/papers
-    # - "!index.qmd"
-    # - "!dsb-live.qmd"
-    # - "!ai-series-7.qmd"
-    sort: "date desc"
-    type: grid
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 1
-    feed: false
+  # - id: publications
+  #   contents:
+  #   - /publications/papers
+  #   # - "!index.qmd"
+  #   # - "!dsb-live.qmd"
+  #   # - "!ai-series-7.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 1
+  #   feed: false
   # 
   # - id: careers
   #   contents: 
@@ -168,27 +168,28 @@ toc: false
 
 ::: {.content-container}
 ::: {.listing-block}
-<a href="events/events.qmd">
 
-## Events 
-</a>
+# News
 
-::: {#events}
+::: {#news}
 :::
 
 :::
 :::
 
-::: {.pullout-text}
-::: {.pullout-container}
-::: {.pullout-block .black-background}
+
+::: {.section-text style="color: white;"}
+::: {.section-container .darkblue-background}
+::: {.section-block}
+::: {style="text-align: center; color: white;"}
+
 ![](images/quote-purple.png){width="100px"}
 
-## The aim of RC42 is to contribute to the development of theory and research in social psychology on an international level, uniting professional and scientific interests of its members to work together on a local, regional, and international level.
+# The aim of RC42 is to contribute to the development of theory and research in social psychology on an international level, uniting professional and scientific interests of its members to work together on a local, regional, and international level.
 :::
 :::
 :::
-
+:::
 
 
 <!-- ::: {.content-container} -->
@@ -203,23 +204,10 @@ toc: false
 <!-- ::: -->
 <!-- ::: -->
 
-::: {.content-container}
-::: {.listing-block}
-<a href="publications/publications.qmd">
-
-## Publications
-</a> 
-
-::: {#publications}
-:::
-
-:::
-:::
-
 
 ::: {.pullout-text}
 ::: {.pullout-container}
-::: {.pullout-block .black-background}
+::: {.pullout-block .blue-background}
 
 ## History of ISA 
 

@@ -63,375 +63,67 @@
     "text": "Board 2023 - 2027\nJuan Carlos Castillo (President)\n\n\n\n\n\n\n\nAssociate Professor, Universidad de Chile, Chile.\njuancastillov@uchile.cl\n\n\n\n\n\n\n\nLisa Slattery Walker (Secretary/Treasurer)\n\n\n\n\n\n\n\nProfessor, University of North Carolina at Charlotte, USA.\nlisa.walker@charlotte.edu\n\n\n\n\n\n\n\nCharles Puttergil (Board member)\n\n\n\n\n\n\n\nUniversity of Pretoria, South Africa.\n\n\n\n\n\n\n\nKarla Henriquez Ojeda (Board member)\n\n\n\n\n\n\n\nUniversité catholique de Louvain, Belgium\n\n\n\n\n\n\n\nDeepak Kumar Verma (Board member)\n\n\n\n\n\n\n\nDr. B. R. Ambedkar University of Social Sciences, India\n\n\n\n\n\n\n\nt.b.a. (Online Communication Manager)\n\n\n\n\n\n\n\n\n\n\nto be defined"
   },
   {
-    "objectID": "board/board-members/max-weber/index.html",
-    "href": "board/board-members/max-weber/index.html",
-    "title": "Max Weber",
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Contributor Covenant Code of Conduct",
     "section": "",
-    "text": "Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.\nWeber studied law, history, economics, and philosophy at several universities, including Heidelberg and Berlin. His early academic career focused on law and economics, but he soon shifted to broader social sciences. He became a professor at the University of Freiburg and later at the University of Heidelberg.\nWeber’s most influential work, “The Protestant Ethic and the Spirit of Capitalism” (1905), argued that Protestant ethics and ideas influenced the development of capitalism. He is also known for his theory of bureaucracy, which described an ideal type of bureaucracy based on rational-legal authority, hierarchical structure, and formal rules and procedures.\nBeyond his academic contributions, Weber was actively involved in politics and participated in the drafting of the Weimar Constitution after World War I. His later works, such as “Economy and Society” and “Politics as a Vocation,” continued to explore the complexities of modern society, authority, and individual agency.\nWeber’s comprehensive approach to sociology, which integrated economic, political, and cultural dimensions, has left a lasting legacy, making him a foundational figure in the field. He passed away in Munich in 1920, but his ideas continue to influence sociological thought and research."
+    "text": "We as members, contributors, and leaders of Real World Data Science (RWDS) pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
   },
   {
-    "objectID": "publications/papers/paper-hub/index.html",
-    "href": "publications/papers/paper-hub/index.html",
-    "title": "Research",
+    "objectID": "CODE_OF_CONDUCT.html#our-pledge",
+    "href": "CODE_OF_CONDUCT.html#our-pledge",
+    "title": "Contributor Covenant Code of Conduct",
     "section": "",
-    "text": "Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers from our RC-42 community that advance knowledge and foster intellectual growth.\nWe will be populating this section with your input, please send your new publication (a DOI is enough) to isa-rc42@isa-sociology.org."
+    "text": "We as members, contributors, and leaders of Real World Data Science (RWDS) pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
   },
   {
-    "objectID": "contributor-docs/datasets.html",
-    "href": "contributor-docs/datasets.html",
-    "title": "Datasets",
+    "objectID": "CODE_OF_CONDUCT.html#our-standards",
+    "href": "CODE_OF_CONDUCT.html#our-standards",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Our standards",
+    "text": "Our standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
+    "href": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Enforcement responsibilities",
+    "text": "Enforcement responsibilities\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#scope",
+    "href": "CODE_OF_CONDUCT.html#scope",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies within all community spaces (encompassing this site, our GitHub repository, our social media channels, and any RWDS-organised online and offline events). It also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\nNote that unless prior permission is agreed in writing with the editor of RWDS, only the editor and editorial board of RWDS may officially represent the community. Comment to the media must only be given by appointed representatives and must be approved by the RSS press office."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement",
+    "href": "CODE_OF_CONDUCT.html#enforcement",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Enforcement",
+    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at rwds@rss.org.uk. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement-guidelines",
+    "href": "CODE_OF_CONDUCT.html#enforcement-guidelines",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Enforcement guidelines",
+    "text": "Enforcement guidelines\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#attribution",
+    "href": "CODE_OF_CONDUCT.html#attribution",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Attribution",
+    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+  },
+  {
+    "objectID": "publications/posts/example-paper.html",
+    "href": "publications/posts/example-paper.html",
+    "title": "On the Justice of Earnings: A New Specification of the Justice Evaluation Function",
     "section": "",
-    "text": "It’s easy to find datasets online. What’s more difficult is finding quality datasets that are suitable for specific training and development needs. On Real World Data Science we aim to solve that problem.\nOur Datasets section will provide a curated list of recommended datasets along with detailed notes and guidance on what each dataset contains, how it is structured, and how best to make use of it. In particular, we want to highlight messy rather than pristine datasets – ones that capture the imperfections and oddities found in real-world data – so that users can practice not only data analysis and modelling, but data cleaning and preparation too!"
-  },
-  {
-    "objectID": "contributor-docs/datasets.html#structure",
-    "href": "contributor-docs/datasets.html#structure",
-    "title": "Datasets",
-    "section": "Structure",
-    "text": "Structure\nIf you have a dataset to recommend, your submission must cover the following areas:\n\nDataset name\nLink to source\nWhat data science tasks/methods can this dataset be used to demonstrate?\nHave you used this dataset for your own teaching/learning? (see Advice and recommendations below)\nWhy was the dataset originally created?\nWhen was it created?\nWho created it?\nLicences/restrictions?\nSize of dataset\nData types/description\nReal/synthetic data?"
-  },
-  {
-    "objectID": "contributor-docs/datasets.html#advice-and-recommendations",
-    "href": "contributor-docs/datasets.html#advice-and-recommendations",
-    "title": "Datasets",
-    "section": "Advice and recommendations",
-    "text": "Advice and recommendations\nHelp others to make good use of your recommended dataset. If you’ve had experience using a recommended dataset for your own teaching and learning, please consider creating an exercise for platform users to complete. If you encountered the dataset as part of a training course, competition or exercise created by a third party, make sure to give them a namecheck."
-  },
-  {
-    "objectID": "contributor-docs/call-for-contributions.html",
-    "href": "contributor-docs/call-for-contributions.html",
-    "title": "Call for contributions",
-    "section": "",
-    "text": "Real World Data Science aims to inform, inspire and strengthen the data science community by showcasing real-world examples of data science practice and bringing together data scientists to share knowledge.\nWe cannot succeed in these aims without the support and contributions of the data science community, so thank you for taking the time to review this open call for contributions."
-  },
-  {
-    "objectID": "contributor-docs/call-for-contributions.html#what-are-we-looking-for",
-    "href": "contributor-docs/call-for-contributions.html#what-are-we-looking-for",
-    "title": "Call for contributions",
-    "section": "What are we looking for?",
-    "text": "What are we looking for?\nBelow is a list of our core content areas. We welcome submissions in any of these areas. Each content area is linked to its own set of notes for contributors.\n\nCase studies\nExplainers\nExercises\nDatasets\nTraining guides\nRecommenders\nDataScienceBites\n\nSubmissions can focus on any and all topics and application areas. We want our content to reflect the breadth and depth of real-world data science."
-  },
-  {
-    "objectID": "contributor-docs/call-for-contributions.html#our-target-audience",
-    "href": "contributor-docs/call-for-contributions.html#our-target-audience",
-    "title": "Call for contributions",
-    "section": "Our target audience",
-    "text": "Our target audience\nReal World Data Science is for all who work in data science – whether they are students, teachers, practitioners or leaders. Submissions do not have to appeal to all data scientists, however. Contributors should think carefully about who they are trying to reach, and craft their submissions accordingly."
-  },
-  {
-    "objectID": "contributor-docs/call-for-contributions.html#what-can-submissions-include",
-    "href": "contributor-docs/call-for-contributions.html#what-can-submissions-include",
-    "title": "Call for contributions",
-    "section": "What can submissions include?",
-    "text": "What can submissions include?\nWe encourage contributors to experiment with and include different media formats in their submissions – text, images, audio and video. And as our site is built on Quarto – the new open-source publishing system developed by Posit – submissions to Real World Data Science can also include code cells, equations, figures, interactive data displays, and other elements to enrich the user experience.\nIf you haven’t used Quarto before, check out this fantastic tutorial from the developers. You can also explore some of the range of Quarto features that we use in this GitHub template repository, created by Finn-Ole Höner. It’s an excellent resource to help Real World Data Science contributors get started!"
-  },
-  {
-    "objectID": "contributor-docs/call-for-contributions.html#how-to-submit",
-    "href": "contributor-docs/call-for-contributions.html#how-to-submit",
-    "title": "Call for contributions",
-    "section": "How to submit",
-    "text": "How to submit\nOnce you’ve reviewed our notes for contributors and settled on a content area, theme and audience, please review our contributor guidelines for details on the submission process."
-  },
-  {
-    "objectID": "contributor-docs/training-guides.html",
-    "href": "contributor-docs/training-guides.html",
-    "title": "Training guides",
-    "section": "",
-    "text": "In data science, there’s no one-size-fits-all solution to every problem and challenge. So, part of the job of the data scientist is to rapidly learn about different sub-domains, tools and techniques, and put those learnings into practice.\nBut it can be time-consuming to figure out what you need to learn and in what order, and to identify the best resources for doing so. This is where our Training guides come in. Each will set out a learning pathway for data scientists to follow, with recommendations of textbooks, videos, practical exercises and other teaching material to use every step of the way."
-  },
-  {
-    "objectID": "contributor-docs/training-guides.html#structure",
-    "href": "contributor-docs/training-guides.html#structure",
-    "title": "Training guides",
-    "section": "Structure",
-    "text": "Structure\nContributors should think about their training guides as being short online courses that are constructed from existing high-quality material. You do not need to create your own “course” content. Rather, you should focus on recommending texts and other material for users to follow in a logical ordered way, so that they may build up and secure their knowledge of a particular topic.\nGuides should feature a mix of content types – not only text, but audio and video – and they should provide ample opportunities for users to practice what they are learning.\nA brief and extremely simplified example of a guide is as follows:\n\nStep 1: Watch this introductory video on Topic X.\nStep 2: Now you are familiar with the basics of Topic X, you will want to read Chapter 2 of Textbook Y, which delves into more of the mathematical underpinnings.\nStep 3: Let’s try Topic X ourselves. This GitHub repository has code for you to run it in Python. Copy the code and give it a go.\nStep 4: You should now be ready to apply Topic X to a simple data challenge. Check out this Kaggle page and practice what you have learned so far.\nStep 5: We’re now moving from the “beginner” level to “intermediate”, and Training Course Z gives a thorough overview of what you need to know for the next stage of your learning journey.\n… etc."
-  },
-  {
-    "objectID": "contributor-docs/training-guides.html#advice-and-recommendations",
-    "href": "contributor-docs/training-guides.html#advice-and-recommendations",
-    "title": "Training guides",
-    "section": "Advice and recommendations",
-    "text": "Advice and recommendations\nBe mindful of different learning styles. Some people prefer to read, others prefer to watch or listen. So, wherever possible, for each stage of your training guide, try to provide a mix of resources that meet the same learning objectives.\nConsider barriers to entry. Data scientists in large organisations may have access to training budgets or mechanisms to apply for training funds. But that isn’t the case for all data scientists, meaning that paid-for materials and training courses might not be accessible to everyone. Recommend them sparingly, and if there are ways to access the material at reduced rates do let users know. However, you must not link to illicit copies of material – e.g., unauthorised PDF reproductions of textbooks.\nIf there are resource gaps, please tell us. While planning out your training guide, you may well struggle to find the perfect piece of content to recommend at a particular stage of your learning journey. If that is the case, do get in touch with us. One of the goals of Real World Data Science is to identify and plug these sorts of gaps, so that all in the data science community can benefit. We’ll sketch out a commission and take it out to our network of contacts. Or perhaps it’ll be something you want to create for the site!"
-  },
-  {
-    "objectID": "contributor-docs/explainers.html",
-    "href": "contributor-docs/explainers.html",
-    "title": "Explainers",
-    "section": "",
-    "text": "On Real World Data Science, Explainers are the stories behind the stories of data science in action. They are deep-dive explorations of the ideas, concepts, tools, and methods that make data science projects possible. In particular, we are keen to explore and explain the statistical underpinnings of modern data science techniques.\nA good Explainer will lead audiences through the what, when, how, and why of its chosen topic. The ultimate goal is to equip data scientists with the information and insight they need to make smarter, more informed analytical choices.\nThere are many different but effective ways of structuring an explainer and plentiful written examples in major media outlets like The Guardian and Vox, but these are generally written for a non-technical audience. Examples of technical explainers (with interactive elements) can be found on Amazon’s Machine Learning University."
-  },
-  {
-    "objectID": "contributor-docs/explainers.html#structure",
-    "href": "contributor-docs/explainers.html#structure",
-    "title": "Explainers",
-    "section": "Structure",
-    "text": "Structure\nThe following outline is a basic guide to structuring an Explainer:\n\n\nHook\n\nIntroduce your topic, and explain why audiences should pay attention. For example, does your Explainer link to one of our published case studies? Does it focus on a tool or method that has been the subject of recent attention? Is it a foundational idea that is relevant to all sorts of data science applications?\n\n\n\nHigh-level summary\n\nA short, largely non-technical explanation of your topic. A good way to view this section is as an accessible condensed version of your complete Explainer. In thinking of it in this way, you can subtly signpost to audiences the areas you’ll be covering and the questions you’ll be answering throughout the remainder of your contribution.\n\n\n\nHistory and background\n\nIt can be useful from a practical perspective to explain how ideas, concepts, tools, and methods have developed over time. Applications may have become more complex in recent years, so exploring the origins of data science techniques might lead you to discover simpler use cases that can help support and illustrate your high-level summary.\n\n\n\nThe how, the when, the why\n\nThis section of your Explainer will likely be split into multiple subsections as you seek to build up your audience’s understanding of your chosen topic. It can be helpful to think about the sorts of questions an audience member might ask and to structure your contribution so that it directly addresses those questions (Q&A/FAQ formats are commonly used in explainer-type articles). If the focus of your Explainer is a data science method, for example, you’ll want to address the following:\n\n\n\nHow does it work and how is it applied (perhaps with an example or simulation)?\nWhat are the underlying assumptions?\nHow is performance checked and assessed?\nHow should outputs be interpreted?\nWhat are the pros and cons, the strengths and limitations of the approach?\nWhat are the optimal use cases, and when should the method be avoided altogether?\nAre there alternatives that people should know about?\n\n\nKey takeaways\n\nThis serves as your final summary: a chance to remind your audience of what they’ve learned from your Explainer and the main points they should keep in mind.\n\n\n\nTell me more\n\nIt’s sensible to assume that some of your audience will have further questions and will want to learn more about the topic. If you have additional sources of information to recommend, make sure to share them here."
-  },
-  {
-    "objectID": "contributor-docs/explainers.html#advice-and-recommendations",
-    "href": "contributor-docs/explainers.html#advice-and-recommendations",
-    "title": "Explainers",
-    "section": "Advice and recommendations",
-    "text": "Advice and recommendations\nFocus on what’s important. Your Explainer can’t hope to explain everything, so you need to be clear about what’s essential for your audience to know and what isn’t. Make good use of links and references to point audiences to other valuable sources of information that can enrich their understanding of your topic.\nBe clear about your target audience and their expected prior level of knowledge. In keeping with the point above, you need to be clear in your own mind about how much you expect your audience to know already about the general topic or subject matter. You can then structure your contribution accordingly. It might also be helpful to state explicitly, at the outset of your contribution, what assumptions you’ve made about your audience and highlight any background reading that might be beneficial.\nPlan out your route. To help you decide what to cover in your Explainer, we recommend first writing out your high-level summary of the topic and also your key takeaways. This provides you with a start point (A) and an end point (B) for your contribution. The challenge then is to figure out the main points or questions you will need to address to help your audience progress from point A to point B in a way that’s logical and intuitive for them to follow."
-  },
-  {
-    "objectID": "contributor-docs/datasciencebites.html",
-    "href": "contributor-docs/datasciencebites.html",
-    "title": "Data Science Bites",
-    "section": "",
-    "text": "Our DataScienceBites blog publishes digestible, engaging summaries of interesting new pre-print and peer-reviewed publications in the data science space. Our goal is to make scientific papers more widely accessible.\nPosts are targeted at undergraduate level. Each presents a non-technical overview of a new research paper and its key findings, potential applications, and implications.\nWe welcome contributions from graduate students and early career researchers in data science (or related subjects) at universities throughout the world, as well as industry researchers. Contributors must have a passion for science communication and a drive to explain, clarify and demystify."
-  },
-  {
-    "objectID": "contributor-docs/datasciencebites.html#basic-structure-of-a-bites-post",
-    "href": "contributor-docs/datasciencebites.html#basic-structure-of-a-bites-post",
-    "title": "Data Science Bites",
-    "section": "Basic structure of a Bites post",
-    "text": "Basic structure of a Bites post\n\n\nInformation box\n\nGive the full title of the paper you are discussing, the name(s) of its author(s) and year of publication. Say where the paper is published, whether it is a pre-print or peer-reviewed publication, whether it is open access or not, and include links to authorised HTML and/or PDF versions.\n\n\n\nIntroduction and background\n\nEase readers into the paper you are writing about, and help them to see why it is worth their attention. Sometimes a paper is sufficiently ground breaking to be attention grabbing in its own right. But more often than not you will have to find a way to “hook” people in. When writing about data science tools and methods, for example, it can be helpful to start by outlining a typical application scenario or use case. Readers may be more familiar with the use case than the tool, so this provides valuable framing within which you can talk about the shortcomings of existing methods and the advances promised by the new research. Ultimately, you want to get readers to the point where they understand the problem, question or challenge that this new research paper aims to solve.\n\n\n\nResearch overview\n\nHere is where you summarise the work done by the paper’s authors. Remember to keep the discussion non-technical and jargon-free, and explain important terms and concepts as necessary. Be careful not to oversimplify!\n\n\n\nTakeaways and implications\n\nPut this paper and its contributions into the appropriate context for readers. Does it make modest but important improvements to existing knowledge or research processes? Will it help others to address new questions, issues and challenges? What further work is needed to build on these advances?\n\n\n\nFurther reading\n\nReaders may wish to learn more about the research or the broader subject matter, so feel free to point them to additional resources: videos, podcasts, textbooks, conference presentations, etc."
-  },
-  {
-    "objectID": "contributor-docs/datasciencebites.html#word-count-target",
-    "href": "contributor-docs/datasciencebites.html#word-count-target",
-    "title": "Data Science Bites",
-    "section": "Word count target",
-    "text": "Word count target\n500–1,000 words."
-  },
-  {
-    "objectID": "contributor-docs/datasciencebites.html#two-ways-of-contributing",
-    "href": "contributor-docs/datasciencebites.html#two-ways-of-contributing",
-    "title": "Data Science Bites",
-    "section": "Two ways of contributing",
-    "text": "Two ways of contributing\n\nRegular contributors commit to publishing an agreed number of posts (6–12) each year. Regular contributors will collaborate closely with editors on the development of the blog, and experienced contributors will be invited to support and mentor new regular contributors to help grow the DataScienceBites team.\nGuest contributors make one-off or ad hoc contributions to the site. Proposals are to be submitted in the form of a content brief."
-  },
-  {
-    "objectID": "contributor-docs/datasciencebites.html#next-steps",
-    "href": "contributor-docs/datasciencebites.html#next-steps",
-    "title": "Data Science Bites",
-    "section": "Next steps",
-    "text": "Next steps\nIf you are interested in contributing to DataScienceBites:\n\nIdentify a new data science publication that you are interested in writing about.\nReview the blog index to make sure we haven’t already covered this publication.\nDecide whether you would like to be a regular contributor or guest contributor.\nContact Real World Data Science to discuss.\n\n\n\n\n\n\n\nTwo things to keep in mind\n\n\n\nDataScienceBites contributors are not permitted to write about their own research papers.\nIf contributors are in any way affiliated with the authors of papers they write about, this must be disclosed as part of their submission."
-  },
-  {
-    "objectID": "contributor-docs/datasciencebites.html#about-the-sciencebites-family",
-    "href": "contributor-docs/datasciencebites.html#about-the-sciencebites-family",
-    "title": "Data Science Bites",
-    "section": "About the ScienceBites family",
-    "text": "About the ScienceBites family\nDataScienceBites is published by Real World Data Science and is part of the ScienceBites galaxy of sites. See sciencebites.org for an overview of the ScienceBites mission."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "Email: rwds@rss.org.uk\nGitHub: @realworlddatascience\nZenodo: Real World Data Science community\nLinkedIn: RSS Real World Data Science\nX: @rwdatasci\nMastodon: @rwdatasci"
-  },
-  {
-    "objectID": "contact.html#editorial",
-    "href": "contact.html#editorial",
-    "title": "Contact us",
-    "section": "",
-    "text": "Email: rwds@rss.org.uk\nGitHub: @realworlddatascience\nZenodo: Real World Data Science community\nLinkedIn: RSS Real World Data Science\nX: @rwdatasci\nMastodon: @rwdatasci"
-  },
-  {
-    "objectID": "contact.html#advertising-and-commercial",
-    "href": "contact.html#advertising-and-commercial",
-    "title": "Contact us",
-    "section": "Advertising and commercial",
-    "text": "Advertising and commercial\n\nEmail: advertising@rss.org.uk"
-  },
-  {
-    "objectID": "LICENCE.html",
-    "href": "LICENCE.html",
-    "title": "Licence",
-    "section": "",
-    "text": "The website realworlddatascience.net (“the website”) and the “Real World Data Science” and “RWDS” brands and logos are copyright © Royal Statistical Society.\nCopyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page, e.g.:\n\n\n\nExample of copyright and licence information from an RWDS article.\n\n\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
-  },
-  {
-    "objectID": "LICENCE.html#content",
-    "href": "LICENCE.html#content",
-    "title": "Licence",
-    "section": "",
-    "text": "The website realworlddatascience.net (“the website”) and the “Real World Data Science” and “RWDS” brands and logos are copyright © Royal Statistical Society.\nCopyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page, e.g.:\n\n\n\nExample of copyright and licence information from an RWDS article.\n\n\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
-  },
-  {
-    "objectID": "LICENCE.html#software-and-services",
-    "href": "LICENCE.html#software-and-services",
-    "title": "Licence",
-    "section": "Software and services",
-    "text": "Software and services\nSource code and files for the website are available from GitHub. Use of our GitHub repository is governed by the Contributor Covenant Code of Conduct.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nReal World Data Science is hosted by GitHub Pages.\nThe website uses Google Analytics 4 for web analytics reporting.\nFonts used on Real World Data Science are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions. Use of this comment functionality is governed by the Contributor Covenant Code of Conduct."
-  },
-  {
-    "objectID": "members/index.html",
-    "href": "members/index.html",
-    "title": "Members",
-    "section": "",
-    "text": "Current\n\n\n\n\n\nLast name\nFirst name\nCountry\nAffiliation\n\n\n\n\nAbdi\nCawo\nUnited States\nUniversity of Minnesota\n\n\nBardhan Roy\nMaitreyee\nIndia\nDiamond Harbour Women University\n\n\nBhoi\nDhaneswar\nUnited Kingdom\n\n\n\nBurger\nKaspar\nLuxembourg\nUniversity of Luxembourg\n\n\nCastillo\nJuan Carlos\nChile\nUniversidad de Chile\n\n\nChoo\nHau\nMalaysia\n\n\n\nCleofas\nJerome\nPhilippines\n\n\n\nDionisio\nJosephine\nPhilippines\nUniversity of the Philippines Diliman\n\n\nGedvilaite - Kordusiene\nMargarita\nLithuania\n\n\n\nGislason\nIngolfur\nIceland\nHaskoli Islands\n\n\nHenriquez Ojeda\nKarla\nChile\n\n\n\nHorne\nChristine\nUnited States\nWashington State University\n\n\nJasso\nGuillermina\nUnited States\nNew York University\n\n\nJugran\nDeepak\nIndia\n\n\n\nKaasa\nAnneli\nEstonia\nUniversity of Tartu\n\n\nKais\nShaikh Mohammad\nBangladesh\nUniversity of Rajshahi\n\n\nKlein\nJoshua\nUnited States\nIona University\n\n\nLyu\nYujia\nUnited States\nThe University of Iowa\n\n\nMohlabane\nNeo\nSouth Africa\nUniversity of Pretoria\n\n\nMolapo\nSepetla\nSouth Africa\nUniversity of Pretoria\n\n\nMortimer\nJeylan\nUnited States\n\n\n\nPadilla\nDiego\nChile\nUniversidad San Sebastian\n\n\nParrotta\nKylie\nUnited States\n\n\n\nPatulny\nRoger\nAustralia\nHKBU\n\n\nPeterson\nGretchen\nUnited States\nUniversity of Memphis\n\n\nPuttergill\nCharles\nSouth Africa\nUniversity of Pretoria\n\n\nRabello de Castro\nLucia\nBrazil\nFederal University of Rio de Janeiro\n\n\nRay\nProf. anjali\nIndia\nUniversity of Calcutta\n\n\nReichert\nFrank\nHong Kong\nThe University of Hong Kong\n\n\nRidgeway\nCecilia\nUnited States\nStanford University\n\n\nRogers\nKimberly\nUnited States\nDartmouth College\n\n\nSellers\nSherrill\nUnited States\n\n\n\nSengupta\nLopamudra\nIndia\nBangabasi College\n\n\nShelly\nRobert\nUnited States\n\n\n\nTakahashi\nMasahito\nJapan\n\n\n\nUys\nTina\nSouth Africa\nUniversity of Johannesburg\n\n\nVerma\nDeepak Kumar\nIndia\n\n\n\nWalker\nLisa\nUnited States"
-  },
-  {
-    "objectID": "members/previous/max-weber/index.html",
-    "href": "members/previous/max-weber/index.html",
-    "title": "Max Weber",
-    "section": "",
-    "text": "Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.\nWeber studied law, history, economics, and philosophy at several universities, including Heidelberg and Berlin. His early academic career focused on law and economics, but he soon shifted to broader social sciences. He became a professor at the University of Freiburg and later at the University of Heidelberg.\nWeber’s most influential work, “The Protestant Ethic and the Spirit of Capitalism” (1905), argued that Protestant ethics and ideas influenced the development of capitalism. He is also known for his theory of bureaucracy, which described an ideal type of bureaucracy based on rational-legal authority, hierarchical structure, and formal rules and procedures.\nBeyond his academic contributions, Weber was actively involved in politics and participated in the drafting of the Weimar Constitution after World War I. His later works, such as “Economy and Society” and “Politics as a Vocation,” continued to explore the complexities of modern society, authority, and individual agency.\nWeber’s comprehensive approach to sociology, which integrated economic, political, and cultural dimensions, has left a lasting legacy, making him a foundational figure in the field. He passed away in Munich in 1920, but his ideas continue to influence sociological thought and research."
-  },
-  {
-    "objectID": "members/current/max-weber/index.html",
-    "href": "members/current/max-weber/index.html",
-    "title": "Max Weber",
-    "section": "",
-    "text": "Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.\nWeber studied law, history, economics, and philosophy at several universities, including Heidelberg and Berlin. His early academic career focused on law and economics, but he soon shifted to broader social sciences. He became a professor at the University of Freiburg and later at the University of Heidelberg.\nWeber’s most influential work, “The Protestant Ethic and the Spirit of Capitalism” (1905), argued that Protestant ethics and ideas influenced the development of capitalism. He is also known for his theory of bureaucracy, which described an ideal type of bureaucracy based on rational-legal authority, hierarchical structure, and formal rules and procedures.\nBeyond his academic contributions, Weber was actively involved in politics and participated in the drafting of the Weimar Constitution after World War I. His later works, such as “Economy and Society” and “Politics as a Vocation,” continued to explore the complexities of modern society, authority, and individual agency.\nWeber’s comprehensive approach to sociology, which integrated economic, political, and cultural dimensions, has left a lasting legacy, making him a foundational figure in the field. He passed away in Munich in 1920, but his ideas continue to influence sociological thought and research."
-  },
-  {
-    "objectID": "log.html",
-    "href": "log.html",
-    "title": "log.md",
-    "section": "",
-    "text": "log.md\n\nacá hice una copia del sitio de RWDS, razones:\n\nentrega en la página principal los principales updates de las distintas secciones de manera automática.\ntiene una sección inicial del más destacado, muy buena\nmás limpio en arquitectura que la versión inicial\n\nEstuve trabajando en adaptaciones iniciales, colores, algunas imágenes y estructura\nGeneré un block inicial nuevo, está al final del css (que se llama rwds.css, cambiar nombre), se llama section-container y se basa en el footer ya que quería una sección que se ocupara todo el espacio de la página hacia los lados, distinto a lo que aparece también ahora como .pullout-text (con background negro y texto)\nvarios temas pendientes:\n\nesto es un clon, ver problemas de derecho de propiedad, y si corresponde hacer un fork. De todas maneras es un CCBY4.0, no debería haber problema\ncreo que es mejor eliminar la sección de news porque es muy genérica (cualquier cosa nueva es news)\nsecciones:\n\nevents\nprojects\npublications\nlinks\nabout: board, members and past members (destacados?), past presidents\n\nprincipal event a publicar: ISA FORUM, call for sections\npara las publicaciones, puede quedar como un to-do, pero es lo más relevante y debería adaptarse al formato de blog. Puede ser manual, o lo mejor sería ingresar vía Zotero como en mi academic. Igual requiere buena pega de script (fase 2.0)\ncambiaría los colores del logo RC42, uni nuevo tal vez con el background del container inicial\n\nPuede ser buena idea trabajar esto como un project de github\nGenerar un formulario para las contribuciones, tal vez que se pueda entrar con el correo autentificado de los miembros\nen el about, el board en formato “meet the team” en el who we are, y ahí por ahora el board, luego la lista de miembros en 2 columnas por ahora, luego mejorar\nadaptar footer"
-  },
-  {
-    "objectID": "members/current/mariane-weber/index.html",
-    "href": "members/current/mariane-weber/index.html",
-    "title": "Mariane Weber",
-    "section": "",
-    "text": "Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.\nMarianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.\nOne of her most significant contributions was her book “Wife and Mother in the Development of Law” (1907), where she examined the legal and social status of women through history. She argued for the recognition of women’s work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.\nIn addition to her academic work, Marianne Weber was actively involved in the women’s movement in Germany. She was a member of the Federation of German Women’s Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women’s educational opportunities, legal rights, and social positions.\nAfter Max Weber’s death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.\nMarianne Weber’s life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954."
-  },
-  {
-    "objectID": "members/previous/mariane-weber/index.html",
-    "href": "members/previous/mariane-weber/index.html",
-    "title": "Mariane Weber",
-    "section": "",
-    "text": "Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.\nMarianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.\nOne of her most significant contributions was her book “Wife and Mother in the Development of Law” (1907), where she examined the legal and social status of women through history. She argued for the recognition of women’s work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.\nIn addition to her academic work, Marianne Weber was actively involved in the women’s movement in Germany. She was a member of the Federation of German Women’s Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women’s educational opportunities, legal rights, and social positions.\nAfter Max Weber’s death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.\nMarianne Weber’s life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954."
-  },
-  {
-    "objectID": "about-isa42.html",
-    "href": "about-isa42.html",
-    "title": "Welcome ISA RC42",
-    "section": "",
-    "text": "Welcome to the home of Real World Data Science, a new project from the Royal Statistical Society, in partnership with the American Statistical Association. This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace."
-  },
-  {
-    "objectID": "about-isa42.html#what-are-our-aims",
-    "href": "about-isa42.html#what-are-our-aims",
-    "title": "Welcome ISA RC42",
-    "section": "What are our aims?",
-    "text": "What are our aims?\nReal World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:\n\ndiscover and learn more efficiently;\n\nacquire practical problem-solving skills;\n\nshare their knowledge and accomplishments publicly;\n\nwork smarter, ethically, and more effectively."
-  },
-  {
-    "objectID": "about-isa42.html#what-we-provide",
-    "href": "about-isa42.html#what-we-provide",
-    "title": "Welcome ISA RC42",
-    "section": "What we provide",
-    "text": "What we provide\nResources are created to meet the needs of our target audiences. These include:\n\nCase studies – showing how data science is used to solve real-world problems in business, public policy and beyond.\nExplainers – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.\nExercises – to challenge and develop the analytical mindset that all data scientists need to succeed.\n\nAdvice – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.\n\nWe are also curating resources to help data scientists identify trustworthy, high-quality content. These include:\n\nTraining guides – step-by-step approaches and recommended sources for learning new skills and methods.\nDatasets – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.\nFeeds – who and what to follow to keep up with new ideas and developments."
-  },
-  {
-    "objectID": "about-isa42.html#how-you-can-get-involved",
-    "href": "about-isa42.html#how-you-can-get-involved",
-    "title": "Welcome ISA RC42",
-    "section": "How you can get involved",
-    "text": "How you can get involved\nSee our open call for contributions."
-  },
-  {
-    "objectID": "contributor-docs/exercises.html",
-    "href": "contributor-docs/exercises.html",
-    "title": "Exercises",
-    "section": "",
-    "text": "Exercises on Real World Data Science will provide users with the opportunity to put knowledge, skills and new learnings into practice, helping them to challenge and refine problem-solving approaches while strengthening the analytical mindset.\nWe will achieve this by supporting contributors to design tasks that replicate real-world data scientific processes."
-  },
-  {
-    "objectID": "contributor-docs/exercises.html#structure",
-    "href": "contributor-docs/exercises.html#structure",
-    "title": "Exercises",
-    "section": "Structure",
-    "text": "Structure\nThe structure of each published exercise will vary based on the nature of the task(s) being set by contributors and the outcomes they have in mind. But, in general, exercises must do more than simply ask users to, e.g., download dataset – analyse – report.\n\n\nSet the scene\n\nProvide a believable, realistic scenario for the exercise. Establish the “client challenge” within that context, the resources available to the data scientist, and the outputs expected.\n\n\n\nGive users space to map the problem themselves\n\nHave users translate the “client challenge” into a data analytic question that can be answered using the resources available.\n\n\n\nMake data exploration, cleaning and tidying part of the process\n\nData exploration and preparation are an important part of most – if not all – data science projects, so let users loose on messy datasets so they can figure out for themselves (a) what they’re working with and (b) what analytical approach makes sense given the features of the data and the problem at hand.\n\n\n\nIntegrate ethics\n\nPrompt users to think about and work through ethical questions and issues that are relevant to the exercise: the challenge they’ve been set, the data they’ve been given, their proposed approach to analysis and modelling, etc.\n\n\n\nEncourage users to document their work and their thinking\n\nThrough computational notebooks (e.g., Jupyter notebooks), users can record not only what they’ve done and how they’ve done it, but why.\n\n\n\nMake data presentation part of the expected project outputs\n\nAsk users to think about presenting to specific audiences: not just fellow data scientists, but to decision-makers, policy experts, the public – whatever makes most sense given the exercise scenario."
-  },
-  {
-    "objectID": "contributor-docs/exercises.html#advice-and-recommendations",
-    "href": "contributor-docs/exercises.html#advice-and-recommendations",
-    "title": "Exercises",
-    "section": "Advice and recommendations",
-    "text": "Advice and recommendations\nInvite users to share their work. If users have followed the advice to document their work and thinking, encourage them to share their computational notebooks (including their results and outputs) on their own websites, in a GitHub repository, through social media, etc. This could be a great way for others to discover your exercise, and we could also link to a selection of these notebooks through the exercise page itself.\nThink about building in hints and tips. Some users – depending on their prior level of experience – might appreciate some additional guidance here and there.\n\n\n\n\n\n\nSpoiler warning\n\n\n\n\n\nCollapsible callouts like this make hints and tips visible only to those who want to see them.\n\n\n\nBring different resources together. Exercises provide an ideal opportunity to draw together different strands of the Real World Data Science platform: case studies could provide inspiration or pointers for how to tackle a particular challenge; explainers might contain useful information about the tools and techniques to apply to specific types of data; and if you’re looking for a suitable set of data, it may already be listed in our datasets section."
-  },
-  {
-    "objectID": "contributor-docs/case-studies.html",
-    "href": "contributor-docs/case-studies.html",
-    "title": "Case studies",
-    "section": "",
-    "text": "Case studies are a core feature of the Real World Data Science platform. Our case studies are designed to show how data science is used to solve real-world problems in business, public policy and beyond.\nA good case study will be a source of information, insight and inspiration for each of our target audiences:"
-  },
-  {
-    "objectID": "contributor-docs/case-studies.html#structure",
-    "href": "contributor-docs/case-studies.html#structure",
-    "title": "Case studies",
-    "section": "Structure",
-    "text": "Structure\nCase studies should follow the structure below. It is not necessary to use the section headings we have provided – creativity and variety are encouraged. However, the areas outlined under each section heading should be covered in all submissions.\n\n\nThe problem/challenge\n\nSummarise the project and its relevance to your organisation’s needs, aims and ambitions.\n\n\n\nGoals\n\nSpecify what exactly you sought to achieve with this project.\n\n\n\nBackground\n\nAn opportunity to explain more about your organisation, your team’s work leading up to this project, and to introduce audiences more generally to the type of problem/challenge you faced, particularly if it is a problem/challenge that may be experienced by organisations working in different sectors and industries.\n\n\n\nApproach\n\nDescribe how you turned the organisational problem/challenge into a task that could be addressed by data science. Explain how you proposed to tackle the problem, including an introduction, explanation and (possibly) a demonstration of the method, model or algorithm used. (NB: If you have a particular interest and expertise in the method, model or algorithm employed, including the history and development of the approach, please consider writing an Explainer article for us.) Discuss the pros and cons, strengths and limitations of the approach.\n\n\n\nImplementation\n\nWalk audiences through the implementation process. Discuss any challenges you faced, the ethical questions you needed to ask and answer, and how you tested the approach to ensure that outcomes would be robust, unbiased, good quality, and aligned with the goals you set out to achieve.\n\n\n\nImpact\n\nHow successful was the project? Did you achieve your goals? How has the project benefited your organisation? How has the project benefited your team? Does it inform or pave the way for future projects?\n\n\n\nLearnings\n\nWhat are your key takeaways from the project? Are there lessons that you can apply to future projects, or are there learnings for other data scientists working on similar problems/challenges?"
-  },
-  {
-    "objectID": "contributor-docs/case-studies.html#advice-and-recommendations",
-    "href": "contributor-docs/case-studies.html#advice-and-recommendations",
-    "title": "Case studies",
-    "section": "Advice and recommendations",
-    "text": "Advice and recommendations\nYou do not need to divulge the detailed inner workings of your organisation. Audiences are mostly interested in understanding the general use case and the problem-solving process you went through, to see how they might apply the same approach within their own organisations.\nGoals can be defined quite broadly. There’s no expectation that you set out your organisation’s short- or long-term targets. Instead, audiences need to know enough about what you want to do so they can understand what motivates your choice of approach.\nUse toy examples and synthetic data to good effect. We understand that – whether for commercial, legal or ethical reasons – it can be difficult or impossible to share real data in your case studies, or to describe the actual outputs of your work. However, there are many ways to share learnings and insights without divulging sensitive information. This blog post from Lyft uses hypotheticals, mathematical notation and synthetic data to explain the company’s approach to causal forecasting without revealing actual KPIs or data.\nPeople like to experiment, so encourage them to do so. Our platform allows you to embed code and to link that code to interactive coding environments like Google Colab. So if, for example, you want to explain a technique like bootstrapping, why not provide a code block so that audiences can run a bootstrapping simulation themselves.\nLeverage links. You can’t be expected to explain or cover every detail in one case study, so feel free to point audiences to other sources of information that can enrich their understanding: blogs, videos, journal articles, conference papers, etc."
-  },
-  {
-    "objectID": "contributor-docs/contributor-guidelines.html",
-    "href": "contributor-docs/contributor-guidelines.html",
-    "title": "Contributor guidelines",
-    "section": "",
-    "text": "Thank you for your interest in contributing to Real World Data Science. This page will walk you through the process of preparing and submitting your idea. If you haven’t done so already, please review our call for contributions before continuing."
-  },
-  {
-    "objectID": "contributor-docs/contributor-guidelines.html#site-functionality-and-ethos",
-    "href": "contributor-docs/contributor-guidelines.html#site-functionality-and-ethos",
-    "title": "Contributor guidelines",
-    "section": "Site functionality and ethos",
-    "text": "Site functionality and ethos\nReal World Data Science is built on Quarto, the new open-source publishing system developed by Posit. The site has been designed from the ground up as a platform for data scientists, created by data scientists. Here’s what this means in practice:\n\nContributors can use data science software and tools to create content – e.g. Visual Studio Code, RStudio, Jupyter Lab; Python, R, Observable, and Shiny – allowing for the full integration of text, code, figures, equations, and other elements.\nReview and editing are transparent and collaborative, again making use of tools data scientists are familiar with – e.g. GitHub, Google Docs – for sharing and revising documents prior to publication.\nContent can be both engaging and interactive. Many data scientists learn by doing, so code can be made available as R Markdown or Jupyter Notebook files to be reused and experimented with offline. Or, the same documents can be used online through tools like Google Colab and Binder. Where appropriate, the use of interactive displays and Shiny apps is encouraged, allowing for data visualisations to be interrogated and regenerated on the fly.\nSite users are contributors too. Through annotation and commenting functionality, site users can interact and converse with authors and other members of the Real World Data Science community. And with all source files hosted on GitHub, users of our site can raise issues, or fork and propose improvements – leading to a true exchange of knowledge.\n\nFor more on how to work with Real World Data Science via GitHub, check out our repository README."
-  },
-  {
-    "objectID": "contributor-docs/contributor-guidelines.html#the-submission-process",
-    "href": "contributor-docs/contributor-guidelines.html#the-submission-process",
-    "title": "Contributor guidelines",
-    "section": "The submission process",
-    "text": "The submission process\n\nContact Real World Data Science to discuss your proposed submission.\nWrite up a short content brief containing the following:\n\nTitle of submission\nAuthor name(s) and affiliation(s)\nTheme/topic area\nTarget audience\nSynopsis or sell line, summarising the story and its importance/value (250 words max.)\nKey audience takeaways\nFormats and features (e.g., text, audio, video; code blocks, interactive data visualisations, etc.)\nAccessibility considerations\nTarget length/word count\nFirst draft to be submitted by…\n\nThe RWDS_post_template repository on GitHub contains a Quarto document (content-brief.qmd) that can be used to produce a content brief in the style and format of a Real World Data Science article.\nOnce a content brief is finalised and approved, content is to be prepared in the agreed format and with reference to our style guide. For simple text-based articles, we recommend using Google Docs or Microsoft Word; for submissions that incorporate technical or multimedia content, such as code, equations or interactive graphics, we recommend the Quarto (.qmd) file format. Use the RWDS_post_template repository to create your draft article in Quarto using the correct style and formatting. A sample article in the repo (report.qmd) contains code examples for the Quarto features used by Real World Data Science. Documents can be submitted in Jupyter notebook (.ipynb) and R Markdown (.Rmd) formats but will require conversion before publishing.\nDraft submissions should be sent via email to Real World Data Science. Alternatively, contributors can commit their drafts to their own GitHub accounts using the RWDS_post_template repository and the repository link then shared with Real World Data Science.\n\n\nFor more information on how to work with Real World Data Science via GitHub, check out our GitHub repository README."
-  },
-  {
-    "objectID": "contributor-docs/contributor-guidelines.html#copyright-and-content-licencing",
-    "href": "contributor-docs/contributor-guidelines.html#copyright-and-content-licencing",
-    "title": "Contributor guidelines",
-    "section": "Copyright and content licencing",
-    "text": "Copyright and content licencing\nContributors retain copyright of their work, but agree to publish their work under a Creative Commons licence. Contributors are free to choose the licence that best suits their content. The chosen licence should be indicated on the draft submission."
-  },
-  {
-    "objectID": "contributor-docs/contributor-guidelines.html#the-review-process",
-    "href": "contributor-docs/contributor-guidelines.html#the-review-process",
-    "title": "Contributor guidelines",
-    "section": "The review process",
-    "text": "The review process\nDraft submissions will be shared for review with members of the Real World Data Science Editorial Board. Comments and edits to documents will be made via Google Docs/MS Word/GitHub, allowing for (a) version control, (b) open dialogue between reviewers and contributors, and (c) a transparent and well-documented review process.\nOnce revisions are complete and content is accepted for publication, authors will be provided with HTML files to preview published content. Following sign-off by author and editor, HTML files will be made live."
-  },
-  {
-    "objectID": "contributor-docs/contributor-guidelines.html#post-publication",
-    "href": "contributor-docs/contributor-guidelines.html#post-publication",
-    "title": "Contributor guidelines",
-    "section": "Post-publication",
-    "text": "Post-publication\nContributors and editors will work together to promote content via social media platforms – Twitter/X, LinkedIn, blogs – and in other channels as appropriate – e.g., in response to related questions on Quora or Stack Overflow.\nContributors are encouraged to monitor their content regularly for user comments and discussions. Engaging in discussions with users – whether through the Real World Data Science platform or via social media and other channels – is an effective way of developing an audience: it builds profile for the contributor and their content, and encourages other users to find and interact with content.\nContributors also have the option of uploading the source code and files for their articles to Zenodo, an open science repository, and submitting this material to the Real World Data Science community. When a Zenodo record is created, a DOI is assigned, and this DOI can then be added to your published article on Real World Data Science. For more details on working with Zenodo, see help.zenodo.org."
-  },
-  {
-    "objectID": "contributor-docs/recommender.html",
-    "href": "contributor-docs/recommender.html",
-    "title": "Recommenders",
-    "section": "",
-    "text": "Too much content, not enough time. That about sums up the problem facing the data science community. So, our Recommenders are here to help. Contributors are invited to submit lists (or Feeds) of high-quality sources on all manner of topics – from foundational ideas in data science and cutting-edge techniques, to opinion and thought-leadership on the future of the profession. Reviews of new books and other material are also welcome."
-  },
-  {
-    "objectID": "contributor-docs/recommender.html#article-types-and-structures",
-    "href": "contributor-docs/recommender.html#article-types-and-structures",
-    "title": "Recommenders",
-    "section": "Article types and structures",
-    "text": "Article types and structures\n\nFeeds\nFeeds can be constructed around different topics and audiences. For example, you might want to recommend to all data scientists the “10 best blogs on machine learning” or “5 data visualisation experts to follow on Twitter/X”. Or you might have a list of sources specifically targeted at data science educators (e.g., “the best books on teaching coding”) or data science leaders (“5 insightful case studies on building data science teams”).\nWhatever you choose to focus on, the following outline provides a basic guide for structuring your feed:\n\n\nOverview\n\nA brief introduction to your list, its main focus, who you are writing it for, and why. You should also say something about yourself and your background, too. This will give additional context to the recommendations you are making.\n\n\n\nList of sources\n\nAs well as naming your sources and telling people how to find them, you should also explain why you are recommending them, how they helped you in your career or studies, or other reasons why you find them to be of value. Sample quotes or small excerpts from the sources themselves might also be worth including.\n\n\n\nStart a dialogue\n\nConclude with a call for readers to share recommendations of their own, either in the article comments or on social media. Contributors are welcome to update their lists any time with new sources, including those suggested by site users.\n\n\n\n\n\nReviews\nUnlike the feeds described above, each submitted review should focus only on a single publication. It must be an honest summary of the reviewer’s thoughts, feelings and impressions, covering what they liked and didn’t like, the perceived strengths and weaknesses of the publication, and whether it is likely to be of interest and value to its intended audience. Reviews should of course provide an overview of the publication in question but must avoid dry, itemised descriptions of the publication’s constituent parts (e.g., listing out the chapters in a book).\nAll reviews should list the following information (if relevant):\n\nTitle of publication\nAuthor(s)\nDate of publication\nEdition or format used for review\nPublisher\nLength\nPrice\nWebsite address or other source of further information"
-  },
-  {
-    "objectID": "contributor-docs/recommender.html#advice-and-recommendations",
-    "href": "contributor-docs/recommender.html#advice-and-recommendations",
-    "title": "Recommenders",
-    "section": "Advice and recommendations",
-    "text": "Advice and recommendations\nKeep lists to a sensible size. Feeds are meant to help data scientists to prioritise who and what to follow based on their interests and career stage – and it is much easier to keep tabs on 5 sources than it is 50, or even 15! So, the fewer the better.\nKeep your recommendations up to date. In this era of digital publishing, things can and do change overnight. So, if one of your recommended bloggers stops blogging, or the author of one of your favourite books makes a major update to the text, do be sure to let us – and your audience – know. We want to keep feeds and reviews current and useful.\nOf course you are brilliant, but… Please do not recommend or review your own publications or those in which you have a pecuniary or similar interest."
+    "text": "Abstract\nThis paper describes a new specification of the justice evaluation function. It predicts precisely and unambiguously the kind of injustice (i.e., underreward or overreward) and the degree of injustice associated with given departures from perfect justice. The new justice evaluation function was inducted from extensive analyses of survey data on the perceived justice or injustice of earnings. It is directly generalizable to cover all socially distributed goods, and hence I propose it as a candidate for a universal Law of Justice Evaluation in distributional matters. Finally, I suggest that such a Law of Justice Evaluation performs one of the three tasks essential to a scientific theory of distributive justice."
   },
   {
     "objectID": "contributor-docs/style-guide.html",
@@ -490,67 +182,375 @@
     "text": "Use of images\nImages for general illustration purposes will be sourced and – where necessary and within reason – paid for by Real World Data Science.\n\n\n\n\n\n\n\nNote\n\n\n\nFor all other style-related matters, we follow The Guardian and Observer Style Guide."
   },
   {
+    "objectID": "contributor-docs/recommender.html",
+    "href": "contributor-docs/recommender.html",
+    "title": "Recommenders",
+    "section": "",
+    "text": "Too much content, not enough time. That about sums up the problem facing the data science community. So, our Recommenders are here to help. Contributors are invited to submit lists (or Feeds) of high-quality sources on all manner of topics – from foundational ideas in data science and cutting-edge techniques, to opinion and thought-leadership on the future of the profession. Reviews of new books and other material are also welcome."
+  },
+  {
+    "objectID": "contributor-docs/recommender.html#article-types-and-structures",
+    "href": "contributor-docs/recommender.html#article-types-and-structures",
+    "title": "Recommenders",
+    "section": "Article types and structures",
+    "text": "Article types and structures\n\nFeeds\nFeeds can be constructed around different topics and audiences. For example, you might want to recommend to all data scientists the “10 best blogs on machine learning” or “5 data visualisation experts to follow on Twitter/X”. Or you might have a list of sources specifically targeted at data science educators (e.g., “the best books on teaching coding”) or data science leaders (“5 insightful case studies on building data science teams”).\nWhatever you choose to focus on, the following outline provides a basic guide for structuring your feed:\n\n\nOverview\n\nA brief introduction to your list, its main focus, who you are writing it for, and why. You should also say something about yourself and your background, too. This will give additional context to the recommendations you are making.\n\n\n\nList of sources\n\nAs well as naming your sources and telling people how to find them, you should also explain why you are recommending them, how they helped you in your career or studies, or other reasons why you find them to be of value. Sample quotes or small excerpts from the sources themselves might also be worth including.\n\n\n\nStart a dialogue\n\nConclude with a call for readers to share recommendations of their own, either in the article comments or on social media. Contributors are welcome to update their lists any time with new sources, including those suggested by site users.\n\n\n\n\n\nReviews\nUnlike the feeds described above, each submitted review should focus only on a single publication. It must be an honest summary of the reviewer’s thoughts, feelings and impressions, covering what they liked and didn’t like, the perceived strengths and weaknesses of the publication, and whether it is likely to be of interest and value to its intended audience. Reviews should of course provide an overview of the publication in question but must avoid dry, itemised descriptions of the publication’s constituent parts (e.g., listing out the chapters in a book).\nAll reviews should list the following information (if relevant):\n\nTitle of publication\nAuthor(s)\nDate of publication\nEdition or format used for review\nPublisher\nLength\nPrice\nWebsite address or other source of further information"
+  },
+  {
+    "objectID": "contributor-docs/recommender.html#advice-and-recommendations",
+    "href": "contributor-docs/recommender.html#advice-and-recommendations",
+    "title": "Recommenders",
+    "section": "Advice and recommendations",
+    "text": "Advice and recommendations\nKeep lists to a sensible size. Feeds are meant to help data scientists to prioritise who and what to follow based on their interests and career stage – and it is much easier to keep tabs on 5 sources than it is 50, or even 15! So, the fewer the better.\nKeep your recommendations up to date. In this era of digital publishing, things can and do change overnight. So, if one of your recommended bloggers stops blogging, or the author of one of your favourite books makes a major update to the text, do be sure to let us – and your audience – know. We want to keep feeds and reviews current and useful.\nOf course you are brilliant, but… Please do not recommend or review your own publications or those in which you have a pecuniary or similar interest."
+  },
+  {
+    "objectID": "contributor-docs/contributor-guidelines.html",
+    "href": "contributor-docs/contributor-guidelines.html",
+    "title": "Contributor guidelines",
+    "section": "",
+    "text": "Thank you for your interest in contributing to Real World Data Science. This page will walk you through the process of preparing and submitting your idea. If you haven’t done so already, please review our call for contributions before continuing."
+  },
+  {
+    "objectID": "contributor-docs/contributor-guidelines.html#site-functionality-and-ethos",
+    "href": "contributor-docs/contributor-guidelines.html#site-functionality-and-ethos",
+    "title": "Contributor guidelines",
+    "section": "Site functionality and ethos",
+    "text": "Site functionality and ethos\nReal World Data Science is built on Quarto, the new open-source publishing system developed by Posit. The site has been designed from the ground up as a platform for data scientists, created by data scientists. Here’s what this means in practice:\n\nContributors can use data science software and tools to create content – e.g. Visual Studio Code, RStudio, Jupyter Lab; Python, R, Observable, and Shiny – allowing for the full integration of text, code, figures, equations, and other elements.\nReview and editing are transparent and collaborative, again making use of tools data scientists are familiar with – e.g. GitHub, Google Docs – for sharing and revising documents prior to publication.\nContent can be both engaging and interactive. Many data scientists learn by doing, so code can be made available as R Markdown or Jupyter Notebook files to be reused and experimented with offline. Or, the same documents can be used online through tools like Google Colab and Binder. Where appropriate, the use of interactive displays and Shiny apps is encouraged, allowing for data visualisations to be interrogated and regenerated on the fly.\nSite users are contributors too. Through annotation and commenting functionality, site users can interact and converse with authors and other members of the Real World Data Science community. And with all source files hosted on GitHub, users of our site can raise issues, or fork and propose improvements – leading to a true exchange of knowledge.\n\nFor more on how to work with Real World Data Science via GitHub, check out our repository README."
+  },
+  {
+    "objectID": "contributor-docs/contributor-guidelines.html#the-submission-process",
+    "href": "contributor-docs/contributor-guidelines.html#the-submission-process",
+    "title": "Contributor guidelines",
+    "section": "The submission process",
+    "text": "The submission process\n\nContact Real World Data Science to discuss your proposed submission.\nWrite up a short content brief containing the following:\n\nTitle of submission\nAuthor name(s) and affiliation(s)\nTheme/topic area\nTarget audience\nSynopsis or sell line, summarising the story and its importance/value (250 words max.)\nKey audience takeaways\nFormats and features (e.g., text, audio, video; code blocks, interactive data visualisations, etc.)\nAccessibility considerations\nTarget length/word count\nFirst draft to be submitted by…\n\nThe RWDS_post_template repository on GitHub contains a Quarto document (content-brief.qmd) that can be used to produce a content brief in the style and format of a Real World Data Science article.\nOnce a content brief is finalised and approved, content is to be prepared in the agreed format and with reference to our style guide. For simple text-based articles, we recommend using Google Docs or Microsoft Word; for submissions that incorporate technical or multimedia content, such as code, equations or interactive graphics, we recommend the Quarto (.qmd) file format. Use the RWDS_post_template repository to create your draft article in Quarto using the correct style and formatting. A sample article in the repo (report.qmd) contains code examples for the Quarto features used by Real World Data Science. Documents can be submitted in Jupyter notebook (.ipynb) and R Markdown (.Rmd) formats but will require conversion before publishing.\nDraft submissions should be sent via email to Real World Data Science. Alternatively, contributors can commit their drafts to their own GitHub accounts using the RWDS_post_template repository and the repository link then shared with Real World Data Science.\n\n\nFor more information on how to work with Real World Data Science via GitHub, check out our GitHub repository README."
+  },
+  {
+    "objectID": "contributor-docs/contributor-guidelines.html#copyright-and-content-licencing",
+    "href": "contributor-docs/contributor-guidelines.html#copyright-and-content-licencing",
+    "title": "Contributor guidelines",
+    "section": "Copyright and content licencing",
+    "text": "Copyright and content licencing\nContributors retain copyright of their work, but agree to publish their work under a Creative Commons licence. Contributors are free to choose the licence that best suits their content. The chosen licence should be indicated on the draft submission."
+  },
+  {
+    "objectID": "contributor-docs/contributor-guidelines.html#the-review-process",
+    "href": "contributor-docs/contributor-guidelines.html#the-review-process",
+    "title": "Contributor guidelines",
+    "section": "The review process",
+    "text": "The review process\nDraft submissions will be shared for review with members of the Real World Data Science Editorial Board. Comments and edits to documents will be made via Google Docs/MS Word/GitHub, allowing for (a) version control, (b) open dialogue between reviewers and contributors, and (c) a transparent and well-documented review process.\nOnce revisions are complete and content is accepted for publication, authors will be provided with HTML files to preview published content. Following sign-off by author and editor, HTML files will be made live."
+  },
+  {
+    "objectID": "contributor-docs/contributor-guidelines.html#post-publication",
+    "href": "contributor-docs/contributor-guidelines.html#post-publication",
+    "title": "Contributor guidelines",
+    "section": "Post-publication",
+    "text": "Post-publication\nContributors and editors will work together to promote content via social media platforms – Twitter/X, LinkedIn, blogs – and in other channels as appropriate – e.g., in response to related questions on Quora or Stack Overflow.\nContributors are encouraged to monitor their content regularly for user comments and discussions. Engaging in discussions with users – whether through the Real World Data Science platform or via social media and other channels – is an effective way of developing an audience: it builds profile for the contributor and their content, and encourages other users to find and interact with content.\nContributors also have the option of uploading the source code and files for their articles to Zenodo, an open science repository, and submitting this material to the Real World Data Science community. When a Zenodo record is created, a DOI is assigned, and this DOI can then be added to your published article on Real World Data Science. For more details on working with Zenodo, see help.zenodo.org."
+  },
+  {
+    "objectID": "contributor-docs/case-studies.html",
+    "href": "contributor-docs/case-studies.html",
+    "title": "Case studies",
+    "section": "",
+    "text": "Case studies are a core feature of the Real World Data Science platform. Our case studies are designed to show how data science is used to solve real-world problems in business, public policy and beyond.\nA good case study will be a source of information, insight and inspiration for each of our target audiences:"
+  },
+  {
+    "objectID": "contributor-docs/case-studies.html#structure",
+    "href": "contributor-docs/case-studies.html#structure",
+    "title": "Case studies",
+    "section": "Structure",
+    "text": "Structure\nCase studies should follow the structure below. It is not necessary to use the section headings we have provided – creativity and variety are encouraged. However, the areas outlined under each section heading should be covered in all submissions.\n\n\nThe problem/challenge\n\nSummarise the project and its relevance to your organisation’s needs, aims and ambitions.\n\n\n\nGoals\n\nSpecify what exactly you sought to achieve with this project.\n\n\n\nBackground\n\nAn opportunity to explain more about your organisation, your team’s work leading up to this project, and to introduce audiences more generally to the type of problem/challenge you faced, particularly if it is a problem/challenge that may be experienced by organisations working in different sectors and industries.\n\n\n\nApproach\n\nDescribe how you turned the organisational problem/challenge into a task that could be addressed by data science. Explain how you proposed to tackle the problem, including an introduction, explanation and (possibly) a demonstration of the method, model or algorithm used. (NB: If you have a particular interest and expertise in the method, model or algorithm employed, including the history and development of the approach, please consider writing an Explainer article for us.) Discuss the pros and cons, strengths and limitations of the approach.\n\n\n\nImplementation\n\nWalk audiences through the implementation process. Discuss any challenges you faced, the ethical questions you needed to ask and answer, and how you tested the approach to ensure that outcomes would be robust, unbiased, good quality, and aligned with the goals you set out to achieve.\n\n\n\nImpact\n\nHow successful was the project? Did you achieve your goals? How has the project benefited your organisation? How has the project benefited your team? Does it inform or pave the way for future projects?\n\n\n\nLearnings\n\nWhat are your key takeaways from the project? Are there lessons that you can apply to future projects, or are there learnings for other data scientists working on similar problems/challenges?"
+  },
+  {
+    "objectID": "contributor-docs/case-studies.html#advice-and-recommendations",
+    "href": "contributor-docs/case-studies.html#advice-and-recommendations",
+    "title": "Case studies",
+    "section": "Advice and recommendations",
+    "text": "Advice and recommendations\nYou do not need to divulge the detailed inner workings of your organisation. Audiences are mostly interested in understanding the general use case and the problem-solving process you went through, to see how they might apply the same approach within their own organisations.\nGoals can be defined quite broadly. There’s no expectation that you set out your organisation’s short- or long-term targets. Instead, audiences need to know enough about what you want to do so they can understand what motivates your choice of approach.\nUse toy examples and synthetic data to good effect. We understand that – whether for commercial, legal or ethical reasons – it can be difficult or impossible to share real data in your case studies, or to describe the actual outputs of your work. However, there are many ways to share learnings and insights without divulging sensitive information. This blog post from Lyft uses hypotheticals, mathematical notation and synthetic data to explain the company’s approach to causal forecasting without revealing actual KPIs or data.\nPeople like to experiment, so encourage them to do so. Our platform allows you to embed code and to link that code to interactive coding environments like Google Colab. So if, for example, you want to explain a technique like bootstrapping, why not provide a code block so that audiences can run a bootstrapping simulation themselves.\nLeverage links. You can’t be expected to explain or cover every detail in one case study, so feel free to point audiences to other sources of information that can enrich their understanding: blogs, videos, journal articles, conference papers, etc."
+  },
+  {
+    "objectID": "contributor-docs/exercises.html",
+    "href": "contributor-docs/exercises.html",
+    "title": "Exercises",
+    "section": "",
+    "text": "Exercises on Real World Data Science will provide users with the opportunity to put knowledge, skills and new learnings into practice, helping them to challenge and refine problem-solving approaches while strengthening the analytical mindset.\nWe will achieve this by supporting contributors to design tasks that replicate real-world data scientific processes."
+  },
+  {
+    "objectID": "contributor-docs/exercises.html#structure",
+    "href": "contributor-docs/exercises.html#structure",
+    "title": "Exercises",
+    "section": "Structure",
+    "text": "Structure\nThe structure of each published exercise will vary based on the nature of the task(s) being set by contributors and the outcomes they have in mind. But, in general, exercises must do more than simply ask users to, e.g., download dataset – analyse – report.\n\n\nSet the scene\n\nProvide a believable, realistic scenario for the exercise. Establish the “client challenge” within that context, the resources available to the data scientist, and the outputs expected.\n\n\n\nGive users space to map the problem themselves\n\nHave users translate the “client challenge” into a data analytic question that can be answered using the resources available.\n\n\n\nMake data exploration, cleaning and tidying part of the process\n\nData exploration and preparation are an important part of most – if not all – data science projects, so let users loose on messy datasets so they can figure out for themselves (a) what they’re working with and (b) what analytical approach makes sense given the features of the data and the problem at hand.\n\n\n\nIntegrate ethics\n\nPrompt users to think about and work through ethical questions and issues that are relevant to the exercise: the challenge they’ve been set, the data they’ve been given, their proposed approach to analysis and modelling, etc.\n\n\n\nEncourage users to document their work and their thinking\n\nThrough computational notebooks (e.g., Jupyter notebooks), users can record not only what they’ve done and how they’ve done it, but why.\n\n\n\nMake data presentation part of the expected project outputs\n\nAsk users to think about presenting to specific audiences: not just fellow data scientists, but to decision-makers, policy experts, the public – whatever makes most sense given the exercise scenario."
+  },
+  {
+    "objectID": "contributor-docs/exercises.html#advice-and-recommendations",
+    "href": "contributor-docs/exercises.html#advice-and-recommendations",
+    "title": "Exercises",
+    "section": "Advice and recommendations",
+    "text": "Advice and recommendations\nInvite users to share their work. If users have followed the advice to document their work and thinking, encourage them to share their computational notebooks (including their results and outputs) on their own websites, in a GitHub repository, through social media, etc. This could be a great way for others to discover your exercise, and we could also link to a selection of these notebooks through the exercise page itself.\nThink about building in hints and tips. Some users – depending on their prior level of experience – might appreciate some additional guidance here and there.\n\n\n\n\n\n\nSpoiler warning\n\n\n\n\n\nCollapsible callouts like this make hints and tips visible only to those who want to see them.\n\n\n\nBring different resources together. Exercises provide an ideal opportunity to draw together different strands of the Real World Data Science platform: case studies could provide inspiration or pointers for how to tackle a particular challenge; explainers might contain useful information about the tools and techniques to apply to specific types of data; and if you’re looking for a suitable set of data, it may already be listed in our datasets section."
+  },
+  {
+    "objectID": "about-isa42.html",
+    "href": "about-isa42.html",
+    "title": "Welcome ISA RC42",
+    "section": "",
+    "text": "Welcome to the home of Real World Data Science, a new project from the Royal Statistical Society, in partnership with the American Statistical Association. This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace."
+  },
+  {
+    "objectID": "about-isa42.html#what-are-our-aims",
+    "href": "about-isa42.html#what-are-our-aims",
+    "title": "Welcome ISA RC42",
+    "section": "What are our aims?",
+    "text": "What are our aims?\nReal World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:\n\ndiscover and learn more efficiently;\n\nacquire practical problem-solving skills;\n\nshare their knowledge and accomplishments publicly;\n\nwork smarter, ethically, and more effectively."
+  },
+  {
+    "objectID": "about-isa42.html#what-we-provide",
+    "href": "about-isa42.html#what-we-provide",
+    "title": "Welcome ISA RC42",
+    "section": "What we provide",
+    "text": "What we provide\nResources are created to meet the needs of our target audiences. These include:\n\nCase studies – showing how data science is used to solve real-world problems in business, public policy and beyond.\nExplainers – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.\nExercises – to challenge and develop the analytical mindset that all data scientists need to succeed.\n\nAdvice – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.\n\nWe are also curating resources to help data scientists identify trustworthy, high-quality content. These include:\n\nTraining guides – step-by-step approaches and recommended sources for learning new skills and methods.\nDatasets – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.\nFeeds – who and what to follow to keep up with new ideas and developments."
+  },
+  {
+    "objectID": "about-isa42.html#how-you-can-get-involved",
+    "href": "about-isa42.html#how-you-can-get-involved",
+    "title": "Welcome ISA RC42",
+    "section": "How you can get involved",
+    "text": "How you can get involved\nSee our open call for contributions."
+  },
+  {
+    "objectID": "members/previous/mariane-weber/index.html",
+    "href": "members/previous/mariane-weber/index.html",
+    "title": "Mariane Weber",
+    "section": "",
+    "text": "Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.\nMarianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.\nOne of her most significant contributions was her book “Wife and Mother in the Development of Law” (1907), where she examined the legal and social status of women through history. She argued for the recognition of women’s work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.\nIn addition to her academic work, Marianne Weber was actively involved in the women’s movement in Germany. She was a member of the Federation of German Women’s Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women’s educational opportunities, legal rights, and social positions.\nAfter Max Weber’s death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.\nMarianne Weber’s life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954."
+  },
+  {
+    "objectID": "members/current/mariane-weber/index.html",
+    "href": "members/current/mariane-weber/index.html",
+    "title": "Mariane Weber",
+    "section": "",
+    "text": "Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.\nMarianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.\nOne of her most significant contributions was her book “Wife and Mother in the Development of Law” (1907), where she examined the legal and social status of women through history. She argued for the recognition of women’s work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.\nIn addition to her academic work, Marianne Weber was actively involved in the women’s movement in Germany. She was a member of the Federation of German Women’s Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women’s educational opportunities, legal rights, and social positions.\nAfter Max Weber’s death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.\nMarianne Weber’s life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954."
+  },
+  {
+    "objectID": "log.html",
+    "href": "log.html",
+    "title": "log.md",
+    "section": "",
+    "text": "log.md\n\nacá hice una copia del sitio de RWDS, razones:\n\nentrega en la página principal los principales updates de las distintas secciones de manera automática.\ntiene una sección inicial del más destacado, muy buena\nmás limpio en arquitectura que la versión inicial\n\nEstuve trabajando en adaptaciones iniciales, colores, algunas imágenes y estructura\nGeneré un block inicial nuevo, está al final del css (que se llama rwds.css, cambiar nombre), se llama section-container y se basa en el footer ya que quería una sección que se ocupara todo el espacio de la página hacia los lados, distinto a lo que aparece también ahora como .pullout-text (con background negro y texto)\nvarios temas pendientes:\n\nesto es un clon, ver problemas de derecho de propiedad, y si corresponde hacer un fork. De todas maneras es un CCBY4.0, no debería haber problema\ncreo que es mejor eliminar la sección de news porque es muy genérica (cualquier cosa nueva es news)\nsecciones:\n\nevents\nprojects\npublications\nlinks\nabout: board, members and past members (destacados?), past presidents\n\nprincipal event a publicar: ISA FORUM, call for sections\npara las publicaciones, puede quedar como un to-do, pero es lo más relevante y debería adaptarse al formato de blog. Puede ser manual, o lo mejor sería ingresar vía Zotero como en mi academic. Igual requiere buena pega de script (fase 2.0)\ncambiaría los colores del logo RC42, uni nuevo tal vez con el background del container inicial\n\nPuede ser buena idea trabajar esto como un project de github\nGenerar un formulario para las contribuciones, tal vez que se pueda entrar con el correo autentificado de los miembros\nen el about, el board en formato “meet the team” en el who we are, y ahí por ahora el board, luego la lista de miembros en 2 columnas por ahora, luego mejorar\nadaptar footer"
+  },
+  {
+    "objectID": "members/current/max-weber/index.html",
+    "href": "members/current/max-weber/index.html",
+    "title": "Max Weber",
+    "section": "",
+    "text": "Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.\nWeber studied law, history, economics, and philosophy at several universities, including Heidelberg and Berlin. His early academic career focused on law and economics, but he soon shifted to broader social sciences. He became a professor at the University of Freiburg and later at the University of Heidelberg.\nWeber’s most influential work, “The Protestant Ethic and the Spirit of Capitalism” (1905), argued that Protestant ethics and ideas influenced the development of capitalism. He is also known for his theory of bureaucracy, which described an ideal type of bureaucracy based on rational-legal authority, hierarchical structure, and formal rules and procedures.\nBeyond his academic contributions, Weber was actively involved in politics and participated in the drafting of the Weimar Constitution after World War I. His later works, such as “Economy and Society” and “Politics as a Vocation,” continued to explore the complexities of modern society, authority, and individual agency.\nWeber’s comprehensive approach to sociology, which integrated economic, political, and cultural dimensions, has left a lasting legacy, making him a foundational figure in the field. He passed away in Munich in 1920, but his ideas continue to influence sociological thought and research."
+  },
+  {
+    "objectID": "members/previous/max-weber/index.html",
+    "href": "members/previous/max-weber/index.html",
+    "title": "Max Weber",
+    "section": "",
+    "text": "Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.\nWeber studied law, history, economics, and philosophy at several universities, including Heidelberg and Berlin. His early academic career focused on law and economics, but he soon shifted to broader social sciences. He became a professor at the University of Freiburg and later at the University of Heidelberg.\nWeber’s most influential work, “The Protestant Ethic and the Spirit of Capitalism” (1905), argued that Protestant ethics and ideas influenced the development of capitalism. He is also known for his theory of bureaucracy, which described an ideal type of bureaucracy based on rational-legal authority, hierarchical structure, and formal rules and procedures.\nBeyond his academic contributions, Weber was actively involved in politics and participated in the drafting of the Weimar Constitution after World War I. His later works, such as “Economy and Society” and “Politics as a Vocation,” continued to explore the complexities of modern society, authority, and individual agency.\nWeber’s comprehensive approach to sociology, which integrated economic, political, and cultural dimensions, has left a lasting legacy, making him a foundational figure in the field. He passed away in Munich in 1920, but his ideas continue to influence sociological thought and research."
+  },
+  {
+    "objectID": "members/index.html",
+    "href": "members/index.html",
+    "title": "Members",
+    "section": "",
+    "text": "Current\n\n\n\n\n\nLast name\nFirst name\nCountry\nAffiliation\n\n\n\n\nAbdi\nCawo\nUnited States\nUniversity of Minnesota\n\n\nBardhan Roy\nMaitreyee\nIndia\nDiamond Harbour Women University\n\n\nBhoi\nDhaneswar\nUnited Kingdom\n\n\n\nBurger\nKaspar\nLuxembourg\nUniversity of Luxembourg\n\n\nCastillo\nJuan Carlos\nChile\nUniversidad de Chile\n\n\nChoo\nHau\nMalaysia\n\n\n\nCleofas\nJerome\nPhilippines\n\n\n\nDionisio\nJosephine\nPhilippines\nUniversity of the Philippines Diliman\n\n\nGedvilaite - Kordusiene\nMargarita\nLithuania\n\n\n\nGislason\nIngolfur\nIceland\nHaskoli Islands\n\n\nHenriquez Ojeda\nKarla\nChile\n\n\n\nHorne\nChristine\nUnited States\nWashington State University\n\n\nJasso\nGuillermina\nUnited States\nNew York University\n\n\nJugran\nDeepak\nIndia\n\n\n\nKaasa\nAnneli\nEstonia\nUniversity of Tartu\n\n\nKais\nShaikh Mohammad\nBangladesh\nUniversity of Rajshahi\n\n\nKlein\nJoshua\nUnited States\nIona University\n\n\nLyu\nYujia\nUnited States\nThe University of Iowa\n\n\nMohlabane\nNeo\nSouth Africa\nUniversity of Pretoria\n\n\nMolapo\nSepetla\nSouth Africa\nUniversity of Pretoria\n\n\nMortimer\nJeylan\nUnited States\n\n\n\nPadilla\nDiego\nChile\nUniversidad San Sebastian\n\n\nParrotta\nKylie\nUnited States\n\n\n\nPatulny\nRoger\nAustralia\nHKBU\n\n\nPeterson\nGretchen\nUnited States\nUniversity of Memphis\n\n\nPuttergill\nCharles\nSouth Africa\nUniversity of Pretoria\n\n\nRabello de Castro\nLucia\nBrazil\nFederal University of Rio de Janeiro\n\n\nRay\nProf. anjali\nIndia\nUniversity of Calcutta\n\n\nReichert\nFrank\nHong Kong\nThe University of Hong Kong\n\n\nRidgeway\nCecilia\nUnited States\nStanford University\n\n\nRogers\nKimberly\nUnited States\nDartmouth College\n\n\nSellers\nSherrill\nUnited States\n\n\n\nSengupta\nLopamudra\nIndia\nBangabasi College\n\n\nShelly\nRobert\nUnited States\n\n\n\nTakahashi\nMasahito\nJapan\n\n\n\nUys\nTina\nSouth Africa\nUniversity of Johannesburg\n\n\nVerma\nDeepak Kumar\nIndia\n\n\n\nWalker\nLisa\nUnited States"
+  },
+  {
+    "objectID": "LICENCE.html",
+    "href": "LICENCE.html",
+    "title": "Licence",
+    "section": "",
+    "text": "The website realworlddatascience.net (“the website”) and the “Real World Data Science” and “RWDS” brands and logos are copyright © Royal Statistical Society.\nCopyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page, e.g.:\n\n\n\nExample of copyright and licence information from an RWDS article.\n\n\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#content",
+    "href": "LICENCE.html#content",
+    "title": "Licence",
+    "section": "",
+    "text": "The website realworlddatascience.net (“the website”) and the “Real World Data Science” and “RWDS” brands and logos are copyright © Royal Statistical Society.\nCopyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page, e.g.:\n\n\n\nExample of copyright and licence information from an RWDS article.\n\n\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#software-and-services",
+    "href": "LICENCE.html#software-and-services",
+    "title": "Licence",
+    "section": "Software and services",
+    "text": "Software and services\nSource code and files for the website are available from GitHub. Use of our GitHub repository is governed by the Contributor Covenant Code of Conduct.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nReal World Data Science is hosted by GitHub Pages.\nThe website uses Google Analytics 4 for web analytics reporting.\nFonts used on Real World Data Science are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions. Use of this comment functionality is governed by the Contributor Covenant Code of Conduct."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "Email: rwds@rss.org.uk\nGitHub: @realworlddatascience\nZenodo: Real World Data Science community\nLinkedIn: RSS Real World Data Science\nX: @rwdatasci\nMastodon: @rwdatasci"
+  },
+  {
+    "objectID": "contact.html#editorial",
+    "href": "contact.html#editorial",
+    "title": "Contact us",
+    "section": "",
+    "text": "Email: rwds@rss.org.uk\nGitHub: @realworlddatascience\nZenodo: Real World Data Science community\nLinkedIn: RSS Real World Data Science\nX: @rwdatasci\nMastodon: @rwdatasci"
+  },
+  {
+    "objectID": "contact.html#advertising-and-commercial",
+    "href": "contact.html#advertising-and-commercial",
+    "title": "Contact us",
+    "section": "Advertising and commercial",
+    "text": "Advertising and commercial\n\nEmail: advertising@rss.org.uk"
+  },
+  {
+    "objectID": "contributor-docs/datasciencebites.html",
+    "href": "contributor-docs/datasciencebites.html",
+    "title": "Data Science Bites",
+    "section": "",
+    "text": "Our DataScienceBites blog publishes digestible, engaging summaries of interesting new pre-print and peer-reviewed publications in the data science space. Our goal is to make scientific papers more widely accessible.\nPosts are targeted at undergraduate level. Each presents a non-technical overview of a new research paper and its key findings, potential applications, and implications.\nWe welcome contributions from graduate students and early career researchers in data science (or related subjects) at universities throughout the world, as well as industry researchers. Contributors must have a passion for science communication and a drive to explain, clarify and demystify."
+  },
+  {
+    "objectID": "contributor-docs/datasciencebites.html#basic-structure-of-a-bites-post",
+    "href": "contributor-docs/datasciencebites.html#basic-structure-of-a-bites-post",
+    "title": "Data Science Bites",
+    "section": "Basic structure of a Bites post",
+    "text": "Basic structure of a Bites post\n\n\nInformation box\n\nGive the full title of the paper you are discussing, the name(s) of its author(s) and year of publication. Say where the paper is published, whether it is a pre-print or peer-reviewed publication, whether it is open access or not, and include links to authorised HTML and/or PDF versions.\n\n\n\nIntroduction and background\n\nEase readers into the paper you are writing about, and help them to see why it is worth their attention. Sometimes a paper is sufficiently ground breaking to be attention grabbing in its own right. But more often than not you will have to find a way to “hook” people in. When writing about data science tools and methods, for example, it can be helpful to start by outlining a typical application scenario or use case. Readers may be more familiar with the use case than the tool, so this provides valuable framing within which you can talk about the shortcomings of existing methods and the advances promised by the new research. Ultimately, you want to get readers to the point where they understand the problem, question or challenge that this new research paper aims to solve.\n\n\n\nResearch overview\n\nHere is where you summarise the work done by the paper’s authors. Remember to keep the discussion non-technical and jargon-free, and explain important terms and concepts as necessary. Be careful not to oversimplify!\n\n\n\nTakeaways and implications\n\nPut this paper and its contributions into the appropriate context for readers. Does it make modest but important improvements to existing knowledge or research processes? Will it help others to address new questions, issues and challenges? What further work is needed to build on these advances?\n\n\n\nFurther reading\n\nReaders may wish to learn more about the research or the broader subject matter, so feel free to point them to additional resources: videos, podcasts, textbooks, conference presentations, etc."
+  },
+  {
+    "objectID": "contributor-docs/datasciencebites.html#word-count-target",
+    "href": "contributor-docs/datasciencebites.html#word-count-target",
+    "title": "Data Science Bites",
+    "section": "Word count target",
+    "text": "Word count target\n500–1,000 words."
+  },
+  {
+    "objectID": "contributor-docs/datasciencebites.html#two-ways-of-contributing",
+    "href": "contributor-docs/datasciencebites.html#two-ways-of-contributing",
+    "title": "Data Science Bites",
+    "section": "Two ways of contributing",
+    "text": "Two ways of contributing\n\nRegular contributors commit to publishing an agreed number of posts (6–12) each year. Regular contributors will collaborate closely with editors on the development of the blog, and experienced contributors will be invited to support and mentor new regular contributors to help grow the DataScienceBites team.\nGuest contributors make one-off or ad hoc contributions to the site. Proposals are to be submitted in the form of a content brief."
+  },
+  {
+    "objectID": "contributor-docs/datasciencebites.html#next-steps",
+    "href": "contributor-docs/datasciencebites.html#next-steps",
+    "title": "Data Science Bites",
+    "section": "Next steps",
+    "text": "Next steps\nIf you are interested in contributing to DataScienceBites:\n\nIdentify a new data science publication that you are interested in writing about.\nReview the blog index to make sure we haven’t already covered this publication.\nDecide whether you would like to be a regular contributor or guest contributor.\nContact Real World Data Science to discuss.\n\n\n\n\n\n\n\nTwo things to keep in mind\n\n\n\nDataScienceBites contributors are not permitted to write about their own research papers.\nIf contributors are in any way affiliated with the authors of papers they write about, this must be disclosed as part of their submission."
+  },
+  {
+    "objectID": "contributor-docs/datasciencebites.html#about-the-sciencebites-family",
+    "href": "contributor-docs/datasciencebites.html#about-the-sciencebites-family",
+    "title": "Data Science Bites",
+    "section": "About the ScienceBites family",
+    "text": "About the ScienceBites family\nDataScienceBites is published by Real World Data Science and is part of the ScienceBites galaxy of sites. See sciencebites.org for an overview of the ScienceBites mission."
+  },
+  {
+    "objectID": "contributor-docs/explainers.html",
+    "href": "contributor-docs/explainers.html",
+    "title": "Explainers",
+    "section": "",
+    "text": "On Real World Data Science, Explainers are the stories behind the stories of data science in action. They are deep-dive explorations of the ideas, concepts, tools, and methods that make data science projects possible. In particular, we are keen to explore and explain the statistical underpinnings of modern data science techniques.\nA good Explainer will lead audiences through the what, when, how, and why of its chosen topic. The ultimate goal is to equip data scientists with the information and insight they need to make smarter, more informed analytical choices.\nThere are many different but effective ways of structuring an explainer and plentiful written examples in major media outlets like The Guardian and Vox, but these are generally written for a non-technical audience. Examples of technical explainers (with interactive elements) can be found on Amazon’s Machine Learning University."
+  },
+  {
+    "objectID": "contributor-docs/explainers.html#structure",
+    "href": "contributor-docs/explainers.html#structure",
+    "title": "Explainers",
+    "section": "Structure",
+    "text": "Structure\nThe following outline is a basic guide to structuring an Explainer:\n\n\nHook\n\nIntroduce your topic, and explain why audiences should pay attention. For example, does your Explainer link to one of our published case studies? Does it focus on a tool or method that has been the subject of recent attention? Is it a foundational idea that is relevant to all sorts of data science applications?\n\n\n\nHigh-level summary\n\nA short, largely non-technical explanation of your topic. A good way to view this section is as an accessible condensed version of your complete Explainer. In thinking of it in this way, you can subtly signpost to audiences the areas you’ll be covering and the questions you’ll be answering throughout the remainder of your contribution.\n\n\n\nHistory and background\n\nIt can be useful from a practical perspective to explain how ideas, concepts, tools, and methods have developed over time. Applications may have become more complex in recent years, so exploring the origins of data science techniques might lead you to discover simpler use cases that can help support and illustrate your high-level summary.\n\n\n\nThe how, the when, the why\n\nThis section of your Explainer will likely be split into multiple subsections as you seek to build up your audience’s understanding of your chosen topic. It can be helpful to think about the sorts of questions an audience member might ask and to structure your contribution so that it directly addresses those questions (Q&A/FAQ formats are commonly used in explainer-type articles). If the focus of your Explainer is a data science method, for example, you’ll want to address the following:\n\n\n\nHow does it work and how is it applied (perhaps with an example or simulation)?\nWhat are the underlying assumptions?\nHow is performance checked and assessed?\nHow should outputs be interpreted?\nWhat are the pros and cons, the strengths and limitations of the approach?\nWhat are the optimal use cases, and when should the method be avoided altogether?\nAre there alternatives that people should know about?\n\n\nKey takeaways\n\nThis serves as your final summary: a chance to remind your audience of what they’ve learned from your Explainer and the main points they should keep in mind.\n\n\n\nTell me more\n\nIt’s sensible to assume that some of your audience will have further questions and will want to learn more about the topic. If you have additional sources of information to recommend, make sure to share them here."
+  },
+  {
+    "objectID": "contributor-docs/explainers.html#advice-and-recommendations",
+    "href": "contributor-docs/explainers.html#advice-and-recommendations",
+    "title": "Explainers",
+    "section": "Advice and recommendations",
+    "text": "Advice and recommendations\nFocus on what’s important. Your Explainer can’t hope to explain everything, so you need to be clear about what’s essential for your audience to know and what isn’t. Make good use of links and references to point audiences to other valuable sources of information that can enrich their understanding of your topic.\nBe clear about your target audience and their expected prior level of knowledge. In keeping with the point above, you need to be clear in your own mind about how much you expect your audience to know already about the general topic or subject matter. You can then structure your contribution accordingly. It might also be helpful to state explicitly, at the outset of your contribution, what assumptions you’ve made about your audience and highlight any background reading that might be beneficial.\nPlan out your route. To help you decide what to cover in your Explainer, we recommend first writing out your high-level summary of the topic and also your key takeaways. This provides you with a start point (A) and an end point (B) for your contribution. The challenge then is to figure out the main points or questions you will need to address to help your audience progress from point A to point B in a way that’s logical and intuitive for them to follow."
+  },
+  {
+    "objectID": "contributor-docs/training-guides.html",
+    "href": "contributor-docs/training-guides.html",
+    "title": "Training guides",
+    "section": "",
+    "text": "In data science, there’s no one-size-fits-all solution to every problem and challenge. So, part of the job of the data scientist is to rapidly learn about different sub-domains, tools and techniques, and put those learnings into practice.\nBut it can be time-consuming to figure out what you need to learn and in what order, and to identify the best resources for doing so. This is where our Training guides come in. Each will set out a learning pathway for data scientists to follow, with recommendations of textbooks, videos, practical exercises and other teaching material to use every step of the way."
+  },
+  {
+    "objectID": "contributor-docs/training-guides.html#structure",
+    "href": "contributor-docs/training-guides.html#structure",
+    "title": "Training guides",
+    "section": "Structure",
+    "text": "Structure\nContributors should think about their training guides as being short online courses that are constructed from existing high-quality material. You do not need to create your own “course” content. Rather, you should focus on recommending texts and other material for users to follow in a logical ordered way, so that they may build up and secure their knowledge of a particular topic.\nGuides should feature a mix of content types – not only text, but audio and video – and they should provide ample opportunities for users to practice what they are learning.\nA brief and extremely simplified example of a guide is as follows:\n\nStep 1: Watch this introductory video on Topic X.\nStep 2: Now you are familiar with the basics of Topic X, you will want to read Chapter 2 of Textbook Y, which delves into more of the mathematical underpinnings.\nStep 3: Let’s try Topic X ourselves. This GitHub repository has code for you to run it in Python. Copy the code and give it a go.\nStep 4: You should now be ready to apply Topic X to a simple data challenge. Check out this Kaggle page and practice what you have learned so far.\nStep 5: We’re now moving from the “beginner” level to “intermediate”, and Training Course Z gives a thorough overview of what you need to know for the next stage of your learning journey.\n… etc."
+  },
+  {
+    "objectID": "contributor-docs/training-guides.html#advice-and-recommendations",
+    "href": "contributor-docs/training-guides.html#advice-and-recommendations",
+    "title": "Training guides",
+    "section": "Advice and recommendations",
+    "text": "Advice and recommendations\nBe mindful of different learning styles. Some people prefer to read, others prefer to watch or listen. So, wherever possible, for each stage of your training guide, try to provide a mix of resources that meet the same learning objectives.\nConsider barriers to entry. Data scientists in large organisations may have access to training budgets or mechanisms to apply for training funds. But that isn’t the case for all data scientists, meaning that paid-for materials and training courses might not be accessible to everyone. Recommend them sparingly, and if there are ways to access the material at reduced rates do let users know. However, you must not link to illicit copies of material – e.g., unauthorised PDF reproductions of textbooks.\nIf there are resource gaps, please tell us. While planning out your training guide, you may well struggle to find the perfect piece of content to recommend at a particular stage of your learning journey. If that is the case, do get in touch with us. One of the goals of Real World Data Science is to identify and plug these sorts of gaps, so that all in the data science community can benefit. We’ll sketch out a commission and take it out to our network of contacts. Or perhaps it’ll be something you want to create for the site!"
+  },
+  {
+    "objectID": "contributor-docs/call-for-contributions.html",
+    "href": "contributor-docs/call-for-contributions.html",
+    "title": "Call for contributions",
+    "section": "",
+    "text": "Real World Data Science aims to inform, inspire and strengthen the data science community by showcasing real-world examples of data science practice and bringing together data scientists to share knowledge.\nWe cannot succeed in these aims without the support and contributions of the data science community, so thank you for taking the time to review this open call for contributions."
+  },
+  {
+    "objectID": "contributor-docs/call-for-contributions.html#what-are-we-looking-for",
+    "href": "contributor-docs/call-for-contributions.html#what-are-we-looking-for",
+    "title": "Call for contributions",
+    "section": "What are we looking for?",
+    "text": "What are we looking for?\nBelow is a list of our core content areas. We welcome submissions in any of these areas. Each content area is linked to its own set of notes for contributors.\n\nCase studies\nExplainers\nExercises\nDatasets\nTraining guides\nRecommenders\nDataScienceBites\n\nSubmissions can focus on any and all topics and application areas. We want our content to reflect the breadth and depth of real-world data science."
+  },
+  {
+    "objectID": "contributor-docs/call-for-contributions.html#our-target-audience",
+    "href": "contributor-docs/call-for-contributions.html#our-target-audience",
+    "title": "Call for contributions",
+    "section": "Our target audience",
+    "text": "Our target audience\nReal World Data Science is for all who work in data science – whether they are students, teachers, practitioners or leaders. Submissions do not have to appeal to all data scientists, however. Contributors should think carefully about who they are trying to reach, and craft their submissions accordingly."
+  },
+  {
+    "objectID": "contributor-docs/call-for-contributions.html#what-can-submissions-include",
+    "href": "contributor-docs/call-for-contributions.html#what-can-submissions-include",
+    "title": "Call for contributions",
+    "section": "What can submissions include?",
+    "text": "What can submissions include?\nWe encourage contributors to experiment with and include different media formats in their submissions – text, images, audio and video. And as our site is built on Quarto – the new open-source publishing system developed by Posit – submissions to Real World Data Science can also include code cells, equations, figures, interactive data displays, and other elements to enrich the user experience.\nIf you haven’t used Quarto before, check out this fantastic tutorial from the developers. You can also explore some of the range of Quarto features that we use in this GitHub template repository, created by Finn-Ole Höner. It’s an excellent resource to help Real World Data Science contributors get started!"
+  },
+  {
+    "objectID": "contributor-docs/call-for-contributions.html#how-to-submit",
+    "href": "contributor-docs/call-for-contributions.html#how-to-submit",
+    "title": "Call for contributions",
+    "section": "How to submit",
+    "text": "How to submit\nOnce you’ve reviewed our notes for contributors and settled on a content area, theme and audience, please review our contributor guidelines for details on the submission process."
+  },
+  {
+    "objectID": "contributor-docs/datasets.html",
+    "href": "contributor-docs/datasets.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "It’s easy to find datasets online. What’s more difficult is finding quality datasets that are suitable for specific training and development needs. On Real World Data Science we aim to solve that problem.\nOur Datasets section will provide a curated list of recommended datasets along with detailed notes and guidance on what each dataset contains, how it is structured, and how best to make use of it. In particular, we want to highlight messy rather than pristine datasets – ones that capture the imperfections and oddities found in real-world data – so that users can practice not only data analysis and modelling, but data cleaning and preparation too!"
+  },
+  {
+    "objectID": "contributor-docs/datasets.html#structure",
+    "href": "contributor-docs/datasets.html#structure",
+    "title": "Datasets",
+    "section": "Structure",
+    "text": "Structure\nIf you have a dataset to recommend, your submission must cover the following areas:\n\nDataset name\nLink to source\nWhat data science tasks/methods can this dataset be used to demonstrate?\nHave you used this dataset for your own teaching/learning? (see Advice and recommendations below)\nWhy was the dataset originally created?\nWhen was it created?\nWho created it?\nLicences/restrictions?\nSize of dataset\nData types/description\nReal/synthetic data?"
+  },
+  {
+    "objectID": "contributor-docs/datasets.html#advice-and-recommendations",
+    "href": "contributor-docs/datasets.html#advice-and-recommendations",
+    "title": "Datasets",
+    "section": "Advice and recommendations",
+    "text": "Advice and recommendations\nHelp others to make good use of your recommended dataset. If you’ve had experience using a recommended dataset for your own teaching and learning, please consider creating an exercise for platform users to complete. If you encountered the dataset as part of a training course, competition or exercise created by a third party, make sure to give them a namecheck."
+  },
+  {
     "objectID": "publications/publications.html",
     "href": "publications/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers from our RC-42 community that advance knowledge and foster intellectual growth.\nWe will be populating this section with your input, please send your new publication (a DOI is enough) to isa-rc42@isa-sociology.org.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOn the Justice of Earnings: A New Specification of the Justice Evaluation Function\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 1978\n\n\nGuillermina Jasso\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to our research output section. Our mission is to disseminate high-quality, peer-reviewed papers from our RC-42 community that advance knowledge and foster intellectual growth.\nWe will be populating this section with your input, please send your new publication (a DOI is enough) to isa-rc42@isa-sociology.org.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOn the Justice of Earnings: A New Specification of the Justice Evaluation Function\n\n\n\n\n\n\njournal article\n\n\n\n\n\n\n\n\n\nMay 1, 1978\n\n\nGuillermina Jasso\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "CODE_OF_CONDUCT.html",
-    "href": "CODE_OF_CONDUCT.html",
-    "title": "Contributor Covenant Code of Conduct",
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "We as members, contributors, and leaders of Real World Data Science (RWDS) pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#our-pledge",
-    "href": "CODE_OF_CONDUCT.html#our-pledge",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders of Real World Data Science (RWDS) pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#our-standards",
-    "href": "CODE_OF_CONDUCT.html#our-standards",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "Our standards",
-    "text": "Our standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
-    "href": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "Enforcement responsibilities",
-    "text": "Enforcement responsibilities\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#scope",
-    "href": "CODE_OF_CONDUCT.html#scope",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "Scope",
-    "text": "Scope\nThis Code of Conduct applies within all community spaces (encompassing this site, our GitHub repository, our social media channels, and any RWDS-organised online and offline events). It also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\nNote that unless prior permission is agreed in writing with the editor of RWDS, only the editor and editorial board of RWDS may officially represent the community. Comment to the media must only be given by appointed representatives and must be approved by the RSS press office."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#enforcement",
-    "href": "CODE_OF_CONDUCT.html#enforcement",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "Enforcement",
-    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at rwds@rss.org.uk. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#enforcement-guidelines",
-    "href": "CODE_OF_CONDUCT.html#enforcement-guidelines",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "Enforcement guidelines",
-    "text": "Enforcement guidelines\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#attribution",
-    "href": "CODE_OF_CONDUCT.html#attribution",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "Attribution",
-    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+    "text": "Welcome to our research projects’ section. Our mission is to disseminate project grants from our RC-42 community that advance knowledge and foster intellectual growth.\nWe will be populating this section with your input, please send your new project (title, authors, abstract and time span) to isa-rc42@isa-sociology.org.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "feeds.html",
@@ -558,13 +558,6 @@
     "title": "RSS feeds",
     "section": "",
     "text": "Latest content\nrealworlddatascience.net/latest-content.xml\n\n\nCase studies\nrealworlddatascience.net/case-studies/index.xml\n\n\nIdeas\nrealworlddatascience.net/ideas/index.xml\n\n\nCareers\nrealworlddatascience.net/careers/index.xml\n\n\nViewpoints\nrealworlddatascience.net/viewpoints/index.xml"
-  },
-  {
-    "objectID": "board/board-members/mariane-weber/index.html",
-    "href": "board/board-members/mariane-weber/index.html",
-    "title": "Mariane Weber",
-    "section": "",
-    "text": "Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.\nMarianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.\nOne of her most significant contributions was her book “Wife and Mother in the Development of Law” (1907), where she examined the legal and social status of women through history. She argued for the recognition of women’s work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.\nIn addition to her academic work, Marianne Weber was actively involved in the women’s movement in Germany. She was a member of the Federation of German Women’s Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women’s educational opportunities, legal rights, and social positions.\nAfter Max Weber’s death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.\nMarianne Weber’s life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954."
   },
   {
     "objectID": "events/posts/isa-twitter/index.html",
@@ -579,19 +572,5 @@
     "title": "Events",
     "section": "",
     "text": "5th ISA Forum of Sociology\n\n\n\n\n\n\nnews\n\n\nsocialmedia\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nJulio Iturra\n\n\n\n\n\n\n\n\n\n\n\n\nISA on Twitter\n\n\n\n\n\n\nnews\n\n\nsocialmedia\n\n\n\n\n\n\n\n\n\nJun 24, 2024\n\n\nJulio Iturra\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/papers/paper-hub/example-paper.html",
-    "href": "publications/papers/paper-hub/example-paper.html",
-    "title": "On the Justice of Earnings: A New Specification of the Justice Evaluation Function",
-    "section": "",
-    "text": "Abstract\nThis paper describes a new specification of the justice evaluation function. It predicts precisely and unambiguously the kind of injustice (i.e., underreward or overreward) and the degree of injustice associated with given departures from perfect justice. The new justice evaluation function was inducted from extensive analyses of survey data on the perceived justice or injustice of earnings. It is directly generalizable to cover all socially distributed goods, and hence I propose it as a candidate for a universal Law of Justice Evaluation in distributional matters. Finally, I suggest that such a Law of Justice Evaluation performs one of the three tasks essential to a scientific theory of distributive justice."
-  },
-  {
-    "objectID": "projects/projects.html",
-    "href": "projects/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Welcome to our research projects’ section. Our mission is to disseminate project grants from our RC-42 community that advance knowledge and foster intellectual growth.\nWe will be populating this section with your input, please send your new project (title, authors, abstract and time span) to isa-rc42@isa-sociology.org.\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

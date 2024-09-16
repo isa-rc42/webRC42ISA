@@ -73,48 +73,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-events .list');
+    const listingTargetEl = window.document.querySelector('#listing-news .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-events'] = new List('listing-events', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-publications .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-publications'] = new List('listing-publications', options);
+    window['quarto-listings']['listing-news'] = new List('listing-news', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -261,11 +233,15 @@ window.Quarto = {
 <!-- ::: -->
 <!-- ::: -->
 <div class="content-container">
-<div class="listing-block">
-<p><a href="./events/events.html"></a></p><a href="./events/events.html">
-<h2 id="events">Events</h2>
-</a><p><a href="./events/events.html"></a></p>
-<div id="listing-events" class="quarto-listing quarto-listing-container-grid">
+<section id="news" class="listing-block">
+<h1>News</h1>
+<div id="listing-news" class="quarto-listing quarto-listing-container-grid">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="news,socialmedia" data-listing-date-sort="1720584000000" data-listing-file-modified-sort="1724697711000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
 <a href="./events/posts/isa-2025/index.html" class="quarto-grid-link">
@@ -277,6 +253,14 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 5th ISA Forum of Sociology
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('socialmedia'); return false;">
+socialmedia
+</div>
+</div>
 <div class="card-text listing-description">
 The 5th ISA Forum of Sociology will take place in Rabat, Morocco on July 6-11, 2025. This is the first ISA Forum to be held in the region and specifically in a country that…
 </div>
@@ -302,6 +286,14 @@ Jul 10, 2024
 <h5 class="no-anchor card-title listing-title">
 ISA on Twitter
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('socialmedia'); return false;">
+socialmedia
+</div>
+</div>
 <div class="card-text listing-description">
 ISA on X
 </div>
@@ -317,39 +309,8 @@ Jun 24, 2024
 </div>
 </a>
 </div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</div>
-</div>
-<div class="pullout-text">
-<div class="pullout-container">
-<div class="pullout-block black-background">
-<p><img src="images/quote-purple.png" class="img-fluid" width="100"></p>
-<h2 id="the-aim-of-rc42-is-to-contribute-to-the-development-of-theory-and-research-in-social-psychology-on-an-international-level-uniting-professional-and-scientific-interests-of-its-members-to-work-together-on-a-local-regional-and-international-level.">The aim of RC42 is to contribute to the development of theory and research in social psychology on an international level, uniting professional and scientific interests of its members to work together on a local, regional, and international level.</h2>
-</div>
-</div>
-</div>
-<!-- ::: {.content-container} -->
-<!-- ::: {.listing-block} -->
-<!-- <a href="about/index.qmd"> -->
-<!-- ## Board  -->
-<!-- </a> -->
-<!-- ::: {#board} -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-<div class="content-container">
-<div class="listing-block">
-<p><a href="./publications/publications.html"></a></p><a href="./publications/publications.html">
-<h2 id="publications">Publications</h2>
-</a><p><a href="./publications/publications.html"></a></p>
-<div id="listing-publications" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="262843200000" data-listing-file-modified-sort="1726249789937" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<a href="./publications/papers/paper-hub/example-paper.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="journal article" data-listing-date-sort="262843200000" data-listing-file-modified-sort="1726497760432" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
+<a href="./publications/posts/example-paper.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://www.journals.uchicago.edu/cms/10.1086/ajs.2024.130.issue-2/asset/19190819-7019-9081-e701-190819e70191/ajs.2024.130.issue-2.cover.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -358,6 +319,11 @@ No matching items
 <h5 class="no-anchor card-title listing-title">
 On the Justice of Earnings: A New Specification of the Justice Evaluation Function
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('journal article'); return false;">
+journal article
+</div>
+</div>
 <div class="card-text listing-description">
 This paper describes a new specification of the justice evaluation function. It predicts precisely and unambiguously the kind of injustice (i.e., underreward or overreward)…
 </div>
@@ -378,11 +344,30 @@ May 1, 1978
 No matching items
 </div>
 </div>
+</section>
+</div>
+<div class="section-text" style="color: white;">
+<div class="section-container darkblue-background">
+<div class="section-block">
+<div style="text-align: center; color: white;">
+<p><img src="images/quote-purple.png" class="img-fluid" width="100"></p>
+<h1 id="the-aim-of-rc42-is-to-contribute-to-the-development-of-theory-and-research-in-social-psychology-on-an-international-level-uniting-professional-and-scientific-interests-of-its-members-to-work-together-on-a-local-regional-and-international-level.">The aim of RC42 is to contribute to the development of theory and research in social psychology on an international level, uniting professional and scientific interests of its members to work together on a local, regional, and international level.</h1>
 </div>
 </div>
+</div>
+</div>
+<!-- ::: {.content-container} -->
+<!-- ::: {.listing-block} -->
+<!-- <a href="about/index.qmd"> -->
+<!-- ## Board  -->
+<!-- </a> -->
+<!-- ::: {#board} -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
 <div class="pullout-text">
 <div class="pullout-container">
-<div class="pullout-block black-background">
+<div class="pullout-block blue-background">
 <h2 id="history-of-isa">History of ISA</h2>
 <p><img src="images/quote-purple.png" class="img-fluid" width="100"></p>
 <h2 id="published-in-1998-on-the-occasion-of-the-50th-anniversary-of-the-foundation-of-the-international-sociological-association-this-is-a-first-book-publication-covering-various-aspects-of-isa-history.-illustrated-with-original-photographs-and-congress-posters-it-offers-an-attractive-overview-of-a-life-of-an-international-organization.-reading-the-history-of-the-isa-may-help-you-to-reflect-on-the-definitional-evolution-of-what-is-included-within-the-boundaries-of-sociology.">Published in 1998 on the occasion of the 50th anniversary of the foundation of the International Sociological Association, this is a first book publication covering various aspects of ISA history. Illustrated with original photographs and congress posters it offers an attractive overview of a life of an international organization. Reading the history of the ISA may help you to reflect on the definitional evolution of what is included within the boundaries of sociology.</h2>

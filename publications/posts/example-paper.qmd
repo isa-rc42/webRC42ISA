@@ -12,6 +12,7 @@ about:
       href: https://www.journals.uchicago.edu/doi/abs/10.1086/226706
     # (additional links excluded for brevity)
 title-block-banner: true
+categories: [journal article]
 ---
 
 # Abstract

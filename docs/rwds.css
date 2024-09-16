@@ -55,9 +55,9 @@
 }
 
 .navbar-nav .nav-link:hover {
-  color: #009fe3;
+  color: #ffffff;
   font-weight: 400;
-  background-color: #009fe3;
+  background-color: #02364d;
 }
 
 
@@ -1067,4 +1067,6 @@ pre code:not(.sourceCode) {
 }
 
 
-
+.white-text {
+  color: white;
+}
