@@ -46,7 +46,7 @@ title-block-banner: true
 :::
 ::::
 
-**Charles Puttergil (Board member)**
+**Charles Puttergill (Board member)**
 
 :::: {layout="[ 75, 25 ]"}
 
