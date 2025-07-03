@@ -1,5 +1,5 @@
 ---
-title: "Newsletter July 2025"
+title: "Newsletter June 2025"
 author: "Juan C. Castillo"
 description: "ISA RC$42 Newsletter"
 date: "2024-07-10"
@@ -9,7 +9,7 @@ image: "image.jpg"
 
 ![](image.jpg)
 
-# Newsletter July 2025
+# Newsletter June 2025
 
 You can find the latest newsletter of the International Sociological Association's Research Committee 42 on Social Psychology [here](https://www.isa-sociology.org/uploads/imgen/2238-rc42newsletter-june-2025.pdf).
 

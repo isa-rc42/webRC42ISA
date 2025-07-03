@@ -2,9 +2,9 @@
   {
     "listing": "/infos/infos.html",
     "items": [
+      "/infos/posts/isa-twitter/index.html",
       "/infos/posts/newsleterJune2025/index.html",
-      "/infos/posts/isa-2025/index.html",
-      "/infos/posts/isa-twitter/index.html"
+      "/infos/posts/isa-2025/index.html"
     ]
   },
   {
@@ -14,9 +14,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/infos/posts/isa-twitter/index.html",
       "/infos/posts/newsleterJune2025/index.html",
       "/infos/posts/isa-2025/index.html",
-      "/infos/posts/isa-twitter/index.html",
       "/publications/posts/example-paper.html"
     ]
   },
