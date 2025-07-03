@@ -1,6 +1,7 @@
 ---
 title: "5th ISA Forum of Sociology"
-author: "Julio Iturra"
+author: "Juan C. Castillo"
+description: "Knowing Justice in the Anthropocene"
 date: "2024-07-10"
 categories: [news, socialmedia]
 image: "image.png"

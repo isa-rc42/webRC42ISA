@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Latest content | Real World Data Science – RC42</title>
+<title>Infos – RC42</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/isa-favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/isa-favicon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -129,13 +129,11 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="rwds.css">
-<meta property="og:title" content="Latest content | Real World Data Science">
-<meta property="og:description" content="A panoramic view of Real World Data Science">
+<link rel="stylesheet" href="../rwds.css">
+<meta property="og:title" content="Infos – RC42">
 <meta property="og:image" content="images/rc42logo-blue.PNG">
 <meta property="og:site_name" content="RC42">
-<meta name="twitter:title" content="Latest content | Real World Data Science">
-<meta name="twitter:description" content="A panoramic view of Real World Data Science">
+<meta name="twitter:title" content="Infos – RC42">
 <meta name="twitter:image" content="images/rc42logo-blue.PNG">
 <meta name="twitter:site" content="@rwdatasci">
 <meta name="twitter:card" content="summary_large_image">
@@ -148,8 +146,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-sm " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/rc42logo-blue.png" alt="RC42-ISA" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/rc42logo-blue.png" alt="RC42-ISA" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -159,19 +157,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./infos/infos.html"> 
+    <a class="nav-link active" href="../infos/infos.html" aria-current="page"> 
 <span class="menu-text">Infos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications/publications.html"> 
+    <a class="nav-link" href="../publications/publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects/projects.html"> 
+    <a class="nav-link" href="../projects/projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./links/links.html"> 
+    <a class="nav-link" href="../links/links.html"> 
 <span class="menu-text">Links</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -180,11 +178,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./board/index.html">
+    <a class="dropdown-item" href="../board/index.html">
  <span class="dropdown-text">Board</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./members/index.html">
+    <a class="dropdown-item" href="../members/index.html">
  <span class="dropdown-text">Members</span></a>
   </li>  
     </ul>
@@ -200,8 +198,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Latest content</h1>
-            <p class="subtitle lead">A panoramic view of Real World Data Science</p>
+      <h1 class="title">Infos</h1>
                       </div>
   </div>
     
@@ -219,7 +216,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(3)</span></div><div class="category" data-category="newsletter">newsletter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="socialmedia">socialmedia <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -231,15 +228,116 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="news,newsletter" data-listing-date-sort="1720584000000" data-listing-file-modified-sort="1751557538664" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
+<div class="thumbnail">
+<p><a href="../infos/posts/newsleterJune2025/index.html" class="no-external"></a></p><a href="../infos/posts/newsleterJune2025/index.html" class="no-external">
+<p><img loading="lazy" src="../infos/posts/newsleterJune2025/image.jpg" class="thumbnail-image"></p>
+</a><p><a href="../infos/posts/newsleterJune2025/index.html" class="no-external"></a></p>
 </div>
-<div class="list grid quarto-listing-cols-3">
-
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../infos/posts/newsleterJune2025/index.html" class="no-external">Newsletter July 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../infos/posts/newsleterJune2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('newsletter'); return false;">
+newsletter
+</div>
+</div>
+<div class="listing-description">
+<a href="../infos/posts/newsleterJune2025/index.html" class="no-external">ISA RC$42 Newsletter</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../infos/posts/newsleterJune2025/index.html" class="no-external">
+<div class="listing-date">
+Jul 10, 2024
+</div>
+<div class="listing-author">
+Juan C. Castillo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="news,socialmedia" data-listing-date-sort="1720584000000" data-listing-file-modified-sort="1751556626593" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
+<div class="thumbnail">
+<p><a href="../infos/posts/isa-2025/index.html" class="no-external"></a></p><a href="../infos/posts/isa-2025/index.html" class="no-external">
+<p><img loading="lazy" src="../infos/posts/isa-2025/image.png" class="thumbnail-image"></p>
+</a><p><a href="../infos/posts/isa-2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../infos/posts/isa-2025/index.html" class="no-external">5th ISA Forum of Sociology</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../infos/posts/isa-2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('socialmedia'); return false;">
+socialmedia
+</div>
+</div>
+<div class="listing-description">
+<a href="../infos/posts/isa-2025/index.html" class="no-external">Knowing Justice in the Anthropocene</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../infos/posts/isa-2025/index.html" class="no-external">
+<div class="listing-date">
+Jul 10, 2024
+</div>
+<div class="listing-author">
+Juan C. Castillo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="news,socialmedia" data-listing-date-sort="1719201600000" data-listing-file-modified-sort="1751556976488" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="thumbnail">
+<p><a href="../infos/posts/isa-twitter/index.html" class="no-external"></a></p><a href="../infos/posts/isa-twitter/index.html" class="no-external">
+<p><img loading="lazy" src="../infos/posts/isa-twitter/image.png" class="thumbnail-image"></p>
+</a><p><a href="../infos/posts/isa-twitter/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../infos/posts/isa-twitter/index.html" class="no-external">ISA on Twitter</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../infos/posts/isa-twitter/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('socialmedia'); return false;">
+socialmedia
+</div>
+</div>
+<div class="listing-description">
+<a href="../infos/posts/isa-twitter/index.html" class="no-external">Follow the International Sociological Association on X (formerly Twitter)</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../infos/posts/isa-twitter/index.html" class="no-external">
+<div class="listing-date">
+Jun 24, 2024
+</div>
+<div class="listing-author">
+Juan C. Castillo
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -680,7 +778,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/isa-rc42/webRC42ISA/edit/main/latest-content.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/isa-rc42/webRC42ISA/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/isa-rc42/webRC42ISA/edit/main/infos/infos.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/isa-rc42/webRC42ISA/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p><a href="https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology">About RC42</a></p>
 </div>

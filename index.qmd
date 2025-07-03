@@ -12,7 +12,7 @@ image: images/rc42logo.png
 listing:
   - id: news
     contents:
-    - /events/posts
+    - /infos/posts
     - /publications/posts
     # - /careers
     # - /viewpoints

@@ -26,7 +26,7 @@ website:
     collapse-below: sm
     pinned: false
     right:
-      - events/events.qmd
+      - infos/infos.qmd
       - publications/publications.qmd
       - projects/projects.qmd
       - links/links.qmd

@@ -1,7 +1,8 @@
 ---
 title: "ISA on Twitter"
-author: "Julio Iturra"
-date: "2024-06-24"
+author: "Juan C. Castillo"
+description: "Follow the International Sociological Association on X (formerly Twitter)"
+date: "2025-07-03"
 categories: [news, socialmedia]
 image: "image.png"
 ---

@@ -1,0 +1,17 @@
+---
+title: "Newsletter July 2025"
+author: "Juan C. Castillo"
+description: "ISA RC$42 Newsletter"
+date: "2024-07-10"
+categories: [news, newsletter]
+image: "image.jpg"
+---
+
+![](image.jpg)
+
+# Newsletter July 2025
+
+You can find the latest newsletter of the International Sociological Association's Research Committee 42 on Social Psychology [here](https://www.isa-sociology.org/uploads/imgen/2238-rc42newsletter-june-2025.pdf).
+
+
+For submitting information for our next newsletter (publications, grants events & others), please send it [here](https://docs.google.com/forms/d/1NwPRE1PlUbnXxNFQnnc0r7TRJt-Ej3oPcYSPpJbCRpk/edit).

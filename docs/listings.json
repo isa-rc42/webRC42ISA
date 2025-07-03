@@ -1,9 +1,22 @@
 [
   {
+    "listing": "/infos/infos.html",
+    "items": [
+      "/infos/posts/newsleterJune2025/index.html",
+      "/infos/posts/isa-2025/index.html",
+      "/infos/posts/isa-twitter/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/projects.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
-      "/events/posts/isa-2025/index.html",
-      "/events/posts/isa-twitter/index.html",
+      "/infos/posts/newsleterJune2025/index.html",
+      "/infos/posts/isa-2025/index.html",
+      "/infos/posts/isa-twitter/index.html",
       "/publications/posts/example-paper.html"
     ]
   },
@@ -15,17 +28,6 @@
     "listing": "/publications/publications.html",
     "items": [
       "/publications/posts/example-paper.html"
-    ]
-  },
-  {
-    "listing": "/projects/projects.html",
-    "items": []
-  },
-  {
-    "listing": "/events/events.html",
-    "items": [
-      "/events/posts/isa-2025/index.html",
-      "/events/posts/isa-twitter/index.html"
     ]
   }
 ]
