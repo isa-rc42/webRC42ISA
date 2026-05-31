@@ -1,0 +1,63 @@
+---
+title: "Activities"
+description: "News, events, and initiatives of RC42."
+---
+
+::: {.section-header}
+## RC42 Activities
+Stay updated with our latest news, events, and opportunities.
+:::
+
+::: {.card-grid}
+
+::: {.card-rc42 .border-navy}
+::: {.card-title}
+News
+:::
+::: {.card-text}
+Latest announcements, board updates, and news from the RC42 community.
+:::
+[Read news →](../news/index.qmd){.card-link}
+:::
+
+::: {.card-rc42 .border-teal}
+::: {.card-title}
+Events
+:::
+::: {.card-text}
+Upcoming conferences, seminars, and workshops endorsed or organized by RC42.
+:::
+[View events →](../events/index.qmd){.card-link}
+:::
+
+::: {.card-rc42 .border-blue}
+::: {.card-title}
+Opportunities
+:::
+::: {.card-text}
+Calls for papers, academic positions, fellowships, and other professional opportunities.
+:::
+[Explore opportunities →](../opportunities/index.qmd){.card-link}
+:::
+
+::: {.card-rc42 .border-navy}
+::: {.card-title}
+ISA World Congress 2027
+:::
+::: {.card-text}
+Information regarding RC42's participation and sessions at the upcoming World Congress.
+:::
+[Learn more →](world-congress-2027.qmd){.card-link}
+:::
+
+::: {.card-rc42 .border-teal}
+::: {.card-title}
+Newsletter
+:::
+::: {.card-text}
+Access our archive of past newsletters containing reports, articles, and community updates.
+:::
+[Browse newsletter archive →](../newsletter/index.qmd){.card-link}
+:::
+
+:::

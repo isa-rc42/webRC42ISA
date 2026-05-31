@@ -1,0 +1,61 @@
+---
+title: "Resources"
+description: "Academic materials, publications, and tools shared by the RC42 community."
+---
+
+::: {.section-header}
+## RC42 Resources
+Academic and teaching materials from our international community.
+:::
+
+RC42 encourages the open exchange of academic resources among members to support teaching, research, and methodological innovation in sociological social psychology.
+
+::: {.card-grid}
+
+::: {.card-rc42 .border-navy}
+::: {.card-title}
+Publications
+:::
+::: {.card-text}
+Recent books, special journal issues, and significant articles published by our members.
+:::
+[Browse publications →](#publications){.card-link}
+:::
+
+::: {.card-rc42 .border-teal}
+::: {.card-title}
+Teaching Resources
+:::
+::: {.card-text}
+Syllabi, course outlines, and pedagogical materials for teaching social psychology.
+:::
+[Explore teaching materials →](#teaching){.card-link}
+:::
+
+::: {.card-rc42 .border-blue}
+::: {.card-title}
+Datasets & Tools
+:::
+::: {.card-text}
+Open datasets and methodological tools useful for comparative sociological research.
+:::
+[View tools →](#datasets){.card-link}
+:::
+
+::: {.card-rc42 .border-navy}
+::: {.card-title}
+Blog / Posts
+:::
+::: {.card-text}
+Short essays, reflections, and field notes written by RC42 members.
+:::
+[Read blog posts →](../blog/index.qmd){.card-link}
+:::
+
+:::
+
+---
+
+::: {.placeholder-notice}
+The resource repository is currently being assembled. To share a resource with the community, please use the [Submit Contribution](../participate/submit-contribution.qmd) form.
+:::

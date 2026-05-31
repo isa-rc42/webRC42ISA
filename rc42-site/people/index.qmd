@@ -1,0 +1,312 @@
+---
+toc: false
+title-block-style: none
+---
+
+```{=html}
+<div class="bp-page">
+
+  <!-- ====================== BOARD SECTION ====================== -->
+  <section class="bp-section">
+    <div class="bp-container">
+
+      <!-- Left column: intro -->
+      <aside class="bp-sidebar">
+        <span class="bp-kicker">LEADERSHIP</span>
+        <h1 class="bp-title">Board 2023–2027</h1>
+        <p class="bp-lead">
+          The current executive board coordinates RC42 initiatives, membership communication, and participation in International Sociological Association activities.
+        </p>
+        <div class="bp-sidebar-cta">
+          <a class="bp-btn-outline" href="/members/">Browse members directory</a>
+          <p class="bp-cta-sub">Explore the full RC42 membership network, including affiliations, countries, and available academic links.</p>
+        </div>
+        <div class="bp-past-boards">
+          <span>Looking for history?</span>
+          <a href="/past-boards/index.html" class="bp-past-link">View past boards since 1988 &rarr;</a>
+        </div>
+      </aside>
+
+      <!-- Right column: board panel -->
+      <div class="bp-panel">
+
+        <!-- Officers row -->
+        <div class="bp-officers-label">
+          <span class="bp-row-label">Officers</span>
+        </div>
+        <div class="bp-officers">
+
+          <!-- President -->
+          <article class="bp-card bp-card--officer" tabindex="0" id="card-castillo">
+            <div class="bp-card-header">
+              <div class="bp-photo-wrap">
+                <img class="bp-photo"
+                  src="https://conferencias.coes.cl/wp-content/uploads/2017/03/Juan-Carlos-Castillo_2-e1489158179229.jpg"
+                  alt="Portrait of Juan Carlos Castillo"
+                  onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="bp-avatar">JC</div>
+              </div>
+              <div class="bp-card-meta">
+                <span class="bp-role">President</span>
+                <h3 class="bp-name"><a href="https://jc-castillo.com/" target="_blank" rel="noopener noreferrer">Juan Carlos Castillo</a></h3>
+                <p class="bp-affil">Universidad de Chile, Chile</p>
+                <p class="bp-affil-note">Program Coordinator, XXI ISA World Congress 2027</p>
+              </div>
+              <button class="bp-toggle" aria-expanded="false" aria-controls="detail-castillo">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+              </button>
+            </div>
+            <div class="bp-detail" id="detail-castillo" hidden>
+              <p class="bp-bio">Professor at the Department of Sociology, Universidad de Chile, and Director of Research and Publications at the Faculty of Social Sciences. His work focuses on distributive justice, citizenship education, social cohesion, quantitative methods, multilevel models, structural equation modeling, and open science.</p>
+              <div class="bp-tags-block">
+                <span class="bp-tags-label">Research areas</span>
+                <div class="bp-tags">
+                  <span class="bp-tag">Distributive justice</span>
+                  <span class="bp-tag">Citizenship education</span>
+                  <span class="bp-tag">Social cohesion</span>
+                  <span class="bp-tag">Open science</span>
+                </div>
+              </div>
+              <a class="bp-ext-link" href="https://jc-castillo.com/" target="_blank" rel="noopener noreferrer">View profile &rarr;</a>
+            </div>
+          </article>
+
+          <!-- Secretary / Treasurer -->
+          <article class="bp-card bp-card--officer" tabindex="0" id="card-walker">
+            <div class="bp-card-header">
+              <div class="bp-photo-wrap">
+                <img class="bp-photo"
+                  src="http://pages.charlotte.edu/lisa-walker/wp-content/uploads/sites/23/2024/11/walker_lisa_5096c.jpg"
+                  alt="Portrait of Lisa Slattery Walker"
+                  onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="bp-avatar">LW</div>
+              </div>
+              <div class="bp-card-meta">
+                <span class="bp-role">Secretary / Treasurer</span>
+                <h3 class="bp-name">Lisa Slattery Walker</h3>
+                <p class="bp-affil">University of North Carolina at Charlotte, USA</p>
+              </div>
+              <button class="bp-toggle" aria-expanded="false" aria-controls="detail-walker">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+              </button>
+            </div>
+            <div class="bp-detail" id="detail-walker" hidden>
+              <p class="bp-bio">Professor of Sociology at UNC Charlotte. Her research focuses on small group interaction, nonverbal behaviors, identity, emotions, gender, expectations, and inequality processes in groups.</p>
+              <div class="bp-tags-block">
+                <span class="bp-tags-label">Research areas</span>
+                <div class="bp-tags">
+                  <span class="bp-tag">Small group interaction</span>
+                  <span class="bp-tag">Nonverbal behaviors</span>
+                  <span class="bp-tag">Identity &amp; emotions</span>
+                  <span class="bp-tag">Inequality processes</span>
+                </div>
+              </div>
+            </div>
+          </article>
+
+        </div><!-- /.bp-officers -->
+
+        <!-- Board Members row -->
+        <div class="bp-members-label">
+          <span class="bp-row-label">Board Members</span>
+        </div>
+        <div class="bp-members">
+
+          <!-- Charles Puttergill -->
+          <article class="bp-card bp-card--member" tabindex="0" id="card-puttergill">
+            <div class="bp-card-header">
+              <div class="bp-photo-wrap bp-photo-wrap--sm">
+                <img class="bp-photo"
+                  src="https://drupalwebprod-files.up.ac.za/Public/styles/responsive_1_1_600w/public/2026-05/Charles%20Puttergill%201%20%282%29.jpg?VersionId=5fI_xxA2nlT5xmEAUCwJm9AFBCwbGEWu&h=ec3aa346&itok=aRk2Jy25"
+                  alt="Portrait of Charles Puttergill"
+                  onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="bp-avatar">CP</div>
+              </div>
+              <div class="bp-card-meta">
+                <span class="bp-role">Board Member</span>
+                <h3 class="bp-name">Charles Puttergill</h3>
+                <p class="bp-affil">University of Pretoria, South Africa</p>
+              </div>
+              <button class="bp-toggle" aria-expanded="false" aria-controls="detail-puttergill">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+              </button>
+            </div>
+            <div class="bp-detail" id="detail-puttergill" hidden>
+              <p class="bp-bio">Senior Lecturer in Sociology at the University of Pretoria. His research interests include race, identity, methodology, urban sociology, demography, human rights, and social transition.</p>
+              <div class="bp-tags-block">
+                <span class="bp-tags-label">Research areas</span>
+                <div class="bp-tags">
+                  <span class="bp-tag">Race &amp; identity</span>
+                  <span class="bp-tag">Methodology</span>
+                  <span class="bp-tag">Urban sociology</span>
+                  <span class="bp-tag">Social transition</span>
+                </div>
+              </div>
+              <a class="bp-ext-link" href="https://orcid.org/0000-0002-8659-3454" target="_blank" rel="noopener noreferrer">View ORCID profile &rarr;</a>
+            </div>
+          </article>
+
+          <!-- Karla Henríquez Ojeda -->
+          <article class="bp-card bp-card--member" tabindex="0" id="card-henriquez">
+            <div class="bp-card-header">
+              <div class="bp-photo-wrap bp-photo-wrap--sm">
+                <img class="bp-photo"
+                  src="https://i1.rgstatic.net/ii/profile.image/11431281153740428-1682528347352_Q128/Karla-Henriquez-Ojeda.jpg"
+                  alt="Portrait of Karla Henríquez Ojeda"
+                  onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="bp-avatar">KH</div>
+              </div>
+              <div class="bp-card-meta">
+                <span class="bp-role">Board Member</span>
+                <h3 class="bp-name">Karla Henríquez Ojeda</h3>
+                <p class="bp-affil">Université catholique de Louvain, Belgium</p>
+              </div>
+              <button class="bp-toggle" aria-expanded="false" aria-controls="detail-henriquez">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+              </button>
+            </div>
+            <div class="bp-detail" id="detail-henriquez" hidden>
+              <p class="bp-bio">Researcher with a background in sociological social psychology and American studies. Her work focuses on activism, social movements, youth, subjectivation, emotions, memory, and Latin American political processes.</p>
+              <div class="bp-tags-block">
+                <span class="bp-tags-label">Research areas</span>
+                <div class="bp-tags">
+                  <span class="bp-tag">Activism</span>
+                  <span class="bp-tag">Social movements</span>
+                  <span class="bp-tag">Subjectivation</span>
+                  <span class="bp-tag">Latin American studies</span>
+                </div>
+              </div>
+            </div>
+          </article>
+
+          <!-- Deepak Kumar Verma -->
+          <article class="bp-card bp-card--member" tabindex="0" id="card-verma">
+            <div class="bp-card-header">
+              <div class="bp-photo-wrap bp-photo-wrap--sm">
+                <img class="bp-photo"
+                  src="https://isaconf.confex.com/data/image/isaconf/gmssi/Person_55816_image_987_0.jpg"
+                  alt="Portrait of Deepak Kumar Verma"
+                  onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+                <div class="bp-avatar">DV</div>
+              </div>
+              <div class="bp-card-meta">
+                <span class="bp-role">Board Member</span>
+                <h3 class="bp-name">Deepak Kumar Verma</h3>
+                <p class="bp-affil">Dr. B. R. Ambedkar University of Social Sciences, India</p>
+              </div>
+              <button class="bp-toggle" aria-expanded="false" aria-controls="detail-verma">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+              </button>
+            </div>
+            <div class="bp-detail" id="detail-verma" hidden>
+              <p class="bp-bio">Professor at Dr. B. R. Ambedkar University of Social Sciences. His academic work includes social psychology, social inequality, research methodology, social development, policy studies, and institutional leadership.</p>
+              <div class="bp-tags-block">
+                <span class="bp-tags-label">Research areas</span>
+                <div class="bp-tags">
+                  <span class="bp-tag">Social psychology</span>
+                  <span class="bp-tag">Social inequality</span>
+                  <span class="bp-tag">Research methodology</span>
+                  <span class="bp-tag">Policy studies</span>
+                </div>
+              </div>
+            </div>
+          </article>
+
+        </div><!-- /.bp-members -->
+
+      </div><!-- /.bp-panel -->
+
+    </div><!-- /.bp-container -->
+  </section>
+
+  <!-- ====================== DIRECTORY STRIP ====================== -->
+  <div class="bp-dir-strip">
+    <div class="bp-dir-inner">
+      <div class="bp-dir-text">
+        <h2>Members Directory</h2>
+        <p>Explore the full RC42 membership network — affiliations, countries, and academic links.</p>
+      </div>
+      <a class="bp-btn-primary" href="/members/">Browse members directory</a>
+    </div>
+  </div>
+
+</div><!-- /.bp-page -->
+```
+
+```{=html}
+<script>
+(function() {
+  function initBoard() {
+    var cards = document.querySelectorAll('.bp-card');
+
+    cards.forEach(function(card) {
+      var btn   = card.querySelector('.bp-toggle');
+      var ctrlId = btn ? btn.getAttribute('aria-controls') : null;
+      var detail = ctrlId ? document.getElementById(ctrlId) : null;
+
+      if (!btn || !detail) return;
+
+      function openCard() {
+        detail.removeAttribute('hidden');
+        btn.setAttribute('aria-expanded', 'true');
+        card.classList.add('bp-is-open');
+      }
+
+      function closeCard() {
+        detail.setAttribute('hidden', '');
+        btn.setAttribute('aria-expanded', 'false');
+        card.classList.remove('bp-is-open');
+      }
+
+      function toggleCard() {
+        if (card.classList.contains('bp-is-open')) {
+          closeCard();
+        } else {
+          // close all others
+          cards.forEach(function(c) {
+            var ob = c.querySelector('.bp-toggle');
+            var oid = ob ? ob.getAttribute('aria-controls') : null;
+            var od  = oid ? document.getElementById(oid) : null;
+            if (od) { od.setAttribute('hidden', ''); }
+            if (ob) { ob.setAttribute('aria-expanded', 'false'); }
+            c.classList.remove('bp-is-open');
+          });
+          openCard();
+        }
+      }
+
+      btn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        toggleCard();
+      });
+
+      card.addEventListener('keydown', function(e) {
+        if ((e.key === 'Enter' || e.key === ' ') && e.target === card) {
+          e.preventDefault();
+          toggleCard();
+        }
+      });
+    });
+
+    document.addEventListener('click', function(e) {
+      if (!e.target.closest('.bp-card')) {
+        cards.forEach(function(c) {
+          var ob = c.querySelector('.bp-toggle');
+          var oid = ob ? ob.getAttribute('aria-controls') : null;
+          var od  = oid ? document.getElementById(oid) : null;
+          if (od) { od.setAttribute('hidden', ''); }
+          if (ob) { ob.setAttribute('aria-expanded', 'false'); }
+          c.classList.remove('bp-is-open');
+        });
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initBoard);
+  } else {
+    initBoard();
+  }
+})();
+</script>
+```

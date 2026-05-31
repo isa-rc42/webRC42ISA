@@ -1,0 +1,251 @@
+---
+pagetitle: "ISA RC42 Social Psychology — Home"
+toc: false
+page-layout: custom
+---
+
+::: {.hero-fullbleed}
+::: {.hero-overlay}
+:::
+::: {.hero-inner}
+::: {.hero-kicker}
+Research Committee 42 · Established in 1988
+:::
+<h1 class="hero-title">RC42 Social Psychology</h1>
+::: {.hero-subtitle}
+International Sociological Association
+:::
+::: {.hero-body}
+A global research committee connecting scholars interested in identities, interaction, culture, inequality, collective life and the sociological study of social psychology.
+:::
+::: {.hero-actions}
+[Join RC42](membership/index.qmd){.btn-rc42-primary .btn-sm}
+:::
+:::
+:::
+
+<!-- ================================================================ -->
+<!-- What RC42 Does (Editorial Split Layout) -->
+<!-- ================================================================ -->
+
+::: {.home-section .section-white .home-mission}
+::: {.section-inner .section-wide}
+
+::: {.editorial-layout}
+::: {.editorial-intro}
+::: {.section-kicker}
+Mission
+:::
+<h2>What RC42 Does</h2>
+<p class="editorial-intro-text">
+RC42 fosters international research, debate, and collaboration in sociological social psychology. Our network bridges regions and research traditions to deepen our understanding of the relationship between social structures and individual experience.
+</p>
+[About our history](about/index.qmd#history){.btn-rc42-secondary}
+:::
+
+::: {.editorial-list}
+::: {.editorial-list-item}
+::: {.item-number}
+01
+:::
+::: {.item-content}
+<h3>International Research Network</h3>
+<p>Connecting scholars across regions to study identities, interaction, emotions, attitudes, and collective life.</p>
+[Membership Directory →](members/index.qmd)
+:::
+:::
+
+::: {.editorial-list-item}
+::: {.item-number}
+02
+:::
+::: {.item-content}
+<h3>Scientific Exchange</h3>
+<p>Supporting comparative research, theoretical development, and methodological discussion within the discipline.</p>
+[View objectives →](about/index.qmd#objectives)
+:::
+:::
+
+::: {.editorial-list-item}
+::: {.item-number}
+03
+:::
+::: {.item-content}
+<h3>Events & Congresses</h3>
+<p>Organizing sessions and academic exchanges around the ISA World Congress, ISA Forum, and other global spaces.</p>
+[Upcoming events →](events/index.qmd)
+:::
+:::
+
+::: {.editorial-list-item}
+::: {.item-number}
+04
+:::
+::: {.item-content}
+<h3>Newsletters & Resources</h3>
+<p>Circulating newsletters, calls, publications, teaching materials, and resources relevant to our members.</p>
+[Read the newsletter →](newsletter/index.qmd)
+:::
+:::
+:::
+:::
+
+:::
+:::
+
+<!-- ================================================================ -->
+<!-- Board Highlight (Leadership Layout) -->
+<!-- ================================================================ -->
+
+::: {.home-leadership}
+::: {.section-inner .leadership-layout}
+
+::: {.leadership-intro}
+::: {.section-kicker}
+Leadership
+:::
+<h2>Board 2023–2027</h2>
+<p class="editorial-intro-text">
+The current executive board coordinates RC42 initiatives, membership communication, and our active participation in International Sociological Association activities.
+</p>
+[View full board details](people/index.qmd){.btn-rc42-secondary}
+:::
+
+::: {.leadership-list}
+
+::: {.leadership-entry}
+<p class="role">President</p>
+<div>
+<h3><a href="https://jc-castillo.com/">Juan Carlos Castillo</a></h3>
+<p>Universidad de Chile, Chile</p>
+<p>Program Coordinator for the XXI ISA World Congress of Sociology 2027.</p>
+</div>
+:::
+
+::: {.leadership-entry}
+<p class="role">Secretary / Treasurer</p>
+<div>
+<h3>Lisa Slattery Walker</h3>
+<p>University of North Carolina at Charlotte, USA</p>
+</div>
+:::
+
+::: {.board-members-compact}
+<p class="role">Board Members</p>
+<ul>
+<li><strong>Charles Puttergill</strong> · University of Pretoria, South Africa</li>
+<li><strong>Karla Henríquez Ojeda</strong> · Université catholique de Louvain, Belgium</li>
+<li><strong>Deepak Kumar Verma</strong> · Dr. B. R. Ambedkar University of Social Sciences, India</li>
+</ul>
+:::
+
+:::
+
+:::
+:::
+
+<!-- ================================================================ -->
+<!-- Latest Updates (Newsroom Layout) -->
+<!-- ================================================================ -->
+
+::: {.home-section .section-white}
+::: {.section-inner .section-wide}
+
+::: {.updates-layout}
+::: {.updates-intro}
+::: {.section-kicker}
+Updates
+:::
+<h2>Latest from RC42</h2>
+<p class="editorial-intro-text">
+Official announcements, upcoming events, calls for papers, and recent publications from the committee and our members.
+</p>
+[Browse all activities](activities/index.qmd){.btn-rc42-secondary}
+:::
+
+::: {.updates-list}
+::: {.update-row}
+<div class="update-category">Latest News</div>
+<h3 class="update-title"><a href="news/posts/welcome/index.qmd">Welcome to the RC42 Digital Portal</a></h3>
+<p class="update-excerpt">We are launching a new complementary digital portal to enhance communication, visibility, and collaboration among members worldwide.</p>
+:::
+
+::: {.update-row}
+<div class="update-category">Upcoming Event</div>
+<h3 class="update-title"><a href="events/index.qmd">XXI ISA World Congress of Sociology 2027</a></h3>
+<p class="update-excerpt">RC42 will participate with sessions coordinated by Juan Carlos Castillo. Detailed session information will be published as it becomes available.</p>
+:::
+
+::: {.update-row}
+<div class="update-category">Calls & Opportunities</div>
+<h3 class="update-title"><a href="opportunities/index.qmd">No Current Calls</a></h3>
+<p class="update-excerpt">No active calls are listed at this moment. New academic opportunities will appear here as they are shared by the committee.</p>
+:::
+:::
+:::
+
+:::
+:::
+
+<!-- ================================================================ -->
+<!-- Member Directory CTA -->
+<!-- ================================================================ -->
+
+::: {.member-network-cta .member-network-video-section}
+
+```{=html}
+<video class="member-network-video-bg" autoplay muted loop playsinline>
+  <source src="images/backgrounds/member-network.mp4" type="video/mp4">
+</video>
+<div class="member-network-video-overlay"></div>
+```
+
+::: {.section-inner .member-network-content}
+::: {.section-kicker}
+MEMBERSHIP NETWORK
+:::
+<h2>Explore the RC42 international member network</h2>
+<p>
+  Discover scholars working across regions, institutions, and research traditions
+  in sociological social psychology.
+</p>
+::: {.cta-buttons}
+[Browse members](members/index.qmd){.btn-rc42-primary}
+:::
+:::
+
+:::
+
+<!-- ================================================================ -->
+<!-- Participate (Action List) -->
+<!-- ================================================================ -->
+
+::: {.home-participate .compact-participate}
+::: {.section-inner .participate-compact-layout}
+
+::: {.participate-heading}
+::: {.section-kicker}
+Engage
+:::
+<h2>Participate in RC42</h2>
+<p>Share profiles, news, events, calls, and resources with the RC42 community.</p>
+:::
+
+::: {.participate-actions}
+<article>
+  <h3>Submit a Contribution</h3>
+  <p>Send news, events, calls, publications, or resources for editorial review.</p>
+  <a href="participate/submit-contribution.qmd">Submit content &rarr;</a>
+</article>
+
+<article>
+  <h3>Discussion Spaces</h3>
+  <p>Future discussion spaces may open if sustained participation emerges.</p>
+  <a href="discussions/index.qmd">Learn more &rarr;</a>
+</article>
+:::
+
+:::
+:::
+
+
